@@ -641,7 +641,7 @@
         "healthpaneltip": "Panel Zdrowia",
         "inventorylisttip": "Pokaż listę wszystkich trzymanych przedmiotów/pojemników",
         "combinetip": "Trzymaj dwie rzeczy takiego samego rodzaju w obu rękach by połączyć ich kondycje\nTylko sie zalicza do tych przedmiotów które można łączyć",
-        "combineable": "Da się łączyć"
+        "combineable": "Da się łączyć",
         "marble": "Marmur",
         "limestone": "Wapień"
     },
