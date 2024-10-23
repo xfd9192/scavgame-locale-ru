@@ -1,5 +1,7 @@
 {
     "name": "Polski",
+    "replaceAllFonts": false,
+    "replaceSpecialFonts": false,
     "outdated": false,
     "main": {
         "bandage": "Bandaż",
