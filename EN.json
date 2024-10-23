@@ -241,7 +241,11 @@
         "bellyarmor": "Belly armor",
         "bellyarmordsc": "A big piece of metal, made to be strapped on your abdomen. Provides great protection, and some isolation.",
         "belt": "Belt",
-        "beltdsc": "A leather belt to go over your belly. You could attach something to it."
+        "beltdsc": "A leather belt to go over your belly. You could attach something to it.",
+        "metabolismchip": "Metabolism chip",
+        "metabolismchipdsc": "A chip that slightly increases your metabolism, making your limbs regenerate, using more hunger to do so.",
+        "heatingchip": "Heating chip",
+        "heatingchipdsc": "A chip that increases your body temperature considerably."
     },
     "buildings": {
         "animalcorpse": "Animal corpse",
