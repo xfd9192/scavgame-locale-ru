@@ -1,5 +1,7 @@
 {
     "name": "English",
+    "replaceAllFonts": false,
+    "replaceSpecialFonts": false,
     "outdated": false,
     "main": {
         "bandage": "Bandage",
