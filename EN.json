@@ -648,7 +648,9 @@
         "discretionwarning": "This game contains depictions of violence/self harm",
         "healthpaneltip": "Health panel",
         "inventorylisttip": "Show list of all held items/containers",
+        "inventorylisttipname": "Inventory list",
         "combinetip": "Hold two of the same item in both hands to combine their durabilities\nOnly applies to combineable items",
+        "combinetipname": "Combine",
         "combineable": "Combineable"
     },
     "character": [
