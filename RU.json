@@ -648,9 +648,9 @@
         "discretionwarning": "Эта игра содержит изображения насилия/самоповреждения",
         "healthpaneltip": "Панель здоровья",
         "inventorylisttip": "Показать список всех удерживаемых предметов/контейнеров",
-        "inventorylisttipname": "Inventory list",
+        "inventorylisttipname": "Инвентарь",
         "combinetip": "Держите два одинаковых предмета в обеих руках, чтобы объединить их прочность\nТолько для комбинируемых предметов",
-        "combinetipname": "Combine",
+        "combinetipname": "Комбинировать",
         "combineable": "Комбинируемо"
     },
     "character": [
