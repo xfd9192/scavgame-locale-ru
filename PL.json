@@ -247,7 +247,7 @@
         "heatingchip": "Czip ogrzewający",
         "heatingchipdsc": "Czip który nieźle zwiększa temperaturę twojego ciała.",
         "jetpack": "Plecak odrzutowy",
-        "jetpackdsc": "Urządzenie noszone jak plecak które używa silników odrzutowych do napędzania użytkownika w powietrzu. Ma limitowane paliwo. Przytrzymaj W by użyć."
+        "jetpackdsc": "Urządzenie noszone jak plecak które używa silników odrzutowych do napędzania użytkownika w powietrzu. Ma limitowane paliwo. Przytrzymaj W by użyć i A/D by sterować."
     },
     "buildings": {
         "animalcorpse": "Zwłoki zwierzęce",
