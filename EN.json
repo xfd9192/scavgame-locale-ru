@@ -245,7 +245,9 @@
         "metabolismchip": "Metabolism chip",
         "metabolismchipdsc": "A chip that slightly increases your metabolism, making your limbs regenerate, using more hunger to do so.",
         "heatingchip": "Heating chip",
-        "heatingchipdsc": "A chip that increases your body temperature considerably."
+        "heatingchipdsc": "A chip that increases your body temperature considerably.",
+        "jetpack": "Jetpack",
+        "jetpackdsc": "A device worn as a backpack which uses jets to propel the wearer through the air. Has limited fuel. Hold W to use and A/D to steer."
     },
     "buildings": {
         "animalcorpse": "Animal corpse",
@@ -1248,7 +1250,7 @@
                 "From one thing to another...",
                 "Things better straighten up...",
                 "Fuck this... Ugh!",
-                "Moral's low.",
+                "Morale's low.",
                 "Ugh!",
                 "I'm in the dumps.",
                 "I feel really down.",
