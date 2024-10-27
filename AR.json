@@ -1,7 +1,7 @@
 {
    "name": "العربية",
-   "replaceAllFonts": true,
-   "replaceSpecialFonts": true,
+   "replaceAllFonts": false,
+   "replaceSpecialFonts": false,
    "outdated": false,
    "main": {
       "bandage": "ضمادة",
