@@ -245,7 +245,9 @@
         "metabolismchip": "Czip metabolizmu",
         "metabolismchipdsc": "Czip który lekko przyśpiesza twój metabolism, sprawiając że twoje kończyny się regenerują, wymagając większego nasycenia.",
         "heatingchip": "Czip ogrzewający",
-        "heatingchipdsc": "Czip który nieźle zwiększa temperaturę twojego ciała."
+        "heatingchipdsc": "Czip który nieźle zwiększa temperaturę twojego ciała.",
+        "jetpack": "Plecak odrzutowy",
+        "jetpackdsc": "Urządzenie noszone jak plecak które używa silników odrzutowych do napędzania użytkownika w powietrzu. Ma limitowane paliwo. Przytrzymaj W by użyć."
     },
     "buildings": {
         "animalcorpse": "Zwłoki zwierzęce",
