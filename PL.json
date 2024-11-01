@@ -1255,7 +1255,10 @@
                 "Naprawdę sie boje...",
                 "Jebać to, kurde... ugh...",
                 "Naprawdę chcę jakieś wyjście z tąd.",
-                "Jestem nieszczęśliwy."
+                "Jestem nieszczęśliwy.",
+                "Nie chce mi się...",
+                "Czemu jest tak jak jest?",
+                "Po co..."
             ],
             "depressed": [
                 "Nie mogę tego już więcej znieść.",
@@ -1285,7 +1288,7 @@
                 "...Nie....W porządku....",
                 "Czuje się naprawdę okropnie.",
                 "KURDE!",
-                "Chce mi się płakać...",
+                "Chcę mi się płakać...",
                 "Mógłbym po prostu się położyć i umrzeć na miejscu.",
                 "Naprawdę sobie nie radzę...",
                 "Jest... tu tak BARDZO samotnie...",
@@ -1307,7 +1310,10 @@
                 "To wszystko jest cholernie odrażające",
                 "Życie mnie nienawidzi.",
                 "AAAHHH!!",
-                "Hahahaha..."
+                "Hahahaha...",
+                "Po prostu mi się już nie chce.",
+                "Jaki jest sens pójścia dalej?",
+                "Pomocy...? Ktokolwiek..? Proszę..."
             ],
             "miserable": [
                 "Chcę zakończyć moje życie.",
@@ -1342,7 +1348,7 @@
                 "CZEMU!?",
                 "AAAHHHHHHH!",
                 "POMOCY!!! PROSZĘ!",
-                "TO JEST KURWA ZA DUŻO",
+                "TO JEST KURWA ZA DUŻO.",
                 "Ahahahah...",
                 "Hmph.",
                 "Czyż to nie jest kurwa po prostu cudowne?",
@@ -1355,7 +1361,11 @@
                 "Hahaha...",
                 "Ooooo chłopie...",
                 "To wszystko się niedługo skończy. Przysięgam.",
-                "Moja jebana NIENAWIŚĆ dla tego wszystkiego jest niewyobrażalna."
+                "Moja jebana NIENAWIŚĆ dla tego wszystkiego jest niewyobrażalna.",
+                "To już kurwa nie ma sensu.",
+                "Mam nadzieję coś w tej jebanej jaskinii rozerwie mnie na strzępy, albo ja to zrobię.",
+                "Chciałbym zobaczyć jak krwawię.",
+                "Ja już kurwa nie wytrzymam no nie wytrzymam no ile można."
             ],
             "selfharm": [
                 "Hahahaha...",
@@ -1383,7 +1393,8 @@
                 "Nie potrzebuje tej skóry... Ggrhh...",
                 "K-kurwa... Ahahaha...",
                 "Doooobrzee.... Mmmh...",
-                "Może się zabiję przy tym następnym razem."
+                "Może się zabiję przy tym następnym razem.",
+                "Zasługuje na to."
             ],
             "suicide": [
                 "Do zobaczenia. Do zobaKURWAczenia. Ja MAM DOSYĆ!!! PIERDOLIĆ TO WSZYSTKO!",
