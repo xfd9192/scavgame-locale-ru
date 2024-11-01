@@ -1,4 +1,4 @@
-{
+can{
     "name": "Polski",
     "replaceAllFonts": false,
     "replaceSpecialFonts": false,
@@ -294,7 +294,7 @@
         "LifePodLight": "Światło",
         "LifePodLightdsc": "",
         "medcrate": "Skrzynia medyczna",
-        "medcratedsc": "Ma przybory medyczne w niej.",
+        "medcratedsc": "Ma przybory medyczne w sobie.",
         "medicalstation": "Stacja medyczna",
         "medicalstationdsc": "Mimo że wygląda jakby straciła już swój cel, nadal może ci sprawić jednorazową dawkę dobroci.",
         "mushplant": "Papkoroślina",
