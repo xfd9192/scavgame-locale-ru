@@ -320,7 +320,12 @@
         "TurbulentCrystal": "Cristal turbulente",
         "TurbulentCrystaldsc": "Está tremendo um pouco.",
         "turret": "Torreta",
-        "turretdsc": "Parece ter um tipo de detector nisso."
+        "turretdsc": "Parece ter um tipo de detector nisso.",
+        "stalagmite": "Estalagmite",
+        "stalagmitedsc": "Aliviante, seu ápice é arredondado.",
+        "stalactite": "Estalactite",
+        "stalactitedsc": "Parece estar frouxamente conectado no teto.",
+        "stalactitedscdropped": "Isto esta, de fato, não mais conectado no teto."
     },
     "moodles": {
         "dead": "Morto",
@@ -607,7 +612,7 @@
         "paneltip": "Aperte ESC para abrir e fechar esse painel",
         "restedamount": "% descansado",
         "brainhealthamount": "% saúde cerebral",
-        "unarmed": "Desarmado",
+        "unarmed": "Nada",
         "container": "Contêiner",
         "itemcapacity": "capacidade de itens",
         "containerconditionloss": "% de condição perdida por minuto enquanto usado",
@@ -648,12 +653,17 @@
         "mp3play": "tocando agora: ",
         "medstationcheer": "Obrigado por utilisar nossos serviços!",
         "discretionwarning": "Esse jogo contêm representações de violência e auto-mutilação",
-        "healthpaneltip": "Painel de saúde",
+        "healthpaneltip": "Painel de saúde (R)",
         "inventorylisttip": "Mostrar lista de todos os items e contêiners segurados",
-        "inventorylisttipname": "Lista de inventário",
+        "inventorylisttipname": "Lista de inventário (TAB)",
         "combinetip": "Segure dois do mesmo item em ambas as mãos para combinar suas durabilidades\nSó aplica para itens combináveis",
         "combinetipname": "Combinar",
-        "combineable": "Combinável"
+        "combineable": "Combinável",
+        "speed1": "Normal",
+        "speed2": "Rápido",
+        "speed3": "Muito rápido",
+        "speed4": "Super rápido",
+        "napinfo": "(Incapaz de dormir se com dores ou muito doente)"
     },
     "character": [
         {
