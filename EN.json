@@ -607,7 +607,7 @@
         "paneltip": "Press ESCAPE to open/close this panel",
         "restedamount": "% rested",
         "brainhealthamount": "% brain health",
-        "unarmed": "Unarmed",
+        "unarmed": "None",
         "container": "Container",
         "itemcapacity": "item capacity",
         "containerconditionloss": "% condition loss/minute when used",
