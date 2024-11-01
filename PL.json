@@ -321,6 +321,11 @@
         "TurbulentCrystaldsc": "Lekko drży.",
         "turret": "Działko",
         "turretdsc": "Wygląda na to, że ma jakiś czujnik na sobie."
+        "stalagmite": "Stalagmit",
+        "stalagmitedsc": "Na twoje szczęście, jego wierzchołek jest zaokrąglony.",
+        "stalactite": "Stalaktyt",
+        "stalactitedsc": "Wygląda na luźne przymocowany do sufitu.",
+        "stalactitedscdropped": "W rzeczy samej, nie jest już przymocowany do sufitu."
     },
     "moodles": {
         "dead": "Martwy",
@@ -549,6 +554,8 @@
         "clay": "Glina",
         "soil": "Gleba",
         "granite": "Granit",
+        "marble": "Marmur",
+        "limestone": "Wapień",
         "Head": "Głowa",
         "UpTorso": "Klatka Piersiowa",
         "DownTorso": "Brzuch",
@@ -646,14 +653,17 @@
         "mp3play": "teraz gra: ",
         "medstationcheer": "Dziękuję za używanie naszych usług!",
         "discretionwarning": "Ta gra zawiera przedstawienia przemocy i samo-kaleczenia",
-        "healthpaneltip": "Panel Zdrowia",
+        "healthpaneltip": "Panel Zdrowia (R)",
         "inventorylisttip": "Pokaż listę wszystkich trzymanych przedmiotów/pojemników",
-        "inventorylisttipname": "Lista ekwipunku",
+        "inventorylisttipname": "Lista ekwipunku (TAB)",
         "combinetip": "Trzymaj dwie rzeczy takiego samego rodzaju w obu rękach by połączyć ich kondycje\nTylko sie zalicza do tych przedmiotów które można łączyć",
         "combinetipname": "Połącz",
         "combineable": "Da się łączyć",
-        "marble": "Marmur",
-        "limestone": "Wapień"
+        "speed1": "Normalny",
+        "speed2": "Szybki",
+        "speed3": "Bardzo szybki",
+        "speed4": "Super szybki",
+        "napinfo": "(Nie może spać jeśli w bólu, bądź bardzo chory)"
     },
     "character": [
         {
