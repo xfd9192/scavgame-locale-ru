@@ -19,7 +19,7 @@
         "morphine": "Morphine",
         "morphinedsc": "A strong opiate. Provides body-wide pain relief, and slows mental activity. Overdose at ~90%.",
         "makeshiftlrd": "Makeshift L.R.D.",
-        "makeshiftlrddsc": "A makeshift Localized Resuscitation Device. Looks like it's taped together. Increases the muscle health and strongly reduces of infection of the limb it's used on, AND any directly adjacent limbs.",
+        "makeshiftlrddsc": "A makeshift Localized Resuscitation Device. Looks like it's taped together. Increases the muscle health and strongly reduces infection of the limb it's used on, AND any directly adjacent limbs.",
         "lrd": "L.R.D.",
         "lrddsc": "A Localized Resuscitation Device, made to easily provide effective general trauma care. Increases limb health, removes infection, slows bleeding, provides pain relieving drugs and disinfects the limb it's used on, along with any adjacent limbs.",
         "opium": "Opium",
@@ -320,7 +320,12 @@
         "TurbulentCrystal": "Turbulent Crystal",
         "TurbulentCrystaldsc": "It's jittering slightly.",
         "turret": "Turret",
-        "turretdsc": "Seems to have some sort of detector on it."
+        "turretdsc": "Seems to have some sort of detector on it.",
+        "stalagmite": "Stalagmite",
+        "stalagmitedsc": "Relievingly, its apex is rounded.",
+        "stalactite": "Stalactite",
+        "stalactitedsc": "It seems loosely connected to the ceiling.",
+        "stalactitedscdropped": "It, in fact, is no longer connected to the ceiling."
     },
     "moodles": {
         "dead": "Deceased",
@@ -607,7 +612,7 @@
         "paneltip": "Press ESCAPE to open/close this panel",
         "restedamount": "% rested",
         "brainhealthamount": "% brain health",
-        "unarmed": "Unarmed",
+        "unarmed": "None",
         "container": "Container",
         "itemcapacity": "item capacity",
         "containerconditionloss": "% condition loss/minute when used",
@@ -648,12 +653,17 @@
         "mp3play": "now playing: ",
         "medstationcheer": "Thanks for using our services!",
         "discretionwarning": "This game contains depictions of violence/self harm",
-        "healthpaneltip": "Health panel",
+        "healthpaneltip": "Health panel (R)",
         "inventorylisttip": "Show list of all held items/containers",
-        "inventorylisttipname": "Inventory list",
+        "inventorylisttipname": "Inventory list (TAB)",
         "combinetip": "Hold two of the same item in both hands to combine their durabilities\nOnly applies to combineable items",
         "combinetipname": "Combine",
-        "combineable": "Combineable"
+        "combineable": "Combineable",
+        "speed1": "Normal",
+        "speed2": "Fast",
+        "speed3": "Very fast",
+        "speed4": "Super fast",
+        "napinfo": "(Can't sleep if in pain or very sick)"
     },
     "character": [
         {
