@@ -320,7 +320,12 @@
         "TurbulentCrystal": "Турбулентный кристалл",
         "TurbulentCrystaldsc": "Слегка дрожит.",
         "turret": "Турель",
-        "turretdsc": "Судя по всему на них находится какой-то детектор."
+        "turretdsc": "Судя по всему на них находится какой-то детектор.",
+        "stalagmite": "Stalagmite",
+        "stalagmitedsc": "Relievingly, its apex is rounded.",
+        "stalactite": "Stalactite",
+        "stalactitedsc": "It seems loosely connected to the ceiling.",
+        "stalactitedscdropped": "It, in fact, is no longer connected to the ceiling."
     },
     "moodles": {
         "dead": "Смерть",
@@ -648,12 +653,17 @@
         "mp3play": "теперь играет: ",
         "medstationcheer": "Спасибо, что воспользовались нашими услугами!",
         "discretionwarning": "Эта игра содержит изображения насилия/самоповреждения",
-        "healthpaneltip": "Панель здоровья",
+        "healthpaneltip": "Панель здоровья (R)",
         "inventorylisttip": "Показать список всех удерживаемых предметов/контейнеров",
-        "inventorylisttipname": "Инвентарь",
+        "inventorylisttipname": "Инвентарь (TAB)",
         "combinetip": "Держите два одинаковых предмета в обеих руках, чтобы объединить их прочность\nТолько для комбинируемых предметов",
         "combinetipname": "Комбинировать",
-        "combineable": "Комбинируемо"
+        "combineable": "Комбинируемо",
+        "speed1": "Нормально",
+        "speed2": "Быстро",
+        "speed3": "Очень быстро",
+        "speed4": "Супер быстро",
+        "napinfo": "(Нельзя спать пока ты чувствуешь боль, или сильную тошноту)"
     },
     "character": [
         {
