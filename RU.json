@@ -321,11 +321,11 @@
         "TurbulentCrystaldsc": "Слегка дрожит.",
         "turret": "Турель",
         "turretdsc": "Судя по всему на них находится какой-то детектор.",
-        "stalagmite": "Stalagmite",
-        "stalagmitedsc": "Relievingly, its apex is rounded.",
-        "stalactite": "Stalactite",
-        "stalactitedsc": "It seems loosely connected to the ceiling.",
-        "stalactitedscdropped": "It, in fact, is no longer connected to the ceiling."
+        "stalagmite": "Сталагмит",
+        "stalagmitedsc": "К счастью, его вершина не острая.",
+        "stalactite": "Сталактит",
+        "stalactitedsc": "Он кажется слабо прикреплённым к потолку.",
+        "stalactitedscdropped": "Что ж, больше не прикреплён к потолку."
     },
     "moodles": {
         "dead": "Смерть",
