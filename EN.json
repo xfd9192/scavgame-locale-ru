@@ -549,10 +549,10 @@
         "happy4dsc": "You're at the top of the world, shaping the way forward at your will. Nothing can stop you!",
         "impairedspeechdsc": "Something is making speaking difficult...",
         "autopumpdsc": "Oxygen and awareness levels kept at sustainable levels by a life support machine. Time remaining: <>",
-        "encumbered1dsc": "Carrying a bit much for comfort. <> encumberance.",
-        "encumbered2dsc": "Carrying too much. Stamina and mobility decreased. <> encumberance.",
-        "encumbered3dsc": "Carrying way too much. Stamina and mobility highly decreased. <> encumberance.",
-        "encumbered4dsc": "Practically unable to move. Carrying WAY, way too much. <> encumberance."
+        "encumbered1dsc": "Carrying a bit much for comfort. <> encumbrance.",
+        "encumbered2dsc": "Carrying too much. Stamina and mobility decreased. <> encumbrance.",
+        "encumbered3dsc": "Carrying way too much. Stamina and mobility highly decreased. <> encumbrance.",
+        "encumbered4dsc": "Practically unable to move. Carrying WAY, way too much. <> encumbrance."
     },
     "other": {
         "layertitle1": "Gravel lands",
@@ -641,7 +641,7 @@
         "containerconditionloss": "% condition loss/minute when used",
         "conditionloss": "% condition loss/minute",
         "containerlarge": "Can store large items",
-        "containerencumberance": "Encumberance",
+        "containerencumberance": "Encumbrance reduction",
         "nodecay": "Doesn't decay",
         "weight": "Weight",
         "carrying": "Carrying",
