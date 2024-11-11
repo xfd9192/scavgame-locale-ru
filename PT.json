@@ -644,7 +644,7 @@
         "containerencumberance": "Redução de sobrecarga",
         "nodecay": "Não apodrece",
         "weight": "Peso",
-        "carrying": "Carregando"
+        "carrying": "Carregando",
         "itemusablehand": "Usável a mão",
         "itemusablewound": "Usável no painel de saúde",
         "itemonlyinhands": "Só pode segurar nas mãos",
@@ -680,7 +680,7 @@
         "healthpaneltip": "Painel de saúde (R)",
         "inventorylisttip": "Mostrar lista de todos os items e contêiners segurados",
         "inventorylisttipname": "Lista de inventário (TAB)",
-        "combinetip": "Segure dois do mesmo item em ambas as mãos para combinar suas durabilidades\nSó aplica para itens combináveis",
+        "combinetip": "Segure dois itens iguais em ambas as mãos para combinar suas durabilidades\nSó aplica para itens combináveis",
         "combinetipname": "Combinar",
         "combineable": "Combinável",
         "speed1": "Normal",
@@ -1616,7 +1616,7 @@
                 "Me questiono, se eu conseguiria salvar alguns deles.",
                 "Hahaha...",
                 "Ei! Você ai! ...É, eles não são diferentes.",
-                "Toda essa galera deve REALMENTE me odiar... niguem quer me olhar nos olhos!",
+                "Toda essa galera deve REALMENTE me odiar... ninguém quer me olhar nos olhos!",
                 "Vamos continuando.",
                 "Sobrevivencia do mais forte, creio eu...",
                 "Eugh.",
@@ -1968,7 +1968,7 @@
             "opiateaddiction": [
                 "Eu preciso de mais...",
                 "Poderia... usar mais uma dose...?",
-                "Ficaria agradecido por mais uns Analgésicos...",
+                "Ficaria agradecido por mais uns analgésicos...",
                 "Acho que viciei...",
                 "Mais uma dose...? Por favor?",
                 "Eu preciso relaxar..."
@@ -2101,7 +2101,7 @@
                 "AAAAAAAAAAAAAAAAAAA!",
                 "PARAA!!! AAHHHHHH!",
                 "SOCORRO! SOCOOORROO!",
-                "AAAHHHH POHHA! FUCK! FIQUE LONGE DE MIM!",
+                "AAAHHHH PORRA! PORRA! FIQUE LONGE DE MIM!",
                 "AAAAHHHHHHH!",
                 "*CHOQUE*",
                 "MERDA! PORRA! PORRA! AAHHHHHH!",
@@ -2110,7 +2110,7 @@
                 "PORRAAAA! FICA LONGEE!!! AAAAHHHHHH!",
                 "GNNAAAHHHHH!! AAAAAAHHHHHH!",
                 "AAAAAAAHHHHH!! POHRRAAAA!!",
-                "NNNANÃONÂ-AAAAAAAHHHHHH!",
+                "NÃNNANÃONÂO-AAAAAAAHHHHHH!",
                 "!!!!!!!!!!!",
                 "AAAAHAAAAHHAAAHHHH!!!!!"
             ],
