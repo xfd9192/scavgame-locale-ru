@@ -47,7 +47,7 @@
         "antidepressants": "Antidepressants",
         "antidepressantsdsc": "A bottle of potent antidepressants. Makes you feel everything less for some time, and slowly increases happiness. Might have side effects.",
         "antibiotics": "Antibiotics",
-        "antibioticsdsc": "A bottle with antibiotics. Fights off infection in all limbs, instantly reducing infection by 8% in each limb. Upsetting taste.",
+        "antibioticsdsc": "A bottle with antibiotics. Fights off infection in all limbs, instantly reducing infection by 8% in each limb. Requires multiple uses at once to get rid of stronger infections. Upsetting taste.",
         "sleepingpills": "Sleeping pills",
         "sleepingpillsdsc": "A bottle with sleeping pills. The brand name seems to be scratched out. Makes you tired when consumed.",
         "rosepod": "Rose pod",
@@ -261,7 +261,15 @@
         "climbingclaws": "Climbing claws",
         "climbingclawsdsc": "A pair of steel claws that go over your hands, specifically designed to attach to walls effectively. Grants you the ability to walljump on the same wall indefinitely.",
         "plasmacutter": "Plasma cutter",
-        "plasmacutterdsc": "A device that generates a directed flow of plasma. Very good at cutting through metal blocks. Can be used in wound view to cauterize wounds."
+        "plasmacutterdsc": "A device that generates a directed flow of plasma. Very good at cutting through metal blocks. Can be used in wound view to cauterize wounds.",
+        "grapplinghook": "Grappling hook",
+        "grapplinghookdsc": "A metal device that launches a hook attached with a rope. The instruction manual is missing.",
+        "ceftriaxone": "Ceftriaxone",
+        "ceftriaxonedsc": "A third-generation cephalosporin antibiotic used for the treatment of infections. Directly reduces infection across the entire body. Causes pain.",
+        "woundglue": "Wound glue",
+        "woundgluedsc": "A hemostatic, antibiotic glue-like substance. Fights infection, promotes healing and is very effective at sealing bleeding wounds. Might cause circulation problems - use with care.",
+        "boneweldingtool": "Bone welding tool",
+        "boneweldingtooldsc": "A very experimental bit of technology that welds a fracture back together, vastly speeding up healing. Causes some damage to the limb due to the process - better have some dressing ready."
     },
     "buildings": {
         "animalcorpse": "Animal corpse",
@@ -663,7 +671,7 @@
         "inject": "Inject",
         "toomuchpain": "Too much pain!",
         "jointintoplace": "Put joint back into place",
-        "unloadcontainer": "Unload container:",
+        "unloadcontainer": "Container",
         "containertoosmall": "Can't fit",
         "takeanap": "Take a nap",
         "watchbleedout": "bleedout: ",
@@ -687,7 +695,8 @@
         "speed2": "Fast",
         "speed3": "Very fast",
         "speed4": "Super fast",
-        "napinfo": "(Can't sleep if in pain or very sick)"
+        "napinfo": "(Can't sleep if in pain or very sick)",
+        "controls": "W/D - Movement\n  Move into walls to slide down them\nSpace - Jump\n  You can walljump\nS - Crouch\n  Fit into 3 block gaps\n  You can crouch mid-air\nLMB - Main hand\n  Swing if empty\n  Use item if holding something\nRMB - Interact\n  Pick items up\n  Click yourself to drop them\n  Use items in the health panel\n  Fix dislocations by hand\n  Load/unload containers\nR - Health panel\nQ - Quick switch hands\nTAB - Quick inventory list\nT - Quick drop\n  Hold to throw\n  Hover over container to quickly load items\n1/2/3/4 - Time speedup\n  Use this to wait out pain/exhaustion etc.\nX - Ragdoll\n0 - Quick restart\n\nMouse over items/statuses to see what they do"
     },
     "character": [
         {
