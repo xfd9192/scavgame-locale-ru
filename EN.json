@@ -156,6 +156,8 @@
         "alcoholdsc": "Glass bottle with unlabeled alcohol in it. Drinkable, but your body can't digest it well at all. Can disinfect wounds when used on a wounded limb.",
         "foliage": "Foliage",
         "foliagedsc": "Generic alien plantlife. Barely edible, with a dissatisfying taste. Might make you sick. Decays fast.",
+        "dryfoliage": "Dried foliage",
+        "dryfoliagedsc": "Seems slightly more appealing to consume when it's dry. Might make you a little sick.",
         "glowplantfruit": "Glowplant fruit",
         "glowplantfruitdsc": "Bioluminescent and inedible. Has moderately dangerous toxins inside; good at killing bacteria. Reduces infection on the limb it's used on. And, a basic light source.",
         "flashlight": "Flashlight",
@@ -251,7 +253,7 @@
         "belt": "Belt",
         "beltdsc": "A leather belt to go over your belly. You could attach something to it.",
         "metabolismchip": "Metabolism chip",
-        "metabolismchipdsc": "A chip that slightly increases your metabolism, making your limbs regenerate, using more hunger to do so.",
+        "metabolismchipdsc": "A chip that slightly increases your metabolism, making your limbs regenerate much faster, but using more hunger to do so.",
         "heatingchip": "Heating chip",
         "heatingchipdsc": "A chip that increases your body temperature considerably.",
         "jetpack": "Jetpack",
@@ -269,7 +271,9 @@
         "woundglue": "Wound glue",
         "woundgluedsc": "A hemostatic, antibiotic glue-like substance. Fights infection, promotes healing and is very effective at sealing bleeding wounds. Might cause circulation problems - use with care.",
         "boneweldingtool": "Bone welding tool",
-        "boneweldingtooldsc": "A very experimental bit of technology that welds a fracture back together, vastly speeding up healing. Causes some damage to the limb due to the process - better have some dressing ready."
+        "boneweldingtooldsc": "A very experimental bit of technology that welds a fracture back together, vastly speeding up healing. Causes some damage to the limb due to the process - better have some dressing ready.",
+        "browncap": "Browncap",
+        "browncapdsc": "Unure what kind of fungus it is exactly. For all you know, it could do anything from curing wounds to killing you on the spot."
     },
     "buildings": {
         "animalcorpse": "Animal corpse",
@@ -291,6 +295,10 @@
         "corpse": "???",
         "corpseseen": "Corpse",
         "corpsedsc": "",
+        "glassshards": "Glass shards",
+        "glassshardsdsc": "",
+        "sandvine": "Sandvine",
+        "sandvinedsc": "",
         "DigestionCrystal": "Digestion Crystal",
         "DigestionCrystaldsc": "It has a weird look and feel to it.",
         "dropcapsule": "Drop capsule",
@@ -342,12 +350,16 @@
         "TurbulentCrystal": "Turbulent Crystal",
         "TurbulentCrystaldsc": "It's jittering slightly.",
         "turret": "Turret",
-        "turretdsc": "Seems to have some sort of detector on it.",
+        "turretdsc": "Seems to have some sort of heat detector on it.",
         "stalagmite": "Stalagmite",
         "stalagmitedsc": "Relievingly, its apex is rounded.",
         "stalactite": "Stalactite",
         "stalactitedsc": "It seems loosely connected to the ceiling.",
-        "stalactitedscdropped": "It, in fact, is no longer connected to the ceiling."
+        "stalactitedscdropped": "It, in fact, is no longer connected to the ceiling.",
+        "drybush": "Dried bush",
+        "drybushdsc": "You have a sneaking suspicion it's dead.",
+        "brownshroom": "Brownshroom",
+        "brownshroomdsc": "You can't say much more about it other than the fact that it is, in fact, brown."
     },
     "moodles": {
         "dead": "Deceased",
