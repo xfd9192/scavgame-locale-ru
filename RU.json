@@ -695,7 +695,9 @@
         "speed2": "Быстро",
         "speed3": "Очень быстро",
         "speed4": "Супер быстро",
-        "napinfo": "(Нельзя спать пока ты чувствуешь боль, или сильную тошноту)"
+        "napinfo": "(Нельзя спать пока ты чувствуешь боль, или сильную тошноту)",
+        "controls": "A/D - Movement\n  Move into walls to slide down them\nSpace - Jump\n  You can walljump\nS - Crouch\n  Fit into 3 block gaps\n  You can crouch mid-air\nLMB - Main hand\n  Swing if empty\n  Use item if holding something\nRMB - Interact\n  Pick items up\n  Click yourself to drop them\n  Use items in the health panel\n  Fix dislocations by hand\n  Load/unload containers\nR - Health panel\nQ - Quick switch hands\nTAB - Quick inventory list\nT - Quick drop\n  Hold to throw\n  Hover over container to quickly load items\n1/2/3/4 - Time speedup\n  Use this to wait out pain/exhaustion etc.\nX - Ragdoll\n0 - Quick restart\n\nMouse over items/statuses to see what they do"
+
     },
     "character": [
         {
