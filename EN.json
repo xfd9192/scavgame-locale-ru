@@ -97,7 +97,7 @@
         "stonefruitopen": "Stone fruit",
         "stonefruitopendsc": "A hard green fruit with a neutral taste and medium fat content. It's very dry, you'll probably be thirsty after it.",
         "banana": "Banana",
-        "bananadsc": "A tasty yellow fruit, seemingly from another planet.",
+        "bananadsc": "A tasty yellow fruit, seemingly from another planet. Slightly radioactive.",
         "burger": "Burger",
         "burgerdsc": "A big, tasty snack. Fills both your tummy and soul!",
         "pizzaslice": "Pizza slice",
@@ -455,6 +455,10 @@
         "encumbered2": "Encumbered",
         "encumbered3": "Very encumbered",
         "encumbered4": "Hampered",
+        "irradiated1": "Uncomfortable",
+        "irradiated2": "Radiation sickness",
+        "irradiated3": "Severe radiation sickness",
+        "irradiated4": "Chernobyl wannabe",
 
         "deaddsc": "Permanent, irreversible, and complete loss of brain function. You have left this world behind, alike the rest.",
         "braindamage3dsc": "Barely clinging on to life, suffering from severe brain damage. You're a vegetable. Recovery unlikely.",
@@ -560,7 +564,11 @@
         "encumbered1dsc": "Carrying a bit much for comfort. <> encumbrance.",
         "encumbered2dsc": "Carrying too much. Stamina and mobility decreased. <> encumbrance.",
         "encumbered3dsc": "Carrying way too much. Stamina and mobility highly decreased. <> encumbrance.",
-        "encumbered4dsc": "Practically unable to move. Carrying WAY, way too much. <> encumbrance."
+        "encumbered4dsc": "Practically unable to move. Carrying WAY, way too much. <> encumbrance.",
+        "irradiated1dsc": "Feeling weirdly irritated and uncomfortable.",
+        "irradiated2dsc": "Feverish and nauseous. Your skin feels hot and painful. Something is very wrong. It's terrifying.",
+        "irradiated3dsc": "Horribly sick and aching all over. Breathing and thinking is extremely difficult. You feel abhorrent.",
+        "irradiated4dsc": "Not going gently into that goodnight."
     },
     "other": {
         "layertitle1": "Gravel lands",
@@ -612,10 +620,10 @@
         "HandBShort": "Hand",
         "ThighFShort": "Leg",
         "CrusFShort": "Leg",
-        "FootFShort": "Foot",
+        "FootFShort": "Paw",
         "ThighBShort": "Leg",
         "CrusBShort": "Leg",
-        "FootBShort": "Foot",
+        "FootBShort": "Paw",
         "experiment": "Experiment",
         "mainhand": "Main hand",
         "secondaryhand": "Secondary hand",
@@ -696,7 +704,7 @@
         "speed3": "Very fast",
         "speed4": "Super fast",
         "napinfo": "(Can't sleep if in pain or very sick)",
-        "controls": "W/D - Movement\n  Move into walls to slide down them\nSpace - Jump\n  You can walljump\nS - Crouch\n  Fit into 3 block gaps\n  You can crouch mid-air\nLMB - Main hand\n  Swing if empty\n  Use item if holding something\nRMB - Interact\n  Pick items up\n  Click yourself to drop them\n  Use items in the health panel\n  Fix dislocations by hand\n  Load/unload containers\nR - Health panel\nQ - Quick switch hands\nTAB - Quick inventory list\nT - Quick drop\n  Hold to throw\n  Hover over container to quickly load items\n1/2/3/4 - Time speedup\n  Use this to wait out pain/exhaustion etc.\nX - Ragdoll\n0 - Quick restart\n\nMouse over items/statuses to see what they do"
+        "controls": "A/D - Movement\n  Move into walls to slide down them\nSpace - Jump\n  You can walljump\nS - Crouch\n  Fit into 3 block gaps\n  You can crouch mid-air\nLMB - Main hand\n  Swing if empty\n  Use item if holding something\nRMB - Interact\n  Pick items up\n  Click yourself to drop them\n  Use items in the health panel\n  Fix dislocations by hand\n  Load/unload containers\nR - Health panel\nQ - Quick switch hands\nTAB - Quick inventory list\nT - Quick drop\n  Hold to throw\n  Hover over container to quickly load items\n1/2/3/4 - Time speedup\n  Use this to wait out pain/exhaustion etc.\nX - Ragdoll\n0 - Quick restart\n\nMouse over items/statuses to see what they do"
     },
     "character": [
         {
