@@ -47,7 +47,7 @@
         "antidepressants": "Antydepresanty",
         "antidepressantsdsc": "Opakowanie silnych antydepresantów. Sprawia że czujesz wszystko troche mniej przez jakiś czas oraz powoli zwiększa szczęście. Może mieć efekty uboczne.",
         "antibiotics": "Antybiotyki",
-        "antibioticsdsc": "Opakowanie antybiotyków. Zwalcza infekcje wszystkich części ciała, natychmiastowo zmniejszając infekcje o 8% na każdej kończynie. Przygnębiający smak.",
+        "antibioticsdsc": "Opakowanie antybiotyków. Zwalcza infekcje wszystkich części ciała, natychmiastowo zmniejszając infekcje o 8% na każdej kończynie. Wymaga kilka dawek by zwalczyć mocniejsze infekcje. Przygnębiający smak.",
         "sleepingpills": "Tabletki nasenne",
         "sleepingpillsdsc": "Opakowanie z tabletkami nasennymi. Wygląda na to, że marka została zdarta. Gdy zażyte sprawia że stajesz sie zmęczony.",
         "rosepod": "Strąk róży",
@@ -97,7 +97,7 @@
         "stonefruitopen": "Kamienio-owoc",
         "stonefruitopendsc": "Twardy zielony owoc z neutralnym smakiem i średnią zawartością tłuszczu. Jest bardzo suchy, prawdopodobnie będziesz spragniony bo zjedzeniu. ",
         "banana": "Banan",
-        "bananadsc": "Smaczny żółty owoc, wygląda na to że pochodzi z innej planety.",
+        "bananadsc": "Smaczny żółty owoc, wygląda na to że pochodzi z innej planety. Lekko radioaktywny.",
         "burger": "Burger",
         "burgerdsc": "Wielka, smaczna przekąska. Wypełnia twój żołądek i dusze!",
         "pizzaslice": "Kawałek pizzy",
@@ -261,7 +261,15 @@
         "climbingclaws": "Pazury wspinaczkowe",
         "climbingclawsdsc": "Para stalowych pazurów które zakładasz na swoje ręce, przeznaczone do przyczepiania się do ścian. Pozwala ci odskakiwać od tej samej ściany więcej niż jeden raz.",
         "plasmacutter": "Przecinarka plazmowa",
-        "plasmacutterdsc": "Urządzenie które generuje ukierunkowany przepływ plazmy. Bardzo dobre w przecinaniu się przez metale. Może być użyte w panelu zdrowia do przypalania ran."
+        "plasmacutterdsc": "Urządzenie które generuje ukierunkowany przepływ plazmy. Bardzo dobre w przecinaniu się przez metale. Może być użyte w panelu zdrowia do przypalania ran.",
+        "grapplinghook": "Hak do chwytania",
+        "grapplinghookdsc": "Metalowe urządzenie które wyrzuca hak z przymocowaną do niego liną. Bez instrukcji obsługi.",
+        "ceftriaxone": "Ceftriakson",
+        "ceftriaxonedsc": "Cefalosporynowy antybiotyk trzeciej generacji używany w zwalczaniu infekcji. Bezpośrednio zmniejsza infekcje na całym ciele. Sprawia ból.",
+        "woundglue": "Klej na rany",
+        "woundgluedsc": "Hemostatyczna, antybiotyczna klejo-podobna substancja. Zwalcza infekcje, wspomaga leczeniu i jest bardzo efektywne w uszczelnianiu krwawiących ran. Może powodować problemy z krążeniem - używać ostrożnie.",
+        "boneweldingtool": "Narzędzie do spawania kości",
+        "boneweldingtooldsc": "Bardzo eksperymentalny kawał technologii który spawa złamaia kości, znacznie przyśpieszając leczenie. W czego wyniku powoduje pewne obrażenia kończyny - lepiej mniej przy sobie jakiś opatrunek."
     },
     "buildings": {
         "animalcorpse": "Zwłoki zwierzęce",
@@ -447,6 +455,10 @@
         "encumbered2": "Obciążony",
         "encumbered3": "Bardzo obciążony",
         "encumbered4": "Zbyt bardzo obciążony",
+        "irradiated1": "Dyskomfort",
+        "irradiated2": "Choroba popromienna",
+        "irradiated3": "Poważna choroba popromienna",
+        "irradiated4": "Chętny na pobyt w czarnobylu",
 
         "deaddsc": "Permanentna, nieodwracalna i kompletna utrata funkcji mózgowych. Porzuciłeś ten świat, tak samo jak reszta.",
         "braindamage3dsc": "Ledwo trzymający się życia, cierpiący na poważne urazy mózgu. Jesteś warzywem. Powrót do zdrowia nieprawdopodobny.",
@@ -552,7 +564,11 @@
         "encumbered1dsc": "Nosisz troche zbyt dużo dla komfortu. <> obciążenia.",
         "encumbered2dsc": "Nosisz zbyt dużo. Stamina i mobilność zmniejszona. <> obciążenia.",
         "encumbered3dsc": "Nosisz o wiele zbyt dużo. Stamina i mobilność mocno zmniejszona. <> obciążenia.",
-        "encumbered4dsc": "Praktycznie niezdatny do ruchu. Nosisz o wiele WIELE, ZBYT dużo. <> obciążenia."
+        "encumbered4dsc": "Praktycznie niezdatny do ruchu. Nosisz o wiele WIELE, ZBYT dużo. <> obciążenia.",
+        "irradiated1dsc": "Dziwne poczucie irytacji i dyskomfortu.",
+        "irradiated2dsc": "Mdłości i stany podgorączkowe. Twoja skóra boli i wydaje się gorąca. Coś jest naprawdę nie tak. To jest przerażające.",
+        "irradiated3dsc": "Okropnie chory z bólem w całym ciele. Oddychanie i myślenie jest strasznie trudne. Czujesz się wstrętnie.",
+        "irradiated4dsc": "To nie zbyt przyjemna dobranocka."
     },
     "other": {
         "layertitle1": "Żwirowiska",
@@ -604,10 +620,10 @@
         "HandBShort": "Dłoń",
         "ThighFShort": "Noga",
         "CrusFShort": "Noga",
-        "FootFShort": "Stopa",
+        "FootFShort": "Łapa",
         "ThighBShort": "Noga",
         "CrusBShort": "Noga",
-        "FootBShort": "Stopa",
+        "FootBShort": "Łapa",
         "experiment": "Eksperyment",
         "mainhand": "Dłoń główna",
         "secondaryhand": "Dłoń druga",
@@ -663,7 +679,7 @@
         "inject": "Wstrzyknij",
         "toomuchpain": "Zbyt duży ból!",
         "jointintoplace": "Włóż staw spowrotem na miejsce",
-        "unloadcontainer": "Rozładuj pojemnik:",
+        "unloadcontainer": "Pojemnik",
         "containertoosmall": "Nie można zmieścić",
         "takeanap": "Zdrzemnij się",
         "watchbleedout": "Wykrwawienie: ",
@@ -687,7 +703,8 @@
         "speed2": "Szybki",
         "speed3": "Bardzo szybki",
         "speed4": "Super szybki",
-        "napinfo": "(Nie może spać jeśli w bólu, bądź bardzo chory)"
+        "napinfo": "(Nie może spać jeśli w bólu, bądź bardzo chory)",
+        "controls": "A/D - Poruszanie\n  Wchodź w ściany by się po nich ześlizgiwać\n Spacja - Skok\n  Możesz odskakiwać od ścian\n S - Kucnij\n  Zmieść się w szparach wysokości 3 bloków\n  Możesz też kucać w powietrzu\n LMB - Główna ręka\n  Zamachnij się jeśli puste\n  Użyj przedmiotu jeśli coś trzymasz\n RMB - Interakcja\n  Podnieś przedmioty\n  Naciśnij na siebie by je wyrzucić\n  Używaj przedmiotów w panelu zdrowia\n  Napraw zwichnięcia ręcznie\n  Spakuj/Wypakuj pojemniki\n R - Panel zdrowia\n Q - Szybka zmiana dłonii\n TAB - Szybka lista ekwipunku\n T - Szybkie wyrzucenie przedmiotu\n  Przytrzymaj by rzucić dalej\n  Najedź na pojemnik by szybko spakować przedmioty\n 1/2/3/4 - Przyśpieszenie czasu\n  Używaj tego by przeczekać ból/zmęczenie itd.\n X - Ragdoll\n 0 - Szybki restart\n\n Najeżdżaj na przedmioty/statusy by dowiedzieć się co robią"
     },
     "character": [
         {
