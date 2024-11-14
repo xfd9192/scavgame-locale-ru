@@ -301,6 +301,8 @@
         "glassshardsdsc": "",
         "sandvine": "Piaskowa winorośl",
         "sandvinedsc": "",
+        "shadecrawler": "Pełzacz cieni",
+        "shadecrawlerdsc": "",
         "DigestionCrystal": "Kryształ trawności",
         "DigestionCrystaldsc": "Ma dziwny wygląd i uczucie.",
         "dropcapsule": "Kapsuła zrzutowa",
@@ -472,7 +474,7 @@
         "irradiated1": "Dyskomfort",
         "irradiated2": "Choroba popromienna",
         "irradiated3": "Poważna choroba popromienna",
-        "irradiated4": "Chętny na pobyt w czarnobylu",
+        "irradiated4": "Chodzący czarnobyl",
 
         "deaddsc": "Permanentna, nieodwracalna i kompletna utrata funkcji mózgowych. Porzuciłeś ten świat, tak samo jak reszta.",
         "braindamage3dsc": "Ledwo trzymający się życia, cierpiący na poważne urazy mózgu. Jesteś warzywem. Powrót do zdrowia nieprawdopodobny.",
