@@ -272,8 +272,10 @@
         "woundgluedsc": "A hemostatic, antibiotic glue-like substance. Fights infection, promotes healing and is very effective at sealing bleeding wounds. Might cause circulation problems - use with care.",
         "boneweldingtool": "Bone welding tool",
         "boneweldingtooldsc": "A very experimental bit of technology that welds a fracture back together, vastly speeding up healing. Causes some damage to the limb due to the process - better have some dressing ready.",
+        "paprikash": "Paprikash",
+        "paprikashdsc": "A paste made from ground fish, rice, tomato paste and vegetable oil, seasoned with onion, salt and spices. It looks and smells rather appealing.",
         "browncap": "Browncap",
-        "browncapdsc": "Unure what kind of fungus it is exactly. For all you know, it could do anything from curing wounds to killing you on the spot."
+        "browncapdsc": "Unsure what kind of fungus it is exactly. For all you know, it could do anything from curing wounds to killing you on the spot."
     },
     "buildings": {
         "animalcorpse": "Animal corpse",
