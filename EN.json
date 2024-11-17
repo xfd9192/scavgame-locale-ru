@@ -49,7 +49,7 @@
         "antibiotics": "Antibiotics",
         "antibioticsdsc": "A bottle with antibiotics. Fights off infection in all limbs, instantly reducing infection by 8% in each limb. Requires multiple uses at once to get rid of stronger infections. Upsetting taste.",
         "sleepingpills": "Sleeping pills",
-        "sleepingpillsdsc": "A bottle with sleeping pills. The brand name seems to be scratched out. Makes you tired when consumed.",
+        "sleepingpillsdsc": "A bottle with sleeping pills. The brand name seems to be scratched out. Makes you able to sleep better when in bad physical condition. Don't combine with other drugs.",
         "rosepod": "Rose pod",
         "rosepoddsc": "A part of a sand rose. Doesn't spoil. Can be opened.",
         "roselight": "Rose light",
@@ -137,7 +137,7 @@
         "bleach": "Bleach",
         "bleachdsc": "Chemical product used to remove color from fiber, or to disinfect. Can be used to disinfect wounds, at the cost of damaging the limb. Drinking is lethal.",
         "energydrink": "Energy drink",
-        "energydrinkdsc": "A tasty, caffeinated drink to give you a small boost of stamina and energy. Considerably toxic for your species, drink with caution.",
+        "energydrinkdsc": "A tasty, caffeinated drink to give you a boost of stamina and energy. Somewhat toxic for your species, drink with caution.",
         "coffee": "Coffee",
         "coffeedsc": "A beverage brewed from roasted coffee beans. Tasty and stimulating, but rather toxic due to the caffeine content.",
         "soup": "Soup",
@@ -475,6 +475,7 @@
         "irradiated2": "Radiation sickness",
         "irradiated3": "Severe radiation sickness",
         "irradiated4": "Chernobyl wannabe",
+        "energized": "Energized",
 
         "deaddsc": "Permanent, irreversible, and complete loss of brain function. You have left this world behind, alike the rest.",
         "braindamage3dsc": "Barely clinging on to life, suffering from severe brain damage. You're a vegetable. Recovery unlikely.",
@@ -576,7 +577,7 @@
         "happy3dsc": "You've found peace in this strange land.",
         "happy4dsc": "You're at the top of the world, shaping the way forward at your will. Nothing can stop you!",
         "impairedspeechdsc": "Something is making speaking difficult...",
-        "autopumpdsc": "Oxygen and awareness levels kept at sustainable levels by a life support machine. Time remaining: <>",
+        "autopumpdsc": "Oxygen and awareness levels kept at sustainable levels by a life support machine (<>).",
         "encumbered1dsc": "Carrying a bit much for comfort. <> encumbrance.",
         "encumbered2dsc": "Carrying too much. Stamina and mobility decreased. <> encumbrance.",
         "encumbered3dsc": "Carrying way too much. Stamina and mobility highly decreased. <> encumbrance.",
@@ -584,7 +585,8 @@
         "irradiated1dsc": "Feeling weirdly irritated and uncomfortable.",
         "irradiated2dsc": "Feverish and nauseous. Your skin feels hot and painful. Something is very wrong. It's terrifying.",
         "irradiated3dsc": "Horribly sick and aching all over. Breathing and thinking is extremely difficult. You feel abhorrent.",
-        "irradiated4dsc": "Not going gently into that goodnight."
+        "irradiated4dsc": "Not going gently into that goodnight.",
+        "energizeddsc": "Stamina loss and fatigue decreased by substances (<>)."
     },
     "other": {
         "layertitle1": "Gravel lands",
