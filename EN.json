@@ -48,6 +48,8 @@
         "antidepressantsdsc": "A bottle of potent antidepressants. Makes you feel everything less for some time, and slowly increases happiness. Might have side effects.",
         "antibiotics": "Antibiotics",
         "antibioticsdsc": "A bottle with antibiotics. Fights off infection in all limbs, instantly reducing infection by 8% in each limb. Requires multiple uses at once to get rid of stronger infections. Upsetting taste.",
+        "antirad": "Anti-rad",
+        "antiraddsc": "A bottle with special, experimental medicine that directly reduces the effects of radiation when taken. Will require high doses to combat radiation sickness.",
         "sleepingpills": "Sleeping pills",
         "sleepingpillsdsc": "A bottle with sleeping pills. The brand name seems to be scratched out. Makes you able to sleep better when in bad physical condition. Don't combine with other drugs.",
         "rosepod": "Rose pod",
@@ -147,7 +149,7 @@
         "applejuice": "Apple juice",
         "applejuicedsc": "A carton of fruit juice made by the maceration and pressing of an apple. Tasty!",
         "lemonade": "Lemonade",
-        "lemonadedsc": "A jar containing a sweetened lemon-flavored milk. Tasty!",
+        "lemonadedsc": "A jar containing a sweetened lemon-flavored drink. Tasty!",
         "icetea": "Iced tea",
         "iceteadsc": "A bottle of cold, sweetened decaffeinated tea. Tasty!",
         "sodacan": "Soda can",
@@ -524,7 +526,7 @@
         "infected1dsc": "The infection site is swollen and warm. Treatment needed. Find something that can kill off foreign bodies.",
         "infected2dsc": "The infection site is leaking dark pus, and is swelling more. Treatment needed.",
         "infected3dsc": "The infection is spreading across the limb quickly and painfully. Chances of going into sepsis. Urgent treatment needed.",
-        "infected4dsc": "The infection is spreading to other limbs, and the infected limb is starting to undergo necrosis. Sepsis is setting in. Amputation might be neccesary.",
+        "infected4dsc": "The infection is spreading to other limbs, and the infected limb is starting to undergo necrosis. Sepsis is setting in. Emergency care needed.",
         "sepsis1dsc": "A widespread infection is causing your body to react badly. You feel confused, with lowered blood pressure and a fever. Lethal if progresses.",
         "sepsis2dsc": "Increased heart rate, lowered blood pressure, lightheadedness and a strong fever. Signs of organ dysfunction. Likely to soon enter septic shock.",
         "sepsis3dsc": "Critically low blood pressure and multiple organ dysfunction syndrome caused by sepsis. Death is fast approaching.",
@@ -720,9 +722,8 @@
         "speed1": "Normal",
         "speed2": "Fast",
         "speed3": "Very fast",
-        "speed4": "Super fast",
         "napinfo": "(Can't sleep if in pain or very sick)",
-        "controls": "A/D - Movement\n  Move into walls to slide down them\nSpace - Jump\n  You can walljump\nS - Crouch\n  Fit into 3 block gaps\n  You can crouch mid-air\nLMB - Main hand\n  Swing if empty\n  Use item if holding something\nRMB - Interact\n  Pick items up\n  Click yourself to drop them\n  Use items in the health panel\n  Fix dislocations by hand\n  Load/unload containers\nR - Health panel\nQ - Quick switch hands\nTAB - Quick inventory list\nT - Quick drop\n  Hold to throw\n  Hover over container to quickly load items\n1/2/3/4 - Time speedup\n  Use this to wait out pain/exhaustion etc.\nX - Ragdoll\n0 - Quick restart\n\nMouse over items/statuses to see what they do"
+        "controls": "A/D - Movement\n  Move into walls to slide down them\nSpace - Jump\n  You can walljump\nS - Crouch\n  Fit into 3 block gaps\n  You can crouch mid-air\nLMB - Main hand\n  Swing if empty\n  Use item if holding something\nRMB - Interact\n  Pick items up\n  Click yourself to drop them\n  Use items in the health panel\n  Fix dislocations by hand\n  Load/unload containers\nR - Health panel\nQ - Quick switch hands\nTAB - Quick inventory list\nT - Quick drop\n  Hold to throw\n  Hover over container to quickly load items\n1/2/3 - Time speedup\n  Use this to wait out pain/exhaustion etc.\nX - Ragdoll\n0 - Quick restart\n\nMouse over items/statuses to see what they do"
     },
     "character": [
         {
