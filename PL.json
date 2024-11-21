@@ -48,8 +48,10 @@
         "antidepressantsdsc": "Opakowanie silnych antydepresantów. Sprawia że czujesz wszystko troche mniej przez jakiś czas oraz powoli zwiększa szczęście. Może mieć efekty uboczne.",
         "antibiotics": "Antybiotyki",
         "antibioticsdsc": "Opakowanie antybiotyków. Zwalcza infekcje wszystkich części ciała, natychmiastowo zmniejszając infekcje o 8% na każdej kończynie. Wymaga kilka dawek by zwalczyć mocniejsze infekcje. Przygnębiający smak.",
+        "antirad": "Anty-rad",
+        "antiraddsc": "Butelka specjalnego, eksperymentalnego leku który bezpośrednio zmniejsza radiacje gdy zostanie zażyty. Duże dawkowanie wymagane w razie choroby popromiennej.",
         "sleepingpills": "Tabletki nasenne",
-        "sleepingpillsdsc": "Opakowanie z tabletkami nasennymi. Wygląda na to, że marka została zdarta. Gdy zażyte sprawia że stajesz sie zmęczony.",
+        "sleepingpillsdsc": "Opakowanie z tabletkami nasennymi. Wygląda na to że nazwa marki została zdarta. Pomaga ze snem jeśli jesteś w słabej kondycji fizycznej. Nie zażywać razem z innymi narkotykami.",
         "rosepod": "Strąk róży",
         "rosepoddsc": "Część piaskoróży. Nie psuje sie. Może zostać otwarte.",
         "roselight": "Różane światło",
@@ -137,7 +139,7 @@
         "bleach": "Wybielacz",
         "bleachdsc": "Chemiczny produkt używany do usuwania koloru z tkanin albo do dezynfekcji. Może być użyty do zdezynfekowania ran, kosztem ranienia kończyn. Picie jest śmiertelne.",
         "energydrink": "Energetyk",
-        "energydrinkdsc": "Smaczny, kofeinowy napój który daje ci zwiększenie wytrzymałości i energii. Znacznie toksyczny dla twojego gatunku, spożywaj ostrożnie.",
+        "energydrinkdsc": "Smaczny, kofeinowy napój który daje ci zwiększenie wytrzymałości i energii. Nieco toksyczny dla twojego gatunku, spożywaj ostrożnie.",
         "coffee": "Kawa",
         "coffeedsc": "Napój parzony z pieczonych ziarenek kawy. Smaczny i stymulujący, ale raczej toksyczny przez zawartość kofeiny.",
         "soup": "Zupa",
@@ -147,7 +149,7 @@
         "applejuice": "Sok jabłkowy",
         "applejuicedsc": "Kartonik soku owocowego zrobionego w wyniku macerowaniu i tłoczeniu jabłka. Pyszne!",
         "lemonade": "Lemoniada",
-        "lemonadedsc": "Słoik zawierający słodzone mleko o smaku cytrynowym. Pyszne!",
+        "lemonadedsc": "Słoik zawierający słodzony napój o smaku cytrynowym. Pyszne!",
         "icetea": "Mrożona herbata",
         "iceteadsc": "Butelka zimnej, słodzonej bezkofeinowej herbaty. Pyszne!",
         "sodacan": "Puszka napoju gazowanego",
@@ -475,6 +477,7 @@
         "irradiated2": "Choroba popromienna",
         "irradiated3": "Poważna choroba popromienna",
         "irradiated4": "Chodzący czarnobyl",
+        "energized": "Energized",
 
         "deaddsc": "Permanentna, nieodwracalna i kompletna utrata funkcji mózgowych. Porzuciłeś ten świat, tak samo jak reszta.",
         "braindamage3dsc": "Ledwo trzymający się życia, cierpiący na poważne urazy mózgu. Jesteś warzywem. Powrót do zdrowia nieprawdopodobny.",
@@ -523,7 +526,7 @@
         "infected1dsc": "Miejsce infekcji jest spuchniętę i ciepłe. Potrzebne leczenie. Znajdź coś co może zwalczyć obce bakterie.",
         "infected2dsc": "Z miejsca infekcji wycieka ciemna ropa, oraz miejsce infekcji dalej puchnie. Potrzebne leczenie.",
         "infected3dsc": "Infekcja się szybko i boleśnie rozpstrzesztrzenia po całej kończynie. Szansa na wejście w stan posocznicy. Wymagane nagłe leczenie.",
-        "infected4dsc": "Infekcja rozpstrzesztrzenia na inne kończyny oraz zainfekowana kończyna zaczyna ulegać martwicy. Posocznica zadomawia się w ciele. Może być wymagana amputacja.",
+        "infected4dsc": "Infekcja rozpstrzesztrzenia na inne kończyny oraz zainfekowana kończyna zaczyna ulegać martwicy. Posocznica zadomawia się w ciele. Wymagana opieka doraźna.",
         "sepsis1dsc": "Rozległa infekcja na którą twoje ciało nie odpowiada dobrze. Czujesz się rozkojarzony, z niższym ciśnieniem krwi i gorączką. Śmiertelne jeśli się rozwinie.",
         "sepsis2dsc": "Zwiększone tętno, zmniejszone ciśnienie krwi, skołowanie i mocna gorączka. Oznaki dysfunkcji narządów. Prawdopodobieństwo szoku posoczniczego.",
         "sepsis3dsc": "Krytycznie niskie ciśnienie krwi i dysfunkcja kilku narządów spowodowanych przez posocznicę. Nadciąga prędka śmierć.",
@@ -576,7 +579,7 @@
         "happy3dsc": "Znalazłeść pokój w tej dziwnej krainie.",
         "happy4dsc": "Jesteś na szczycie świata, kształtując drogę naprzód jak chcesz. Nic cię nie zatrzyma!",
         "impairedspeechdsc": "Coś utrudnia mowę...",
-        "autopumpdsc": "Poziom tlenu i przytomności utrzymywany jest na stabilnym poziomie dzięki maszynie podtrzymującej życie. Pozostało czasu: <>",
+        "autopumpdsc": "Poziom tlenu i przytomności utrzymywany jest na stabilnym poziomie dzięki maszynie podtrzymującej życie (<>).",
         "encumbered1dsc": "Nosisz troche zbyt dużo dla komfortu. <> obciążenia.",
         "encumbered2dsc": "Nosisz zbyt dużo. Stamina i mobilność zmniejszona. <> obciążenia.",
         "encumbered3dsc": "Nosisz o wiele zbyt dużo. Stamina i mobilność mocno zmniejszona. <> obciążenia.",
@@ -584,7 +587,8 @@
         "irradiated1dsc": "Dziwne poczucie irytacji i dyskomfortu.",
         "irradiated2dsc": "Mdłości i stany podgorączkowe. Twoja skóra boli i wydaje się gorąca. Coś jest naprawdę nie tak. To jest przerażające.",
         "irradiated3dsc": "Okropnie chory z bólem w całym ciele. Oddychanie i myślenie jest strasznie trudne. Czujesz się wstrętnie.",
-        "irradiated4dsc": "To nie zbyt przyjemna dobranocka."
+        "irradiated4dsc": "To nie zbyt przyjemna dobranocka.",
+        "energizeddsc": "Męczenie i utrata energii zmniejszone przez pewne substancje (<>)."
     },
     "other": {
         "layertitle1": "Żwirowiska",
@@ -718,9 +722,8 @@
         "speed1": "Normalny",
         "speed2": "Szybki",
         "speed3": "Bardzo szybki",
-        "speed4": "Super szybki",
         "napinfo": "(Nie może spać jeśli w bólu, bądź bardzo chory)",
-        "controls": "A/D - Poruszanie\n  Wchodź w ściany by się po nich ześlizgiwać\n Spacja - Skok\n  Możesz odskakiwać od ścian\n S - Kucnij\n  Kucaj by zmieścić się w szparach wysokości 3 bloków\n  Możesz też kucać w powietrzu\n LMB - Główna ręka\n  Zamachnij się jeśli masz puste ręce\n  A użyj przedmiotu jeśli takowy trzymasz\n RMB - Interakcja\n  Podnoś przedmioty\n  Naciśnij na siebie by je wyrzucić\n  Możesz używać niektórych przedmiotów w panelu zdrowia\n  Naprawiaj zwichnięcia ręcznie w panelu zdrowia\n  Pakuj/Wypakowywuj pojemniki\n R - Panel zdrowia\n Q - Szybka zmiana dłonii\n TAB - Szybka lista ekwipunku\n T - Szybkie wyrzucenie przedmiotu\n  Przytrzymaj by rzucić dalej\n  Najedź na pojemnik by szybko spakować przedmioty\n 1/2/3/4 - Przyśpieszenie czasu\n  Używaj przyśpieszenia by przeczekać ból/zmęczenie itd.\n X - Ragdoll\n 0 - Szybki restart\n\n Najeżdżaj na przedmioty/statusy by dowiedzieć się co robią"
+        "controls": "A/D - Poruszanie\n  Wchodź w ściany by się po nich ześlizgiwać\n Spacja - Skok\n  Możesz odskakiwać od ścian\n S - Kucnij\n  Kucaj by zmieścić się w szparach wysokości 3 bloków\n  Możesz też kucać w powietrzu\n LMB - Główna ręka\n  Zamachnij się jeśli masz puste ręce\n  A użyj przedmiotu jeśli takowy trzymasz\n RMB - Interakcja\n  Podnoś przedmioty\n  Naciśnij na siebie by je wyrzucić\n  Możesz używać niektórych przedmiotów w panelu zdrowia\n  Naprawiaj zwichnięcia ręcznie w panelu zdrowia\n  Pakuj/Wypakowywuj pojemniki\n R - Panel zdrowia\n Q - Szybka zmiana dłonii\n TAB - Szybka lista ekwipunku\n T - Szybkie wyrzucenie przedmiotu\n  Przytrzymaj by rzucić dalej\n  Najedź na pojemnik by szybko spakować przedmioty\n 1/2/3 - Przyśpieszenie czasu\n  Używaj przyśpieszenia by przeczekać ból/zmęczenie itd.\n X - Ragdoll\n 0 - Szybki restart\n\n Najeżdżaj na przedmioty/statusy by dowiedzieć się co robią"
     },
     "character": [
         {
