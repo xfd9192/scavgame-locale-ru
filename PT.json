@@ -48,6 +48,8 @@
         "antidepressantsdsc": "Uma garrafa de antidepressivos fortes. Faz você sentir menos de tudo por um certo tempo, e lentamente aumenta a felicidade. Pode ter efeitos colaterais.",
         "antibiotics": "Antibióticos",
         "antibioticsdsc": "Uma garrafa com antibióticos. Luta contra infecções pelo corpo todo, reduzindo a infecção por 8% em todos os membros. Pode precisar de muitas doses para se livrar de infecções mais fortes. Tem um gosto horrível.",
+        "antirad": "Anti-rads",
+        "antiraddsc": "Uma garrafa com medicina experimental que diretamente reduz os efeitos de radiação após o consumo. Vai precisar de muitas doses para combater problemas causados pela radiação.",
         "sleepingpills": "Pilulas para dormir",
         "sleepingpillsdsc": "Uma garrafa com pilulas feitas para ajudar a cair no sono. Parece que a marca foi arrancada para fora. Te deixa dormir melhor em condições ruins. Não utilize com outras drogas.",
         "rosepod": "Vagem de rosa",
@@ -147,7 +149,7 @@
         "applejuice": "Suco de maçã",
         "applejuicedsc": "Um recipiente plástico contendo os líquidos de uma fruta macerada. Sabor legal.",
         "lemonade": "Limonada",
-        "lemonadedsc": "Uma jarra que inclui... leite açucarado com gosto de limonada? E você acha isso gostoso? Seu psicopata.",
+        "lemonadedsc": "Uma jarra que contêm uma bebida açucarada com gosto de limão.",
         "icetea": "Chá gelado",
         "iceteadsc": "Uma garrafa com chá gelado e decafeinado. Bom sabor.",
         "sodacan": "Refri em latinha",
@@ -524,7 +526,7 @@
         "infected1dsc": "A área da infecção esta inchada e quente. Precisando ser tratado. Ache algo para aniquilar corpos estranhos.",
         "infected2dsc": "A área da infecção esta mais inchada e com pus. Tratamento necessário.",
         "infected3dsc": "A infecção esta se espalhando pelo membro de forma rapida e dolorosa. Pode desencadear sépsis. Prioridade urgente de tratamento.",
-        "infected4dsc": "A infecção esta se espalhando para outros membros, o membro infectado esta começando a necrosar. Sépsis esta começando. Amputação provavelmente necessária.",
+        "infected4dsc": "A infecção esta se espalhando para outros membros, o membro infectado esta começando a necrosar. Sépsis esta começando. Tratamento de emergência necessário.",
         "sepsis1dsc": "Uma infecção em massa fez seu corpo agir de forma ruim. Você se sente confuso, com pressão sanguínea baixa e febre. Mortal se continuar.",
         "sepsis2dsc": "Batimento cardíaco acelerado, pressão sanguínea baixa, tontura e febre forte. Sinais de disfunção dos orgãos. Possível desencadeamento de choque séptico.",
         "sepsis3dsc": "Pressão sanguínea criticamente baixa e falência múltipla de órgãos causada pela sepse. A morte se aproxima rapidamente.",
@@ -722,7 +724,7 @@
         "speed3": "Muito rápido",
         "speed4": "Super rápido",
         "napinfo": "(Incapaz de dormir se estiver com muita dor ou muito doente)",
-        "controls": "A/D - Andar\n  Mova nas paredes para derrapar nelas\nEspaço - Pular\n  Você pode dar pulos de parede\nS - Agachar\n  Encaixe-se em buracos de 3 blocos de altura\n  Você pode agachar no meio do ar\nM1 - Mão principal\n  Ataca se estiver vazia\n  Usa o item se segurar algo\nM2 - Interagir\n  Pegar itens\n  Se clique para largá-los\n  Usar itens no painel de saúde\n  Arrumar dislocações com a mão\n  Carregar/descarregar contêiners\nR - Painel de saúde\nQ - Troca rápida pelas mãos\nTAB - Lista de inventário rápido\nT - Largar rápido\n  Segure para tacar\n  Passe o mouse sobre contêiners para carregar itens rápidamente\n1/2/3/4 - Aceleração do tempo\n  Use isso para esperar a dor/exaustão/etc passar\nX - Desalmar\n0 - Reinício rápido\n\nPasse o mouse por cima de itens/efeitos de status para ver o que eles fazem/são"
+        "controls": "A/D - Andar\n  Mova nas paredes para derrapar nelas\nEspaço - Pular\n  Você pode dar pulos de parede\nS - Agachar\n  Encaixe-se em buracos de 3 blocos de altura\n  Você pode agachar no meio do ar\nM1 - Mão principal\n  Ataca se estiver vazia\n  Usa o item se segurar algo\nM2 - Interagir\n  Pegar itens\n  Se clique para largá-los\n  Usar itens no painel de saúde\n  Arrumar dislocações com a mão\n  Carregar/descarregar contêiners\nR - Painel de saúde\nQ - Troca rápida pelas mãos\nTAB - Lista de inventário rápido\nT - Largar rápido\n  Segure para tacar\n  Passe o mouse sobre contêiners para carregar itens rápidamente\n1/2/3 - Aceleração do tempo\n  Use isso para esperar a dor/exaustão/etc passar\nX - Desalmar\n0 - Reinício rápido\n\nPasse o mouse por cima de itens/efeitos de status para ver o que eles fazem/são"
     },
     "character": [
         {
