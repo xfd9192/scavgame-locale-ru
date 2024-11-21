@@ -656,10 +656,13 @@
         "trapamount": "Trap amount",
         "lootdepthmultiplier": "Loot depth multiplier",
         "trapdepthincrease": "Trap depth increase",
+        "radiationline": "Radiation line",
         "looatmountdsc": "Overall amount of loot",
         "trapamountdsc": "Overall amount of traps",
         "lootdepthmultiplierdsc": "Multiply loot amount by this per layer",
         "trapdepthincreasedsc": "Increase trap amount by this per layer",
+        "radiationlinedsc": "Line of radiation forces you down",
+        "notforbeginners": "Bonus mode - not recommended for beginners",
         "startrun": "Start run",
         "resettodefault": "Reset to default",
         "inventorytip": "Main hand (LMB to use, T to throw, Q to switch):",
@@ -1437,7 +1440,7 @@
                 "Hahaha...",
                 "Ooohhh boy...",
                 "It'll all be over soon. I swear.",
-                "I fucking DESPISE all of this with every damned fiber of my being."
+                "I died the moment I arrived here."
             ],
             "selfharm": [
                 "Hahahaha...",
