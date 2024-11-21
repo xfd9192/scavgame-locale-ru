@@ -656,10 +656,13 @@
         "trapamount": "Armadilhas",
         "lootdepthmultiplier": "Pilhagem por profundidade",
         "trapdepthincrease": "Armadilhas por profundidade",
+        "radiationline": "Linha de radiação",
         "looatmountdsc": "Quantidade geral de pilhagem",
         "trapamountdsc": "Quantidade geral de armadilhas",
         "lootdepthmultiplierdsc": "Multiplicador da quantidade de pilhagem por camada",
         "trapdepthincreasedsc": "Quantidade aditiva de armadilhas por camada",
+        "radiationlinedsc": "Linha de radiação te faz continuar descendo",
+        "notforbeginners": "Modo bônus - não recomendado para iniciantes",
         "startrun": "Começar tentativa",
         "resettodefault": "Redefinir para padrão",
         "inventorytip": "Mão principal (M1 para usar, T para tacar, Q para trocar):",
@@ -673,7 +676,7 @@
         "unarmed": "Nada",
         "container": "Contêiner",
         "containermaxweight": "Capacidade",
-        "containermaxweightperitem": "Máximo peso/item",
+        "containermaxweightperitem": "Máximo de peso/item",
         "containerconditionloss": "% de condição perdida por minuto enquanto usado",
         "conditionloss": "% condição perdida por minuto",
         "containerlarge": "Pode guardar grandes itens",
@@ -1438,7 +1441,7 @@
                 "Hahahaha...",
                 "Ah cara...",
                 "Vai tudo terminar em breve. Eu juro.",
-                "Eu ODEIO TUDO ISSO com cada droga de fibra do meu ser."
+                "Eu morri o momento que cheguei aqui."
             ],
             "selfharm": [
                 "Hahahaha...",
