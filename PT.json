@@ -724,8 +724,7 @@
         "combineable": "Combinável",
         "speed1": "Normal",
         "speed2": "Rápido",
-        "speed3": "Muito rápido",
-        "speed4": "Super rápido",
+        "speed3": "Super rápido",
         "napinfo": "(Incapaz de dormir se estiver com muita dor ou muito doente)",
         "controls": "A/D - Andar\n  Mova nas paredes para derrapar nelas\nEspaço - Pular\n  Você pode dar pulos de parede\nS - Agachar\n  Encaixe-se em buracos de 3 blocos de altura\n  Você pode agachar no meio do ar\nM1 - Mão principal\n  Ataca se estiver vazia\n  Usa o item se segurar algo\nM2 - Interagir\n  Pegar itens\n  Se clique para largá-los\n  Usar itens no painel de saúde\n  Arrumar dislocações com a mão\n  Carregar/descarregar contêiners\nR - Painel de saúde\nQ - Troca rápida pelas mãos\nTAB - Lista de inventário rápido\nT - Largar rápido\n  Segure para tacar\n  Passe o mouse sobre contêiners para carregar itens rápidamente\n1/2/3 - Aceleração do tempo\n  Use isso para esperar a dor/exaustão/etc passar\nX - Desalmar\n0 - Reinício rápido\n\nPasse o mouse por cima de itens/efeitos de status para ver o que eles fazem/são"
     },
