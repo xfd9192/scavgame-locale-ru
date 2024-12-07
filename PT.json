@@ -61,7 +61,7 @@
         "bloodbag": "Bolsa de sangue",
         "bloodbagdsc": "Uma bolsa cheia de sangue, com um auto-injetor. Beber isso não é recomendado.",
         "saline": "Soro Fisiológico",
-        "salinedsc": "Uma mistura de água e sais, frequentemente usada no tratamento da hipovolemia. Possui uma agulha no fim.",
+        "salinedsc": "Uma mistura de água e sais, frequentemente usada no tratamento da hipovolemia e da sede. Possui uma agulha no fim.",
         "ringersolution": "Soluto de Ringer",
         "ringersolutiondsc": "Uma solução de diversos sais dissolvidos em água com o propósito de criar uma solução isotônica capaz de repor fluidos corporais de um animal. Bom para a sede e sangue perdido.",
         "bloodbaghuman": "Bolsa de sangue vermelho",
@@ -79,7 +79,7 @@
         "disinfectant": "Antisséptico",
         "disinfectantdsc": "Uma garrafa de fluido antisséptico. Previne lesões na pele de causar infecções por um período, e pode ajudar a lutar contra infecções muito fracas.",
         "scrapmetal": "Sucata",
-        "scrapmetaldsc": "Pedaços de aço de maquinas destruídas. Pode ser posicionada. Comumente usado como moeda entre os sobreviventes.",
+        "scrapmetaldsc": "Pedaços de aço de maquinaria destruída. Pode ser posicionada. Normalmente usada como moeda entre sobreviventes.",
         "bloodcrystalshard": "Fragmento de cristal de sangue",
         "bloodcrystalsharddsc": "Derrama sangue em tudo que toca. Lentamente aumenta seu volume de sangre até níveis normais enquanto for armazenado no seu corpo.",
         "soothingcrystalshard": "Fragmento de cristal acalmante",
@@ -287,7 +287,7 @@
         "carcasssplint": "Tala-carcaça",
         "carcasssplintdsc": "Um tubo longo e duro feito de algumas carcaças grudadas juntas de insetos. Pode ser usada como uma tala improvisada para lidar com fraturas.",
         "terrainscanner": "Scanner de terreno",
-        "terrainscannerdsc": "Mostra um mapa em baixa qualidade do terreno abaixo. Terreno é destacado em verde, construções sólidas são vermelhas. Vai até 24 metros de distância.",
+        "terrainscannerdsc": "Mostra um mapa em baixa qualidade do terreno abaixo. Terreno é destacado em verde, construções sólidas são vermelhas. Vai até 24 metros de profundidade.",
         "browncap": "Chapéu-gumelo",
         "browncapdsc": "Não sabe que tipo de fungo é exatamente, mas pelo que sabe, poderia dar em qualquer coisa que inclui curar lesões e te matar na hora."
     },
@@ -554,7 +554,7 @@
         "sepsis3dsc": "Pressão sanguínea criticamente baixa e falência múltipla de órgãos causada pela sepse. A morte se aproxima rapidamente.",
         "concussiondsc": "Inconsciência devido a baixa vitalidade na cabeça - quando a cabeça melhorar você acordará.",
         "unconsciousdsc": "Sem responder a nenhum estímulo externo. Apagão geral.",
-        "incapacitateddsc": "Incapaz de parar em pé ou pensar. Você não sente quase nada.",
+        "incapacitateddsc": "Não consegue ficar de pé ou pensar. Você não sente quase nada.",
         "asleepdsc": "A mimir!",
         "confused1dsc": "Se sentindo desorientado e levemente tonto.",
         "confused2dsc": "Confuso, tonto e com problemas para entender as coisas ao seu redor.",
@@ -612,7 +612,7 @@
         "irradiated3dsc": "Horrivelmente doente e tudo dói. Respirar e pensar é extremamente difícil. Você se sente miserável.",
         "irradiated4dsc": "Você não está gostando de falar adeus desse jeito.",
         "energizeddsc": "Perda de estâmina e cansaço diminuída por substâncias (<>).",
-        "hemothoraxdsc": "Sangue acumulando na cavidade pleural devido a sangramento interno. Seu peito dói... Tratamento necessário."
+        "hemothoraxdsc": "Sangue está acumulando na cavidade pleural devido a sangramento interno. Seu peito dói... Tratamento necessário."
     },
     "other": {
         "layertitle1": "Terras de cascalho",
@@ -1173,18 +1173,18 @@
                 "Isso não tá... Bléegh... Indo ótimo...",
                 "Me ferrei... Ooouugghh... Cacete..."
             ],
-                "vomitblood": [
+            "vomitblood": [
                 "Bluughh... Eu... Ah. Ó deus, é sangue...",
                 "Ghghh... *tosse* ...Porra... Isso é... Sangue...",
-                "Lá vai... o meu... Ah. Ah não não não. Ah não. Foi sangue que eu vomitei...",
+                "Lá vai... meu... Ah. Ah não não não. Ah não. Foi sangue que eu vomitei...",
                 "Bllggh... ugh... Eu... Ah... Deus...",
                 "Isso é... Isso é sangue que eu acabo de... Blegh...",
-                "Tenho quase certeza que sangue não devia fazer isso.",
-                "Guhhgh... Por que o vômito... Ta tão amarelo...?",
+                "Tenho quase certeza de que sangue não devia fazer isso.",
+                "Guhhgh... Por que o vômito... Tá tão amarelo...?",
                 "Uughh... Tem algo... Muito errado...",
                 "Esse... Esse não é o gosto de vômito... E-espera ai...",
                 "Guughhg... hcck... Essa... Essa não veio do estômago. Ah... Ah deus.",
-                "Uuughgh... Socorro... Foi sangue acabou de sair...",
+                "Uuughgh... Socorro... Foi sangue que acabou de sair...",
                 "Inacreditável... Eu acabo de... vomitar sangue...",
                 "Guuhghh... ughh... Isso é... ruim...",
                 "Tô tão fraco.. gughh... Que sensação... Estranha...",
