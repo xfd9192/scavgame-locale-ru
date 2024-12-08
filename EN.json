@@ -381,7 +381,9 @@
         "brownshroom": "Brownshroom",
         "brownshroomdsc": "You can't say much more about it other than the fact that it is, in fact, brown.",
         "spentfuel": "Spent fuel",
-        "spentfueldsc": "An oddly terrifying energy emanates from it."
+        "spentfueldsc": "An oddly terrifying energy emanates from it.",
+        "trader": "Survivor",
+        "traderdsc": "You could probably trade with them."
     },
     "moodles": {
         "dead": "Deceased",
@@ -814,6 +816,13 @@
         "tut43": "This concludes the final revisional training. Please walk over to the yellow device on the far end of the corridor.",
         "tut44": "Further instructions will be given once you awaken. Refer to the control page if needed. Good luck.",
         "tutorial": "Tutorial",
+        "categorymedical": "Medical",
+        "categorydrug": "Drugs",
+        "categorycontainer": "Containers",
+        "categoryfood": "Food",
+        "categorywater": "Water",
+        "categorytool": "Tools",
+        "categoryutility": "Utility",
         "jsonthing": "hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :)"
     },
     "character": [
@@ -2324,6 +2333,105 @@
                 "AHHH! Fuck... My ears are ringing...",
                 "CRAP! ... Ouuchhh... That was so loud...",
                 "NO!!! Fuck me, man... Aghhh, that was loud..."
+            ],
+            "tradeemeet": [
+                "Hey!",
+                "Hello?",
+                "Oh! Hello!",
+                "Hm?",
+                "Finally, someone...",
+                "...Hello?",
+                "Hay!",
+                "Hello!"
+            ],
+            "tradermeet": [
+                "Hey!",
+                "Hello!",
+                "Oh! Someone finally came over...",
+                "Heya.",
+                "Hey! Glad to see someone alive.",
+                "Hey, buddy.",
+                "Welcome!"
+            ],
+            "tradeeanswer": [
+                "Nice pod.",
+                "Sorry for breaking in.",
+                "...Yup.",
+                "Good to see a living soul down here.",
+                "I'm guessing we're in the same situation.",
+                "...So.",
+                "...hi.",
+                "Glad to see ya."
+            ],
+            "traderanswer": [
+                "I'm currently settled over here, I'll figure out where to go later...",
+                "I'm resting here as of now.",
+                "I'm taking a break in this pod. I wonder why we're all here...",
+                "*yawn*",
+                "Hmmm...",
+                "Pretty comfy in here, huh?",
+                "I'm worried about our current predicament... This place has a pretty high casualty rate.",
+                "I hope you're enjoying your stay, haha...",
+                "It's safe in here. You should rest too."
+            ],
+            "traderspeaktrade": [
+                "...Either way, I have some stuff on me if you want to trade.",
+                "...I hope you're doing well. I have a few things on me if you'd like to trade.",
+                "Well, I'm running a bit of a shop in here. Ya want anythin'?",
+                "...So, I have a few valuables in here with me. Throw me some scrap and I'll give you one!",
+                "Anyway, do you want anything?",
+                "Well, while you're here, do you want anything?",
+                "...Hmm... I could use some scrap. I'll give you something in return if you give me some."
+            ],
+            "traderdepressed": [
+                "...Uh... ...Are you okay? You look a little... Disgruntled...?",
+                "...No greetings or anything...? Wh... Why are you looking at me like that...",
+                "...? ...Um...  ...Hello..? ...You there..?",
+                "...You look terrified. Are you okay? Hello...?",
+                "Hey! How are yooouuuu......you don't look so well there, buddy... Uhm...",
+                "Hey! ...What's with that piercing look? Uhm..."
+            ],
+            "traderhurt": [
+                "Oh, oh, you don't look so well. Are you okay? Do you need help?",
+                "Ahh! Step back, you're going to bleed all over me...",
+                "...Oh. Oh, oh you do not look well. What happened?",
+                "...Do you need help with that...?"
+            ],
+            "tradeehurt": [
+                "Help me, please.",
+                "You got some meds..?",
+                "Bandage, please.",
+                "I'm bleeding, I need some assistance... ...Please."
+            ],
+            "traderhurtanswer": [
+                "...Uhm, best I can do is a rag. I hope you'll be okay.",
+                "...Heres some dressing. You can rest here. I hope you're okay!"
+            ],
+            "tradershow": [
+                "Here's what I got. Drop me scrap and I'll take it.",
+                "I've these. Drop scrap here and I'll take it.",
+                "Here. Give me scrap and I'll give you one of these.",
+                "Throw me some scrap and take one!"
+            ],
+            "tradergivescrap": [
+                "Thanks!",
+                "Adding that to the count.",
+                "Thank you!",
+                "I'll be needing that.",
+                "Aye! Thanks!",
+                "Good!"
+            ],
+            "traderbuy": [
+                "Here you are. Cheers!",
+                "Alright! That's all I can give you for now. Good luck out there.",
+                "Have this. Good luck out there!",
+                "Here. That's all, good luck!"
+            ],
+            "traderbuyfail": [
+                "Gimmie a bit more scrap.",
+                "Scrap?",
+                "Throw me some scrap first.",
+                "Scrap."
             ]
         }
     ]
