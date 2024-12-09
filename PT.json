@@ -381,7 +381,9 @@
         "brownshroom": "Marrom-gumelo",
         "brownshroomdsc": "Você não sabe muito disso além de que isso é, de fato, marrom.",
         "spentfuel": "Combustível gastado",
-        "spentfueldsc": "Uma energia estranhamente aterrorizante sai disso."
+        "spentfueldsc": "Uma energia estranhamente aterrorizante sai disso.",
+        "trader": "Sobrevivente",
+        "traderdsc": "Você provavelmente poderia fazer trocas por itens com ele."
     },
     "moodles": {
         "dead": "Morto",
@@ -699,27 +701,24 @@
         "screenbrightness": "BRILHO DA TELA",
         "gamma": "Gama",
         "paneltip": "Aperte ESC para abrir e fechar esse painel",
-        "restedamount": "% descansado",
-        "brainhealthamount": "% saúde cerebral",
         "unarmed": "Nada",
         "container": "Contêiner",
         "containermaxweight": "Capacidade",
         "containermaxweightperitem": "Máximo de peso/item",
-        "containerconditionloss": "% de condição perdida por minuto enquanto usado",
-        "conditionloss": "% condição perdida por minuto",
+        "containerconditionloss": "% deterioração por minuto enquanto usado",
+        "conditionloss": "% deterioração por minuto",
         "containerlarge": "Pode guardar itens grandes",
         "containerencumberance": "Redução de sobrecarga",
-        "nodecay": "Não apodrece",
         "weight": "Peso",
         "carrying": "Carregando",
-        "itemusablehand": "Usável a mão",
-        "itemusablewound": "Usável no painel de saúde",
+        "itemusable": "Utilizável com ",
+        "itemusablewound": "painel de sáude",
+        "itemusablehand": "mão",
         "itemonlyinhands": "Só pode segurar nas mãos",
-        "itemwearable": "Item vestível",
-        "itemwearableslot": "Slot:",
+        "itemwearable": "Slot vestível:",
         "itemwearableprotection": "Proteção:",
         "itemwearabletemperature": "Ganho de temperatura:",
-        "itemautoswing": "Ataque automático",
+        "itemvalue": "Valor de troca: ",
         "use": "Usar",
         "grab": "Pegar",
         "wear": "Vestir",
@@ -754,6 +753,8 @@
         "speed2": "Rápido",
         "speed3": "Super rápido",
         "napinfo": "(Incapaz de dormir se estiver com muita dor ou muito doente)",
+        "traded": "Trocado",
+        "shifttoexpand": "Segure SHIFT para expandir",
         "controls": "A/D - Andar\n  Mova nas paredes para derrapar nelas\nEspaço - Pular\n  Você pode dar pulos de parede\nS - Agachar\n  Encaixe-se em buracos de 3 blocos de altura\n  Você pode agachar no meio do ar\nM1 - Mão principal\n  Ataca se estiver vazia\n  Usa o item se segurar algo\nM2 - Interagir\n  Pegar itens\n  Se clique para largá-los\n  Usar itens no painel de saúde\n  Arrumar dislocações com a mão\n  Carregar/descarregar contêiners\nR - Painel de saúde\nQ - Troca rápida pelas mãos\nTAB - Lista de inventário rápido\nT - Largar rápido\n  Segure para tacar\n  Passe o mouse sobre contêiners para carregar itens rápidamente\n1/2/3 - Aceleração do tempo\n  Use isso para esperar a dor/exaustão/etc passar\nX - Desalmar\n0 - Reinício rápido\n\nPasse o mouse por cima de itens/efeitos de status para ver o que eles fazem/são",
         "tutexp1": "Outra sessão de treinamento...",
         "tutexp2": "Ãahamm...",
@@ -788,7 +789,7 @@
         "tut18": "Vamos ver o que tem de errado com você. Abra o painel de saúde com (R) ou o (botão de coração).",
         "tut19": "Uii, isso tá ruim.",
         "tut20": "Quer saber, você que vai arrumar isso. Feche o painel de saúde.",
-        "tut21": "Tá vendo essa bandagem próxima de você? Passe o mouse por cima dela. Vai dizer \"usável no painel de sáude\".",
+        "tut21": "Tá vendo essa bandagem próxima de você? Passe o mouse por cima dela enquanto segura (SHIFT). Vai dizer \"usável no painel de sáude\".",
         "tut22": "Itens no painel de saúde podem ser usados em qualquer lugar do seu corpo. Pegue a bandagem.",
         "tut23": "Volte ao painel de saúde.",
         "tut24": "Aperte (CLIQUE DIREITO) no membro sangrento e aplique a bandagem até o sangramento parar. Por enquanto, a bandagem é infinita.",
@@ -814,7 +815,14 @@
         "tut43": "E isso conclui o nosso último treinamento revisional. Por favor ande até o dispositivo amarelo no fim do corredor.",
         "tut44": "Mais instruções serão dadas á você quando acordar. Refira-se á página dos controles se necessário. Boa sorte.",
         "tutorial": "Tutorial",
-        "jsonthing": "oi, isso só tá aqui para que eu possa copiar texto json sem ter ele me irritando sobre vírgulas. essa parte não é necessária :)     ...que você tome no cu, porque você também vai ser traduzido, otário :)"
+        "categorymedical": "Medicinal",
+        "categorydrug": "Drogas",
+        "categorycontainer": "Contêiners",
+        "categoryfood": "Comida",
+        "categorywater": "Água",
+        "categorytool": "Ferramentas",
+        "categoryutility": "Utilidade",
+        "jsonthing": "oi, isso só tá aqui para que eu possa copiar texto json sem ter ele me irritando sobre vírgulas. essa parte não é necessária :)     ...que você que se dane, porque você também vai ser traduzido, otário :)"
     },
     "character": [
         {
@@ -2324,6 +2332,107 @@
                 "AHHH! Porra... Meus ouvidos estão zumbindo...",
                 "MERDA! ... Aiii... Isso foi tão alto...",
                 "NÃO!! Toma no cu, velho... Argh, aquilo foi alto..."
+            ]
+            "tradeemeet": [
+                "Eai!",
+                "Olá?",
+                "Ah! Olá!",
+                "Hmm?",
+                "Finalmente, alguém vivo...",
+                "...Oi?",
+                "Saudações!",
+                "Oláa!"
+            ],
+            "tradermeet": [
+                "Opá!",
+                "Olá!",
+                "Ah! Alguém finalmente apareceu...",
+                "Eai.",
+                "Ei, é bom ver alguém vivo.",
+                "Eai, camarada.",
+                "Bem vindo!"
+            ],
+            "tradeeanswer": [
+                "Cápsula legal.",
+                "Desculpa por não bater na porta.",
+                "...Éeh.",
+                "É bom ver uma alma viva aqui embaixo.",
+                "Aposto que estamos na mesma situação.",
+                "...Então.",
+                "...... oi.",
+                "Bom te ver."
+            ],
+            "traderanswer": [
+                "Eu tô empacado aqui, depois eu vejo onde eu vou...",
+                "Eu estou descansando aqui por enquanto.",
+                "Eu tô dando uma pausa nessa cápsula. Me pergunto por que estamos todos aqui...",
+                "*bocejo*",
+                "Hmmm...",
+                "É confortável justo aqui, né?",
+                "Eu tô preocupado com nossa situação... Esse lugar tem uma taxa de morte bem alta.",
+                "Espero que esteja aproveitando sua estadia aqui, haha...",
+                "É seguro aqui. Você deveria descançar também."
+            ],
+            "traderspeaktrade": [
+                "...De qualquer jeito, eu tenho umas coisas comigo se quiser negociar.",
+                "...Eu espero que você esteja indo bem. Eu tenho umas coisas comigo caso você queira fazer umas trocas.",
+                "Bem, eu tô com um mercadinho aqui, vai querer alguma coisa?",
+                "...Então, eu tenho algumas riquezas aqui comigo. Me dê umas coisas boas que eu te dou umas de volta!",
+                "Então, você quer alguma coisa?",
+                "Bem, enquanto você está aqui, vai querer alguma coisa?",
+                "...Hhmmm. Eu poderia trocar algumas coisas. Você está interessado em algo?"
+            ],
+            "traderdepressed": [
+                "...Uhh... ...Você tá bem? Você parece meio... Magoado..?",
+                "...Sem falar oi e nem nada..? Por... Por que você tá olhando pra mim desse jeito..?",
+                "...? ...Uuhmm...  ...Oi..? ...Tá ai..?",
+                "...Você parece aterrorizado. Você tá bem? Alô..?",
+                "Opá! Como você táaaah...... você não parece tá legal ai, cara... uhh...",
+                "Ah! ...Por que tá com esse olhar penetrante ai? Humm..."
+            ],
+            "traderhurt": [
+                "Áah..! Ahh, você não parece tá legal. Você... vai ficar bem? Precisa de algo?",
+                "Áahh! Fica longe, você vai sangra tudo em mim...",
+                "...Ah. Hum, ah você não parece bom. O que aconteceu?",
+                "...Precisa de ajuda com isso..?"
+            ],
+            "tradeehurt": [
+                "Me ajuda, por favor.",
+                "Você tem curativos..?",
+                "Bandagem, por favor.",
+                "Eu tô sangrando, preciso de ajuda... ...Por favor."
+            ],
+            "traderhurtanswer": [
+                "...Uhm, best I can do is a rag. I hope you'll be okay.",
+                "...Heres some dressing. You can rest here. I hope you're okay!"
+            ],
+            "tradershow": [
+                "Here's what I got. Hand me over some goods and you can take 'em.",
+                "I've these. Drop items here and I'll take them.",
+                "Here. Throw me your stuff and I'll give you one of these.",
+                "Give me some stuff and take your pick."
+            ],
+            "tradergiveitem": [
+                "Thanks!",
+                "Adding that to the count.",
+                "Thank you!",
+                "I'll be needing that.",
+                "Aye! Thanks!",
+                "Good!"
+            ],
+            "traderbuy": [
+                "Here you are. Cheers!",
+                "Alright! Here's your pick. Good luck out there.",
+                "Have this. Thank ya, mate.",
+                "Here, have this.",
+                "Pleasure doing business with you, haha.",
+                "There."
+            ],
+            "traderbuyfail": [
+                "Gimmie a few more things.",
+                "I'm not going first.",
+                "Hand over a few more things first.",
+                "Pay first!"
             ]
         }
     ]
