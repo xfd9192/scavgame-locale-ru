@@ -62,6 +62,8 @@
         "bloodbagdsc": "Plastikowy worek wypełniony krwią z automatycznym wstrzykiwaczem na jego końcu. Picie z niego nie jest rekomendowane.",
         "saline": "Sól fizjologiczna",
         "salinedsc": "Mieszanina soli i wody, często użyta w leczeniu hipowolemii. Ma igłę na końcu.",
+        "ringersolution": "Roztwór Ringera",
+        "ringersolutiondsc": "Roztwór kilku soli rozpuszczonych w wodzie w celu stworzenia roztworu izotonicznego podobnego do płynów ustrojowych zwierzęcia. Dobry na pragnienie i utratę krwi.",
         "bloodbaghuman": "Czerwony worek krwi",
         "bloodbaghumandsc": "Plastikowy worek wypełniony krwią dziwnego ubarwnienia i automatycznym wstrzykiwaczem na jego końcu. Prawdopodobnie niezdrowe.",
         "bloodbagempty": "Pusty worek krwi",
@@ -77,7 +79,7 @@
         "disinfectant": "Środek dezynfekujący",
         "disinfectantdsc": "Butelka dezynfekującego płynu. Tymczasowo zapobiega infekcjom skóry i pomaga zwalczać bardzo osłabione infekcje.",
         "scrapmetal": "Złom",
-        "scrapmetaldsc": "Części stali z zniszczonej maszyny. Może zostać postawione.",
+        "scrapmetaldsc": "Części stali z zniszczonej maszyny. Może zostać postawione. Często używany jako towar handlowy pomiędzy ocalałymi.",
         "bloodcrystalshard": "Odłamek kryształu krwi",
         "bloodcrystalsharddsc": "Przesiąka krew w cokolwiek co dotknie. Powoli zwiększa objętość krwi do normalnych wartości gdy jest przechowywany na twoim ciele.",
         "soothingcrystalshard": "Uspokajający odłamek kryształu",
@@ -284,6 +286,8 @@
         "largecarcassdsc": "Dwa połączone ze sobą ciała owadów, tworzące kształt półrurki. Mogą być połączone z innymi wielkimi szczątkami by utworzyć szynę.",
         "carcasssplint": "Padlinowa szyna",
         "carcasssplintdsc": "Twarda, długa tuba wytworzona z paru złączonych ze sobą szczątków owadów. Może być użyta jako prowizoryczna szyna używana do radzenia sobie z złamaniami.",
+        "terrainscanner": "Skaner terenu",
+        "terrainscannerdsc": "Pokazuje ci mapę terenu pod tobą w niskiej jakości. Teren jestp podświetlony na zielono, budynki i konstrukcje są podświetlone na czerwono. Ma zasięg do 24 metrów w dół.",
         "browncap": "Brązowy kapelusznik",
         "browncapdsc": "Nie wiadomo dokładnie co to za rodzaj grzyba. Może będzie leczyć rany a może zabiję cię na miejscu."
     },
@@ -377,7 +381,9 @@
         "brownshroom": "Brązowy grzyb",
         "brownshroomdsc": "Nie możesz za dużo o nim powiedzieć poza faktem że jest faktycznie brązowy.",
         "spentfuel": "Zużyte paliwo",
-        "spentfueldsc": "Dziwnie przerażająca energia eminuje z tego."
+        "spentfueldsc": "Dziwnie przerażająca energia eminuje z tego.",
+        "trader": "Ocalały",
+        "traderdsc": "Pewnie możesz z nim handlować."
     },
     "moodles": {
         "dead": "Martwy",
@@ -433,6 +439,7 @@
         "sepsis3": "Posoczniczy szok",
         "concussion": "Wstrząs Mózgu",
         "unconscious": "Nieprzytomny",
+        "incapacitated": "Niesprawny",
         "asleep": "Śpiący",
         "confused1": "Zdezorientowany",
         "confused2": "Bardzo zdezorientowany",
@@ -494,6 +501,7 @@
         "irradiated3": "Poważna choroba popromienna",
         "irradiated4": "Chodzący czarnobyl",
         "energized": "Pełny energii",
+        "hemothorax": "Krwiak opłucnowy",
 
         "deaddsc": "Permanentna, nieodwracalna i kompletna utrata funkcji mózgowych. Porzuciłeś ten świat, tak samo jak reszta.",
         "braindamage3dsc": "Ledwo trzymający się życia, cierpiący na poważne urazy mózgu. Jesteś warzywem. Powrót do zdrowia nieprawdopodobny.",
@@ -548,6 +556,7 @@
         "sepsis3dsc": "Krytycznie niskie ciśnienie krwi i dysfunkcja kilku narządów spowodowanych przez posocznicę. Nadciąga prędka śmierć.",
         "concussiondsc": "Stan nieprzytomności spowodowany niskim zdrowiem głowy - obudzisz się jak zagoi ci się głowa.",
         "unconsciousdsc": "Nie odpowiadający na żadne bodźce zewnętrzne. Utrata przytomności.",
+        "incapacitateddsc": "Nie może stać ani myśleć. Ledwo cokolwiek czujesz.",
         "asleepdsc": "Drzemka",
         "confused1dsc": "Poczucie rozkojarzenia i oszołomienia.",
         "confused2dsc": "Rozkojarzony i oszołomiony, mający problemy nadążyć z swoim otoczeniem.",
@@ -604,7 +613,8 @@
         "irradiated2dsc": "Mdłości i stany podgorączkowe. Twoja skóra boli i wydaje się gorąca. Coś jest naprawdę nie tak. To jest niepokojące.",
         "irradiated3dsc": "Okropnie chory z bólem w całym ciele. Oddychanie i myślenie jest strasznie trudne. Czujesz się wstrętnie.",
         "irradiated4dsc": "To nie zbyt przyjemna dobranocka.",
-        "energizeddsc": "Męczenie i utrata energii zmniejszone przez pewne substancje (<>)."
+        "energizeddsc": "Męczenie i utrata energii zmniejszone przez pewne substancje (<>).",
+        "hemothoraxdsc": "Krew gromadzi się w jamie opłucnej z powodu krwawienia wewnętrznego. Boli cię klatka piersiowa... Wymagane leczenie."
     },
     "other": {
         "layertitle1": "Żwirowiska",
@@ -675,11 +685,13 @@
         "lootdepthmultiplier": "Mnożnik głębokości łupu",
         "trapdepthincrease": "Zwiększenie głębokości pułapek",
         "radiationline": "Linia radiacji",
+        "unchipped": "Niezaczipowany",
         "looatmountdsc": "Całkowita ilość łupu",
         "trapamountdsc": "Całkowita ilość pułapek",
         "lootdepthmultiplierdsc": "Pomnóż ilość łupu przez to co warstwę",
         "trapdepthincreasedsc": "Zwiększ ilość pułapek przez to co warstwę",
         "radiationlinedsc": "Linia radiacji która zmusza cię byś poruszał się w dół",
+        "unchippeddsc": "Brak czipa mózgowego co pokazuje stan zdrowia",
         "notforbeginners": "Tryb bonusowy - nie zalecane dla początkujących graczy",
         "startrun": "Zacznij",
         "resettodefault": "Przywróć domyślne",
@@ -689,27 +701,23 @@
         "screenbrightness": "JASNOŚĆ EKRANU",
         "gamma": "Gamma",
         "paneltip": "Naciśnij ESCAPE by otworzyć/zamknąć ten panel",
-        "restedamount": "% odpocznięto",
-        "brainhealthamount": "% zdrowie mózgu",
         "unarmed": "Brak",
         "container": "Pojemnik",
         "containermaxweight": "Pojemność",
         "containermaxweightperitem": "Maksymalna waga/przedmiot",
-        "containerconditionloss": "% utraty kondycji/minutę gdy używane",
-        "conditionloss": "% utraty kondycji/minutę",
+        "containerconditionloss": "% utraty zużycia/minutę gdy używane",
+        "conditionloss": "% utraty zużycia/minutę",
         "containerlarge": "Może przechowywać wielkie przedmioty",
         "containerencumberance": "Obciążenie",
-        "nodecay": "Nie traci kondycji",
         "weight": "Waga",
         "carrying": "Noszony",
-        "itemusablehand": "Użyte w dłoniach",
-        "itemusablewound": "Użyte w panelu zdrowia",
-        "itemonlyinhands": "Można trzymać tylko w dłoniach",
-        "itemwearable": "Noszony",
-        "itemwearableslot": "Slot:",
+        "itemusablehand": "Użyte w",
+        "itemusablewound": "panelu zdrowia",
+        "itemonlyinhands": "dłoniach",
+        "itemwearable": "Slot do noszenia:",
         "itemwearableprotection": "Ochrona:",
         "itemwearabletemperature": "Wzrost temperatury:",
-        "itemautoswing": "Auto-zamach",
+        "itemvalue": "Wartość handlowa: ",
         "use": "Użyj",
         "grab": "Weź",
         "wear": "Załóż",
@@ -726,7 +734,7 @@
         "watchbleedout": "Wykrwawienie: ",
         "watchinfected": "infekcje: ",
         "watchlimbheal": " Czas leczenia: ",
-        "watchweight": "waga: ",
+        "watchweight": "waga ",
         "watchweightlost": "utracono",
         "watchweightgained": "nabyto",
         "watchruntime": "czas pobytu: ",
@@ -743,6 +751,8 @@
         "speed1": "Normalny",
         "speed2": "Szybki",
         "speed3": "Bardzo szybki",
+        "traded": "Z handlu",
+        "shifttoexpand": "Przytrzymaj Shift by rozwinąć",
         "napinfo": "(Nie może spać jeśli w bólu, bądź bardzo chory)",
         "controls": "A/D - Poruszanie\n  Wchodź w ściany by się po nich ześlizgiwać\n Spacja - Skok\n  Możesz odskakiwać od ścian\n S - Kucnij\n  Kucaj by zmieścić się w szparach wysokości 3 bloków\n  Możesz też kucać w powietrzu\n LMB - Główna ręka\n  Zamachnij się jeśli masz puste ręce\n  A użyj przedmiotu jeśli takowy trzymasz\n RMB - Interakcja\n  Podnoś przedmioty\n  Naciśnij na siebie by je wyrzucić\n  Możesz używać niektórych przedmiotów w panelu zdrowia\n  Naprawiaj zwichnięcia ręcznie w panelu zdrowia\n  Pakuj/Wypakowywuj pojemniki\n R - Panel zdrowia\n Q - Szybka zmiana dłonii\n TAB - Szybka lista ekwipunku\n T - Szybkie wyrzucenie przedmiotu\n  Przytrzymaj by rzucić dalej\n  Najedź na pojemnik by szybko spakować przedmioty\n 1/2/3 - Przyśpieszenie czasu\n  Używaj przyśpieszenia by przeczekać ból/zmęczenie itd.\n X - Ragdoll\n 0 - Szybki restart\n\n Najeżdżaj na przedmioty/statusy by dowiedzieć się co robią",
         "tutexp1": "Kolejna sesja treningowa.",
@@ -778,7 +788,7 @@
         "tut18": "Zobaczmy co się z tobą dzieje. Otwórz panel zdrowia za pomocą (R) (albo przycisku oznaczonego sercem).",
         "tut19": "Auć, to wygląda okropnie.",
         "tut20": "Powiem ci to, naprawisz to. Zamknij panel zdrowia.",
-        "tut21": "Widzisz ten bandaż obok ciebie? Najedź na niego. Jest napisane \"Użyte w panelu zdrowia\".",
+        "tut21": "Widzisz ten bandaż obok ciebie? Najedź na niego trzymając (SHIFT). Jest napisane \"Użyte w panelu zdrowia\".",
         "tut22": "Przedmioty w panelu zdrowia można używać z dowolnego miejsca na twoim ciele. Podnieś to.",
         "tut23": "Powróć do panelu zdrowia.",
         "tut24": "Naciśnij prawym przyciskiem myszy na krwawiącą kończynę i zabandażuj ją dopóki nie przestanie krwawić. Jak narazie, ten bandaż jest nieskończony.",
@@ -804,6 +814,13 @@
         "tut43": "To kończy ostatnie szkolenie powtórkowe. Proszę podejdź do tego żółtego urządzenia na drugim końcu korytarza.",
         "tut44": "Dalsze instrukcje zostaną ci podane gdy się obudzisz. W razie potrzeby zapoznaj się ze układem sterowania. Powodzenia.",
         "tutorial": "Samouczek",
+        "categorymedical": "Medyczne",
+        "categorydrug": "Narkotyki",
+        "categorycontainer": "Pojemniki",
+        "categoryfood": "Jedzenie",
+        "categorywater": "Woda",
+        "categorytool": "Narzędzia",
+        "categoryutility": "Akcesoria",
         "jsonthing": "dzień dobry pedale hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :)"
     },
     "character": [
@@ -1157,6 +1174,29 @@
                 "Moje ciało się... mi przeciwstawia...",
                 "To nie idzie... ghghuh... najlepiej...",
                 "Jebać mnie... Ough... kurde..."
+            ],
+            "vomitblood": [
+                "Bluughh... Ja... Oh. O bożę, to krew...",
+                "Ghghh... *kaszel* ...Kurwa... To jest... Krew...",
+                "No i tu jest mój... obia... Oh. O nie nie nie. O nie. To jest krew którą ja właśnie zwymiotowałem...",
+                "Bllggh... ugh... Ja... O... Bożę...",
+                "Czy to jest... Czy to jest krew co ja właśnie... Blugh...",
+                "Jestem prawie pewien że krew nie powinna tego robić.",
+                "Guhhgh... Czemu moje rzygi... Są takie żółte...?",
+                "Uughh... Coś jest... Bardzo nie tak...",
+                "To... Nie tak jak smakują rzygi... Cz-czekaj...",
+                "Guughhg... hcck... To... To nie było z mojego żołądka. Oh... O bożę.",
+                "Uuughgh... Pomocy... To krew co ja właśnie wyrzygałem...",
+                "Ja nie wierzę... Czy ja po prostu... Zwymiotowałem krwią...",
+                "Guuhghh... ughh... To jest... Złe...",
+                "Jest mi słabo.. gughh... To było... Dziwne odczucie...",
+                "...uughh... obrzydliwe- ...Krew. To jest krew. Właśnie wyrzygałem krew. O nie. O NIE.",
+                "Ff.... Kuźwa... ugh... Krew... To nie może być dobre...",
+                "Wow... ja po prostu... zwymiotowałem... ...Krwią? ..Huh?",
+                "Ghhuhh... Czemu ja... Po prostu...",
+                "Ja jestem... guugh... ...Jestem prawie pewien że to krew... Krwawię wewnątrz...",
+                "To są... ghghuh... Rzygi... To nie są... Oh...",
+                "Jebać mnie... Ough... Kuźde... Nie we ten sposób..."
             ],
             "full": [
                 "Tyle wystarczy.",
@@ -2267,6 +2307,106 @@
                 "AHHH! Kuźwa... Dzwoni mi w uszach...",
                 "KUŹDE! ... Ałłłć... To było głośne...",
                 "NIE!!! Kurwa, człowieku... Aghhh, to było głośne..."
+                 ],
+            "tradeemeet": [
+                "Hey!",
+                "Hello?",
+                "Oh! Hello!",
+                "Hm?",
+                "Finally, someone...",
+                "...Hello?",
+                "Hay!",
+                "Hello!"
+            ],
+            "tradermeet": [
+                "Hey!",
+                "Hello!",
+                "Oh! Someone finally came over...",
+                "Heya.",
+                "Hey! Glad to see someone alive.",
+                "Hey, buddy.",
+                "Welcome!"
+            ],
+            "tradeeanswer": [
+                "Nice pod.",
+                "Sorry for breaking in.",
+                "...Yup.",
+                "Good to see a living soul down here.",
+                "I'm guessing we're in the same situation.",
+                "...So.",
+                "...hi.",
+                "Glad to see ya."
+            ],
+            "traderanswer": [
+                "I'm currently settled over here, I'll figure out where to go later...",
+                "I'm resting here as of now.",
+                "I'm taking a break in this pod. I wonder why we're all here...",
+                "*yawn*",
+                "Hmmm...",
+                "Pretty comfy in here, huh?",
+                "I'm worried about our current predicament... This place has a pretty high casualty rate.",
+                "I hope you're enjoying your stay, haha...",
+                "It's safe in here. You should rest too."
+            ],
+            "traderspeaktrade": [
+                "...Either way, I have some stuff on me if you want to trade.",
+                "...I hope you're doing well. I have a few things on me if you'd like to trade.",
+                "Well, I'm running a bit of a shop in here. Ya want anythin'?",
+                "...So, I have a few valuables in here with me. Throw me some goods and I'll give you some back!",
+                "Anyway, do you want anything?",
+                "Well, while you're here, do you want anything?",
+                "...Hmm. I could trade some goods. Are you interested in anything in particular?"
+            ],
+            "traderdepressed": [
+                "...Uh... ...Are you okay? You look a little... Disgruntled...?",
+                "...No greetings or anything...? Wh... Why are you looking at me like that...",
+                "...? ...Um...  ...Hello..? ...You there..?",
+                "...You look terrified. Are you okay? Hello...?",
+                "Hey! How are yooouuuu......you don't look so well there, buddy... Uhm...",
+                "Hey! ...What's with that piercing look? Uhm..."
+            ],
+            "traderhurt": [
+                "Oh, oh, you don't look so well. Are you okay? Do you need help?",
+                "Ahh! Step back, you're going to bleed all over me...",
+                "...Oh. Oh, oh you do not look well. What happened?",
+                "...Do you need help with that...?"
+            ],
+            "tradeehurt": [
+                "Help me, please.",
+                "You got some meds..?",
+                "Bandage, please.",
+                "I'm bleeding, I need some assistance... ...Please."
+            ],
+            "traderhurtanswer": [
+                "...Uhm, best I can do is a rag. I hope you'll be okay.",
+                "...Heres some dressing. You can rest here. I hope you're okay!"
+            ],
+            "tradershow": [
+                "Here's what I got. Hand me over some goods and you can take 'em.",
+                "I've these. Drop items here and I'll take them.",
+                "Here. Throw me your stuff and I'll give you one of these.",
+                "Give me some stuff and take your pick."
+            ],
+            "tradergiveitem": [
+                "Thanks!",
+                "Adding that to the count.",
+                "Thank you!",
+                "I'll be needing that.",
+                "Aye! Thanks!",
+                "Good!"
+            ],
+            "traderbuy": [
+                "Alright! Here's your pick. Good luck out there.",
+                "Have this. Thank ya, mate.",
+                "Here, have this.",
+                "Pleasure doing business with you, haha.",
+                "There."
+            ],
+            "traderbuyfail": [
+                "Gimmie a few more things.",
+                "I'm not going first.",
+                "Hand over a few more things first.",
+                "Pay first!"
             ]
         }
     ]
