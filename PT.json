@@ -2403,36 +2403,36 @@
                 "Eu tô sangrando, preciso de ajuda... ...Por favor."
             ],
             "traderhurtanswer": [
-                "...Uhm, best I can do is a rag. I hope you'll be okay.",
-                "...Heres some dressing. You can rest here. I hope you're okay!"
+                "...Uhm, o melhor que tenho é um trapo velho. Espero que você fique bem.",
+                "...Pegue um curativo. Você pode descansar aqui. Desejo melhoras!"
             ],
             "tradershow": [
-                "Here's what I got. Hand me over some goods and you can take 'em.",
-                "I've these. Drop items here and I'll take them.",
-                "Here. Throw me your stuff and I'll give you one of these.",
-                "Give me some stuff and take your pick."
+                "Isso é o que eu tenho. Me dê algo de valor e você pode pegar.",
+                "Tenho isso. Solte os itens que você quiser me entregar.",
+                "Aqui. Passa pra mim o que você não quer mais e escolha algo.",
+                "Me entregue algo seu e escolha alguma coisa."
             ],
             "tradergiveitem": [
-                "Thanks!",
-                "Adding that to the count.",
-                "Thank you!",
-                "I'll be needing that.",
-                "Aye! Thanks!",
-                "Good!"
+                "Obrigado!",
+                "Mais um pra conta.",
+                "Agradeço!",
+                "Vou precisar disto.",
+                "Isso! Valeu!",
+                "Bom!"
             ],
             "traderbuy": [
-                "Here you are. Cheers!",
-                "Alright! Here's your pick. Good luck out there.",
-                "Have this. Thank ya, mate.",
-                "Here, have this.",
-                "Pleasure doing business with you, haha.",
-                "There."
+                "Aqui está. Bom proveito!",
+                "Tudo certo! Tome o que você escolheu. Boa sorte ai fora.",
+                "Pode pegar. Valeu camarada.",
+                "Aqui, pegue isso.",
+                "Prazer em fazer negócios com você, haha.",
+                "Pegue."
             ],
             "traderbuyfail": [
-                "Gimmie a few more things.",
-                "I'm not going first.",
-                "Hand over a few more things first.",
-                "Pay first!"
+                "Me dê mais alguma coisa.",
+                "Não vou primeiro.",
+                "Entregue algo á mais primeiro.",
+                "Pague primeiro!"
             ]
         }
     ]
