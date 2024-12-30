@@ -48,6 +48,8 @@
         "antidepressantsdsc": "Uma garrafa de antidepressivos fortes. Faz você sentir menos de tudo por um certo tempo, e lentamente aumenta a felicidade. Pode ter efeitos colaterais.",
         "antibiotics": "Antibióticos",
         "antibioticsdsc": "Uma garrafa com antibióticos. Luta contra infecções pelo corpo todo, reduzindo a infecção por 8% em todos os membros. Pode precisar de muitas doses para se livrar de infecções mais fortes. Tem um gosto horrível.",
+        "antiserum": "Anti-soro",
+        "antiserumdsc": "Um soro sanguíneo contendo anticorpos para combater infecções comuns. Reduz a infecção em todos os membros e ajuda contra a sepse. Aumenta um pouco o volume sanguíneo.",
         "antirad": "Anti-rads",
         "antiraddsc": "Uma garrafa com medicina experimental que diretamente reduz os efeitos de radiação após o consumo. Vai precisar de muitas doses para combater problemas causados pela radiação.",
         "sleepingpills": "Pilulas para dormir",
