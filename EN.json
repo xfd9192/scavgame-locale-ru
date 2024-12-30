@@ -48,6 +48,8 @@
         "antidepressantsdsc": "A bottle of potent antidepressants. Makes you feel everything less for some time, and slowly increases happiness. Might have side effects.",
         "antibiotics": "Antibiotics",
         "antibioticsdsc": "A bottle with antibiotics. Fights off infection in all limbs, instantly reducing infection by 8% in each limb. Requires multiple uses at once to get rid of stronger infections. Upsetting taste.",
+        "antiserum": "Antiserum",
+        "antiserumdsc": "A blood serum containing antibodies to fight off most common infections. Reduces infection across all limbs and helps reduce sepsis. Slightly increases blood volume.",
         "antirad": "Anti-rad",
         "antiraddsc": "A bottle with special, experimental medicine that directly reduces the effects of radiation when taken. Will require high doses to combat radiation sickness.",
         "sleepingpills": "Sleeping pills",
