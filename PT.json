@@ -538,11 +538,11 @@
         "energized": "Energizado",
         "hemothorax": "Hemotórax",
 
-        "deaddsc": "Perda de função cerebral completa, permante e irreversivel. Você deixou este mundo, diferente dos outros.",
+        "deaddsc": "Perda de função cerebral completa, permanente e irreversível. Você deixou este mundo, diferente dos outros.",
         "braindamage3dsc": "Mal consegue se manter vivo, sofrendo de danos cerebrais severos. Praticamente um vegetal. Recuperação improvável.",
         "braindamage2dsc": "Significativamente incapacitado mentalmente, mal consegue raciocinar e ficar acordado. Presença séria de dano cerebral.",
         "braindamage1dsc": "Mentalmente debilitado devido a dano no cérebro. Você se sente estranhamente confuso...",
-        "cantbreathedsc": "Sufocando! Perda da consciência e morte iminentes se não tratado.",
+        "cantbreathedsc": "Sufocando! Perda de consciência e a morte se aproximam se não for não tratado.",
         "oxygen1dsc": "Niveis de oxigênio reduzidos. Levemente confuso, pele emborrachada. Há algo errado...",
         "oxygen2dsc": "Sem oxigênio suficiente circulando pelo corpo. Sentindo a cabeça leve e dormente nas extremidades. Há algo muito errado.",
         "oxygen3dsc": "Consciência perdida. Tecidos privados de oxigênio. Dano cerebral iminente.",
