@@ -4,8 +4,8 @@
     "replaceSpecialFonts": false,
     "outdated": false,
     "main": {
-        "bandage": "Dressing",
-        "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
+        "bandage": "Bandage",
+        "bandagedsc": "Un rouleau de sparadrap avec un bandage, sert à ralentir les saignements, à stabliser les fractures et soigner la peau. Aucun d'éffet sur le maintien musculaire.",
         "rag": "Old rag",
         "ragdsc": "A worn, crumpled up rag. Can be used as decent makeshift dressing.",
         "analgesicgauze": "Medical gauze",
@@ -1114,33 +1114,33 @@
                 "Sommeil..."
             ],
             "verytired": [
-                "Ughh....",
-                "Yyyawwwnnn...",
-                "I'm soooo tired...",
-                "Ugh... I'm tired...",
-                "I want to lay down...",
-                "It's hard to keep my eyes open...",
-                "I feel like I'm about to fall asleep at any moment...",
-                "Sleep...? Please?",
-                "I'm going to collapse...",
-                "Can't... keep... going...",
-                "Buh... sleep...",
-                "Need to eep... mmm...",
-                "My eyes are closing...",
-                "I seriously... need sleep...",
-                "I have to... lie down...",
-                "My eyes are so heavy...",
-                "I can't... see straight...",
-                "Just some sleep...",
-                "I'm so... worn out...",
-                "Can't keep my eyes open...",
-                "When can I lay down...",
-                "I'm about to fall asleep...",
+                "Ouf....",
+                "*bââââââille*",
+                "Je suis troooop fatigué...",
+                "Ouf... Je suis crevé...",
+                "Je veux m'allonger...",
+                "C'est dur de garder mes yeux ouverts...",
+                "J'ai l'impression de que vais m'endormir d'un moment à l'autre...",
+                "Dormir...? S'il vous plaît?",d
+                "Je vais m'effondrer...",
+                "Je peux... pas... continuer...",
+                "Guh... dormir...",
+                "Need to eep... mmm...",d
+                "Mes yeux se ferment...",
+                "J'ai vraiment... besoin de dormir...",
+                "Je dois... m'allonger...",
+                "Mes paupières sont lourdes...",
+                "J'arrive plus... à bien boir...",
+                "Un tout petit peu de sommeil...",
+                "Je suis... éreinté...",
+                "J'arrive pas à garder mes yeux ouverts...",
+                "C'est quand que je peux m'assoir...",
+                "Je vais m'endormir...",
                 "...",
-                "So tired...",
-                "I'm so sleepy...",
-                "Really tired...",
-                "Let me rest..."
+                "Trop fatigué...",
+                "J'ai tellement sommeil...",
+                "Vraiment fatigué...",
+                "Laissez-moi me reposer..."
             ],
             "confused": [
                 "What's happening...?",
@@ -1813,7 +1813,7 @@
                 "M-merde... Concentre toi... Je peux réparer ça...",
                 "Oh putain. Merde. J... J'ai peur...",
                 "Je vois tout flou...",
-                "Des Bandages! C-c'est urgent..."
+                "Une compresse! C-c'est urgent..."
             ],
             "steponglass": [
                 "Je devrais nettoyer les éclats de verre la prochaine fois...",
@@ -2478,12 +2478,12 @@
             "tradeehurt": [
                 "Aidez-moi, s'il vous plaît.",
                 "Vous avez des médocs..?",
-                "Un bandage, s'il vous plaît.",
+                "Du sparadrap, s'il vous plaît.",
                 "Je saigne, j'ai besoin d'aide... ...S'il vous plaît."
             ],
             "traderhurtanswer": [
                 "...Euh, le mieux que je puisse faire, c'est un chiffon. J'espère que ça ira.",
-                "...Tiens un pansement. Tu peux te reposer ici. J'espère que tu vas bien!"
+                "...Tiens un bandage. Tu peux te reposer ici. J'espère que tu vas bien!"
             ],
             "tradershow": [
                 "Voilà ce que j'ai. Contre quelques objets, tu peux les prendre.",
