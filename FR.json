@@ -341,9 +341,9 @@
         "corpsedsc": "",
         "glassshards": "Éclats de verre",
         "glassshardsdsc": "",
-        "sandvine": "Liane des sables",d
+        "sandvine": "Liane des sables",
         "sandvinedsc": "",
-        "shadecrawler": "Shade crawler",d
+        "shadecrawler": "Ombrôdeur",
         "shadecrawlerdsc": "",
         "wallbiter": "Wall biter",d
         "wallbiterdsc": "Une créature à six pattes velue et de taille inquiétante. On peut voir ce qui ressemble à des dents acérées en sortir. Il semble qu'elle se déplace de manière erratique.",
@@ -367,8 +367,8 @@
         "jumppaddsc": "Il y a une plaque de pression dessus.",
         "landmine": "Mine",
         "landminedsc": "Passif-agressif.",
-        "leadbush": "Leadbush",d
-        "leadbushdsc": "It has pieces of heavy metal growing on it. While it looks like a plant, it's actually an animal!",d
+        "leadbush": "Cuivrisson",
+        "leadbushdsc": "Il y a des morceaux de métaux lourds qui poussent dessus. Bien qu'il ressemble à une plante, c'est en fait un animal !",
         "lifepodchest": "Life-pod chest",d
         "lifepodchestdsc": "Contient probablement du matériel de première nécessité.",
         "LifePodLight": "Lampe",
