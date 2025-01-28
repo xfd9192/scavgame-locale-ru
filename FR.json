@@ -18,8 +18,8 @@
         "plasticbandagedsc": "Un rouleau de matériau synthétisé pour sa résistance, conçu pour couvrir efficacement les plaies et stabiliser les fractures. Aucun effet sur le maintien musculaire.",
         "adhesivebandage": "Pansements adhésifs",
         "adhesivebandagedsc": "Une boite de pansements, pour traiter les petites blessures. Diminue les saignements.",
-        "musharm": "Mush arm",d
-        "musharmdsc": "Partie de plante non comestible, utile comme pansement de fortune à usage unique.",
+        "musharm": "Fongi-branche",
+        "musharmdsc": "Partie non comestible d'une plante, utile comme pansement de fortune à usage unique.",
         "paincream": "Crème antidouleur",
         "paincreamdsc": "Une bouteille remplie d'un mélange de matières actives. Soulage instantanément la douleur à l'endroit où appliqué. L'effet ne dure pas. Peut aussi servir comme désinfectant décent pour les plaies.",
         "morphine": "Morphine",
@@ -80,8 +80,8 @@
         "legpouchdsc": "Une sacoche en cuir avec des sangles pour faire le tour de la cuisse. C'est comme une poche de poche !",
         "purse": "Sac à main",
         "pursedsc": "Un sac de taille moyenne utilisé pour transporter des effets personnels. Plutôt fashion !",
-        "pouch": "Pouch",d
-        "pouchdsc": "A small green bag made of woven synthetic fiber. Has no handle.",d
+        "pouch": "Trousse",
+        "pouchdsc": "Un petit sac vert en tissu synthétique. N'a pas de poignée.",
         "brokenbag": "Cartable déchiré",
         "brokenbagdsc": "Un vieux cartable très usé. Les sangles sont déchirées et inutilisables, ce qui le rend impossible à porter sur le dos.",
         "box": "Carton",
@@ -110,20 +110,20 @@
         "digestioncrystalsharddsc": "On dirait que ça retire de la matière de votre corps... Diminue les maladies lorsqu'il est stocké sur vous.",
         "geofruit": "Géofruit",
         "geofruitdsc": "Fruit simple, mais savoureux. Pousse sur les géoabres. Faible en calories, réduit un peu la soif et se décompose rapidement.",
-        "stonefruitclosed": "Fruit pierre accroché",
+        "stonefruitclosed": "Fruit roc accroché",
         "stonefruitcloseddsc": "Un fruit vert dur collé à une partie dure et grise de sa plante. Vous devez d'abord le séparer à l'aide de vos dents.",
-        "stonefruitopen": "Fruit pierre",
+        "stonefruitopen": "Fruit roc",
         "stonefruitopendsc": "Un fruit vert dur au goût neutre et à moyenne teneur en matières grasses. Il est très sec, vous aurez probablement soif après l'avoir mangé.",
         "banana": "Banane",
         "bananadsc": "Un délicieux fruit jaune, qui pourrait venir d'une autre planète. Légèrement radioactif.",
         "burger": "Burger",
         "burgerdsc": "Une collation copieuse et savoureuse. De quoi combler la faim et le cœur !",
-        "pizzaslice": "Tranche de pizza",
+        "pizzaslice": "Part de pizza",
         "pizzaslicedsc": "Une part de pizza cuite au four. Très savoureux, copieux et nourrissant !",
-        "bucketofchicken": "Bucket of chicken",d
-        "bucketofchickendsc": "A bunch of chicken legs in a bucket. Very filling.",d
-        "bucketofnochicken": "Bucket of no chicken",d
-        "bucketofnochickendsc": "An empty chicken bucket.",d
+        "bucketofchicken": "Bucket de poulet",
+        "bucketofchickendsc": "Des pilons de poulet dans un sceau. Très nourrissant.",
+        "bucketofnochicken": "Bucket de non poulet",
+        "bucketofnochickendsc": "Un sceau de poulet vide.",
         "steak": "Steak",
         "steakdsc": "Un bon gros morceau de viande cuit comme il faut. Très savoureux, copieux et nourrissant !",
         "cookies": "Boite de cookies",
@@ -141,7 +141,7 @@
         "candybar": "Barre de céréales",
         "candybardsc": "Une délicieuse barre aux céréales. Se digère lentement, mais pas très copieux. Peut vous rendre malade si surconsommé.",
         "chocolatebar": "Bare chocolatée",
-        "chocolatebardsc": "Une barre de chocolat sans emballage. Savoureux, mais difficile à digérer.",
+        "chocolatebardsc": "Une barre de chocolat sans emballage. Savoureux, mais dur à digérer.",
         "waterbottle": "Bouteille d'eau",
         "waterbottledsc": "Un bouteille en plastique avec de l'eau dedans.",
         "milk": "Lait",
@@ -173,7 +173,7 @@
         "alcohol": "Bouteille d'alcool",
         "alcoholdsc": "Une bouteille en verre sans étiquette contenant de l'alcool. Buvable, mais votre corps ne peut pas bien le digérer du tout. Peut désinfecter les plaies lorsqu'il est utilisé sur un membre blessé.",
         "foliage": "Feuilles",
-        "foliagedsc": "Generic alien plantlife. À peine mangeable, au goût âpre. Pourrait vous rendre malade. Se décompose rapidement.",d
+        "foliagedsc": "Un ramassis de plantes exotiques ordinaires. À peine mangeable, au goût âpre. Pourrait vous rendre malade. Se décompose rapidement.",
         "dryfoliage": "Feuilles séchées",
         "dryfoliagedsc": "A l'air un peu plus attrayant à consommer une fois séché. Pourrait vous rendre légèrement malade.",
         "glowplantfruit": "Fruit de plante lumineuse",
@@ -236,12 +236,12 @@
         "tutorialradiodsc": "On vous en remet généralement une pour les séances d'entraînement. Il n'est pas clair si ses messages son transmis en direct ou pré-enregistrés. Possède un bouton sur le quel on peut appuyer.",
         "mp3player": "Lecteur MP3",
         "mp3playerdsc": "C'est surprenant qu'il fonctionne encore. Joue/passe la musique quand utilisé.",
-        "mushpear": "Mushpear",d
-        "mushpeardsc": "A blue plant part, made to distribute water. Barely edible, with a weird weight-absorbing property and off-putting taste. Lowers body mass when eaten. Seems to have trace opiate concentration.",
-        "mushtail": "Mushtail",d
-        "mushtaildsc": "The end tail of a mushplant. Contains a chemical which can instantly knock someone out for a while, with a visible mood increase afterwards. Odd. No nutritional value.",
-        "mushball": "Mushball",d
-        "mushballdsc": "A round, edible, bubble-like watery fruit. Looks and feels a little disgusting, but has high water content. Decays very fast.",
+        "mushpear": "Fongi-poire",
+        "mushpeardsc": "Un organe végétal bleu, destinée à distribuer l'eau. À peine comestible, avec une étrange propriété d'absorption du poids et un goût rebutant. Réduit la masse corporelle lorsque consommé. Semble contenir des traces d'opiacés.",
+        "mushtail": "Fongi-queue",
+        "mushtaildsc": "La queue d'une fongiplante. Contient une substance qui peut assommer instantanément quelqu'un pendant un certain temps, avec une amélioration visible de l'humeur par la suite. Bizarre. Aucune valeur nutritionnelle.",
+        "mushball": "Fongi-baie",
+        "mushballdsc": "Un fruit rond, comestible, en forme de bulle, qui a l'air un peu dégoûtant, mais qui contient beaucoup d'eau. Il se décompose très rapidement.",
         "droppings": "Excréments",
         "droppingsdsc": "C'est du caca.",
         "smallpack": "Petit sac à dos",
@@ -345,15 +345,15 @@
         "sandvinedsc": "",
         "shadecrawler": "Ombrôdeur",
         "shadecrawlerdsc": "",
-        "wallbiter": "Wall biter",d
-        "wallbiterdsc": "Une créature à six pattes velue et de taille inquiétante. On peut voir ce qui ressemble à des dents acérées en sortir. Il semble qu'elle se déplace de manière erratique.",
-        "cavetick": "Tique souterraine",
+        "wallbiter": "Croque-mur",
+        "wallbiterdsc": "Une créature à six pattes velue et de taille inquiétante. On peut voir ce qui ressemble à des dents acérées en sortir. Il semble se déplacer de manière erratique.",
+        "cavetick": "Tique des cavernes",
         "cavetickdsc": "",
         "DigestionCrystal": "Cristal de digestion",
         "DigestionCrystaldsc": "Il a une apparence étrange et une texture bizarre.",
-        "dropcapsule": "Drop capsule",d
+        "dropcapsule": "Capsule d'objets",
         "dropcapsuledsc": "",
-        "chipcapsule": "Chip capsule",d
+        "chipcapsule": "Capsule de puce",
         "chipcapsuledsc": "",
         "EmissiveCrystal": "Cristal brillant",
         "EmissiveCrystaldsc": "Une intense lumière s'en dégage.",
@@ -367,9 +367,9 @@
         "jumppaddsc": "Il y a une plaque de pression dessus.",
         "landmine": "Mine",
         "landminedsc": "Passif-agressif.",
-        "leadbush": "Cuivrisson",
+        "leadbush": "Ferisson",
         "leadbushdsc": "Il y a des morceaux de métaux lourds qui poussent dessus. Bien qu'il ressemble à une plante, c'est en fait un animal !",
-        "lifepodchest": "Life-pod chest",d
+        "lifepodchest": "Coffre de capsule de survie",
         "lifepodchestdsc": "Contient probablement du matériel de première nécessité.",
         "LifePodLight": "Lampe",
         "LifePodLightdsc": "",
@@ -377,8 +377,8 @@
         "medcratedsc": "Contient des objets médicaux.",
         "medicalstation": "Station médicale",
         "medicalstationdsc": "Bien qu'il semble être majoritairement hors d'usage, une utilisation peut encore donner de très bons soins.",
-        "mushplant": "Mushplant",d
-        "mushplantdsc": "It's twitching slowly... It looks moist.",d
+        "mushplant": "Fongiplante",
+        "mushplantdsc": "Ça bouge lentement... Ça a l'air humide.",
         "OxygenCrystal": "Cristal d'oxygène",
         "OxygenCrystaldsc": "On dirait des bulles dedans...",
         "reinforceddoor": "Porte blindée",
@@ -398,8 +398,8 @@
         "spikestabber": "Vieille machine",
         "spikestabberdsc": "Elle à l'air menaçante. Il doit être possible de la désactiver...",
         "spikestabberdscused": "Ça à l'air inoffensif maintenant.",
-        "stoneplant": "Stoneplant",d
-        "stoneplantdsc": "It's a clump of hard, stone-like material with squishy green blobs stuck onto it.",d
+        "stoneplant": "Plante-roche",
+        "stoneplantdsc": "C'est un amas de matériau dur, semblable à de la pierre, sur lequel sont collées des orbes spongieuses vertes.",
         "TurbulentCrystal": "Cristal turbulent",
         "TurbulentCrystaldsc": "Il vibre légèrement.",
         "turret": "Tourelle",
@@ -413,15 +413,15 @@
         "drybushdsc": "Votre intuition vous dit qu'il est mort.",
         "brownshroom": "Champimarron",
         "brownshroomdsc": "Il n'y a pas grand chose à en dire autre qu'il est, en effet, marron.",
-        "spentfuel": "Spent fuel",d
-        "spentfueldsc": "An oddly terrifying energy emanates from it.",d
+        "spentfuel": "Carburant usé",
+        "spentfueldsc": "Une énergie terrifiante s'en dégage.",
         "soundcannon": "Canon sonore",
         "soundcannondsc": "Vous devriez probablement couvrir vos oreilles si vous l'entendez se charger.",
         "trader": "Survivant",
         "traderdsc": "Vous pourriez peut-être faire affaire avec."
     },
     "moodles": {
-        "dead": "Décédé",
+        "dead": "Mort",
         "braindamage3": "Dans le coma",
         "braindamage2": "Lésion cérébrale",
         "braindamage1": "Déficient",
@@ -1602,7 +1602,7 @@
                 "Ils ne s'en tireront pas comme ça.",
                 "Que ça s'arrête... Faites que ça s'arrête...",
                 "Je suis. à deux doigts.",
-                "J'ai besoin de me défoncer. J'en ai besoin.",d
+                "Faut que je me défonce. J'peux plus tenir.",
                 "Je vais mettre fin à ma putain de vie.",
                 "Je suis sur le point de CRAQUER.",
                 "Je n'irais pas chercher cette foutue batterie si ma vie en dépend.",
@@ -1670,7 +1670,7 @@
             "suicide": [
                 "Adieu. Bon PUTAIN DE DÉBARAS. J'en ai MARRE !!! JE VOUS EMMERDE TOUS!",
                 "J'en ai marre. Je vous baise tous, je me baise et je te BAISE.",
-                "I fucking told you. I TOLD you, you piece of shit. I'm DONE!",d
+                "J'avais prévenu. Tu le SAVAIS, espèce de merde. J'en PEUX PLUS !",
                 "Je quitte ce monde de merde une bonne fois pour toutes.",
                 "Salut. Adieu. Niquez-vous. Je me casse. J'irais brûler en enfer pour ça.",
                 "J'en ai RIEN À BRANLER de tout ça. C'est FINI ! ALLEZ VOUS FAIRE FOUTRE !!!",
@@ -1693,7 +1693,7 @@
                 "Regaaaarde ça... Hahahah... Je dis adieu à ce putain d'univers... Je quitte ce monde... C'est... Soulageant...",
                 "Voilà... C'est parti... Profitons de mes derniers moments... Se détendre et... S'endormir... Une dernière fois...",
                 "J'espère que t'es content de ce que t'as fait. Connard. Va te faire foutre. VA TE FAIRE FOUTRE. Crève en enfer.",
-                "Voilà mon poignet... Tout sera bientôt fini... Haha...",d
+                "Voilà, le poignet... Tout est bientôt fini... Haha...",
                 "Va te faire foutre. VA te faire foutre. C'est FINI. J'EN AI PLEIN LE CUL !",
                 "Je QUITTE cet endroit de merde, que je puisse ou PAS. ALLEZ VOUS FAIRE FOUTRE.",
                 "MERDE. C'est putain de FINI. Au diable ma vie",
