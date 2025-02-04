@@ -76,8 +76,8 @@
         "trashbagdsc": "Un sac plastique noir.",
         "plasticbag": "Sac plastique",
         "plasticbagdsc": "Un fin, sac plastique bleu.",
-        "gravbag": "Grav-Bag",d
-        "gravbagdsc": "A very experimental container that generates negative gravity in order to reduce the weight of whatever's in it. Has explosive tendencies when its battery nears empty.",d
+        "gravbag": "Gravi-sac",
+        "gravbagdsc": "Un conteneur expérimental capable de générer une gravité négative réduisant le poids de tout ce qui y est stocké. À tendance à exploser lorsque sa batterie est vide.",
         "legpouch": "Sacoche jambière",
         "legpouchdsc": "Une sacoche en cuir avec des sangles pour faire le tour de la cuisse. C'est comme une poche de poche !",
         "purse": "Sac à main",
@@ -92,8 +92,8 @@
         "toolboxdsc": "Une grande boite en acier lourde, faite pour ranger des outils.",
         "medkit": "Trousse de secours",
         "medkitdsc": "Une petite boite, faite pour contenir des médicaments.",
-        "scaffoldingpack": "Scaffolding pack",d
-        "scaffoldingpackdsc": "A hyper-compressed box of scaffolding, made to be easily placed down. Lasts 100 uses.",d
+        "scaffoldingpack": "Pack d'échafaudages",
+        "scaffoldingpackdsc": "Une boite d'échafaudages ultra compressée, faite por facilement être placée au sol. Résiste à 100 utilisations.",
         "disinfectant": "Antiseptique",
         "disinfectantdsc": "Un flacon de désinfectant. Empêche l'infection des plaies pendant un temps. Peut aider à combattre les infections très affaiblies.",
         "scrapmetal": "Ferraille",
@@ -184,10 +184,10 @@
         "glowplantfruitdsc": "Bioluminescent et non comestible. Contient des toxines modérément dangereuses ; efficace pour tuer les bactéries. Réduit les infections sur le membre où il est utilisé. Et, source de lumière décente.",
         "flashlight": "Lampe de poche",
         "flashlightdsc": "Éclaire une grande zone dans la direction ou pointée, mais perd lentement en charge. Utilisez-la pour changer son mode.",
-        "lantern": "Lantern",d
-        "lanterndsc": "A simple, wood and glass lantern with a bright yellow crystal inside of it.",d
-        "lightbulb": "Lightbulb",d
-        "lightbulbdsc": "An electric light with a filament that is heated until it glows. Seems to be battery powered. Don't put it in your mouth.",d
+        "lantern": "Lanterne",
+        "lanterndsc": "Une simple lanterne de bois et de verre. À l'intérieur, un cristal jaune brille de mille feux.",
+        "lightbulb": "Ampoule",
+        "lightbulbdsc": "An electric light with a filament that is heated until it glows. Seems to be battery powered. Ne pas la mettre à la bouche.",d
         "nutrientbar": "Barre nutritive",
         "nutrientbardsc": "Barre solide et comestible, riche en nutriments et en calories. Goût neutre, ne se gâte pas.",
         "primitivediggingtool": "Outil d'excavation métallique",
@@ -280,8 +280,8 @@
         "bellyarmordsc": "Un gros morceau de métal, conçu pour être attaché à votre abdomen. Offre une excellente protection et une certaine isolation.",
         "belt": "Ceinture",
         "beltdsc": "Une ceinture en cuir à passer sur le ventre. On peut y attacher quelque chose.",
-        "hoodie": "Hoodie",d
-        "hoodiedsc": "A black, very oversized hoodie that keeps you warm and has a small pocket.",d
+        "hoodie": "Hoodie",
+        "hoodiedsc": "Un sweat à capuche noir, très grand, qui tient bien chaud et qui a une petite poche.",
         "metabolismchip": "Puce métabolique",
         "metabolismchipdsc": "Une puce qui accélère légèrement votre métabolisme, ce qui permet à vos membres de se régénérer beaucoup plus rapidement, mais augmentant davantage la faim pour ce faire.",
         "heatingchip": "Puce chauffante",
@@ -453,7 +453,7 @@
         "withdrawal2": "Manque",
         "withdrawal3": "Manque sévère",
         "withdrawal4": "Mourant du sevrage",
-        "drugoverdose": "Drug overdose",d
+        "drugoverdose": "Overdose de médicaments",
         "bleeding1": "Saignement mineur",
         "bleeding2": "Saignement",
         "bleeding3": "Saignement abondant",
@@ -529,9 +529,9 @@
         "depression2": "Mélancolique",
         "depression3": "Déprimé",
         "depression4": "Misérable",
-        "trauma1": "Anxious",d
-        "trauma2": "Scared",d
-        "trauma3": "Traumatized",d
+        "trauma1": "Anxieux",
+        "trauma2": "Effrayé",
+        "trauma3": "Traumatisé",
         "trauma4": "Shell shocked",d
         "happy1": "Content",
         "happy2": "Enthousiaste",
@@ -575,7 +575,7 @@
         "withdrawal2dsc": "Vous avez désespérément besoin d'une autre injection. Vous avez envie de vomir... C'est vraiment désagréable. Traitement recommandé.",
         "withdrawal3dsc": "Vous avez du mal à vous ressaisir, vous tremblez, vous avez désespérément besoin d'un soulagement. C'est terrible. Un traitement est nécessaire.",
         "withdrawal4dsc": "Votre corps ne parvient continuer sans les opiacés dont il est devenu dépendant. Votre cœur a du mal à pomper l'oxygène du corps, ce qui entraîne de terribles lésions cérébrales hypoxiques.",
-        "drugoverdosedsc": "You have overdosed on a non-opioid drug. Health complications likely.",d
+        "drugoverdosedsc": "Vous avez surdosé un médicament non opioïde. Problèmes de santé probables.",
         "bleeding1dsc": "Du sang goutte d'une plaie assez petite. Pas de danger immédiat.",
         "bleeding2dsc": "Du sang coule d'une plaie assez profonde. Peu probable de vous être mortel si vous êtes en bonne santé. Traitement recommandé.",
         "bleeding3dsc": "Un volume de sang important s'échappe de votre corps. Probablement mortel en l'absence de traitement. Traitement nécessaire.",
@@ -651,10 +651,10 @@
         "depression2dsc": "Vous manquez de motivation pour continuer, difficultés émotionnelles. Les choses ne semblent pas s'améliorer. Trouvez un moyen de vous distraire.",
         "depression3dsc": "À peine la force de faire quoi que ce soit. Votre esprit est ravagé par le désespoir. Peut-être que tout sera bientôt fini ?",
         "depression4dsc": "Si cet endroit ne met pas bientôt fin à votre vie désolée, vous le ferez à sa place. N'importe quoi, n'importe quoi pour échapper à la réalité...",
-        "trauma1dsc": "Something bad has happened to you, and your brain does NOT want to experience it again. Happiness slightly reduced.",d
-        "trauma2dsc": "Recent events have left you uneasy and scarred. You feel shaky. You REALLY don't want to go through that again. Happiness reduced.",d
-        "trauma3dsc": "You feel panicked and horrified. Visions of past horrors flash before your eyes. You want OUT of here by any means neccesary... This wound will take a good while to heal. Happiness highly reduced.",d
-        "trauma4dsc": "Horrified. Helpless. Hopeless. You can't muster a single word. Happiness severely reduced.",d
+        "trauma1dsc": "Il vous est arrivé quelque chose de grave et votre cerveau ne veut PAS le revivre. Bonheur légèrement réduit.",
+        "trauma2dsc": "De récents évènements vous ont fortement affecté et rendu mal à l'aise. Vous tremblez. Vous ne voulez VRAIMENT PAS avoir à revivre tout ça. Bonheur diminué.",
+        "trauma3dsc": "Vous êtes paniqué et terrifié. Des visions cauchemardesques se bousculent dans votre tête. Vous voulez sortir d'ici à tout prix... Vous mettrez du temps pour vous en remettre. Bonheur fortement réduit.",
+        "trauma4dsc": "Horrifié. Brisé. Désespéré. Vous n'arrivez plus à dire un mot. Bonheur extrêmement réduit.",
         "happy1dsc": "Content de votre situation actuelle.",
         "happy2dsc": "Dans la hâte de ce qui vous attend.",
         "happy3dsc": "Vous avez trouvé la paix dans cette endroit étrange.",
@@ -701,8 +701,8 @@
         "marble": "Marbre",
         "limestone": "Calcaire",
         "bricks": "Briques",
-        "scaffolding": "Scaffolding",d
-        "toxirock": "Toxirock",d
+        "scaffolding": "Échafaudages",
+        "toxirock": "Toxiroche",
         "Head": "Tête",
         "UpTorso": "Thorax",
         "DownTorso": "Abdomen",
@@ -923,20 +923,20 @@
         "hplimbpain": "Douleur de membre",
         "hplimbbleed": "Membre saignant",
         "hpopiate": "Quantité d'opiacés",
-        "keybings": "Keybinds",d
-        "reloadbinds": "Reload binds",d
+        "keybings": "Contrôles",
+        "reloadbinds": "Recharger les contrôles",
         "jsonthing": "hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :)"
     },
     "character": [
         {
             "wallnotes": [
-                "Man- This place is... Odd. And scary. There's these weird black spiders that sometimes sneak up on me and bite me when I'm not looking... Hate 'em. They tend to leave these nasty, often infected gashes in me... It hurts, but the odd coloring on my leg tends to go away after I rub some of those glowy fruits that grow here, on the wound. Things suck, but atleast we're surrounded by nature's antibiotics..",d
+                "Sérieusement, cet endroit est... bizarre. J'ai si peur. Il y a des araignées noires cheloues qui se terrent dans l'ombre, puis qui se jettent sur moi pour me mordre quand je les perds de vue... Je les hais. Elles ont l'horrible habitude de laisser d'affreuses plaies infectées... Ça fait mal, mais la couleur bizarre de ma peau redevient normale après que j'y frotte ces fruits luisants qui poussent un peu partout. Tout n'est pas rose, mais au moins la nature sait nous doter d'antibiotiques.",
                 "The amount of corpses here is horrifying...- They sent so many of us down here! I don't even remember how I got here... I know I was stabbed with some kind of dart, or syringe... Next thing I know, I wake up in one of those lifepods, about to launch from our lab and soon to fly towards whatever this gray little planet is...",d
                 "It's not just me. Almost everyone sent down here apparently is able to see their health status in their own mind, too... It feels... Artificial..? I know none of us had this kind of vision before. I wonder if it's from one of those chips that they secretly pumped into us.",d
                 "I just saw someone, in the distance, walk into one of those gray spike traps... They died on the spot... God... I'm horrified. I don't want to die here... If you're reading this, please watch your step, always, at all times, anywhere you go. We can't afford to all die down here.",d
                 "I figured it out! If I take a bit of that red blood that I would sometimes find in the white boxes lying around, and I splash it on one of those terminals, the door next to it will open! This blood is weirdly similar to the blood our captors have, back up in our home... I wonder if it's theirs?",d
-                "abandon all hope",d
-                "Note to self: Apparently, my metabolism is NOT made for this kind of survival scenario. I keep losing weight... I look like a stick by now! I really should keep myself full more often... And so should you, random reader! Good luck out there.",d
+                "abandonnez tout espoir",
+                "Note à moi même: Apparemment, mon métabolisme n'est PAS destiné à endurer ce genre de scénario de survie. Je perds beaucoup de poids... I look like a stick by now! I really should keep myself full more often... And so should you, random reader! Good luck out there.",d
                 ""
             ],
             "seeGravel": [
