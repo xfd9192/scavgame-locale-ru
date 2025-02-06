@@ -119,7 +119,7 @@
         "stonefruitopen": "Fruit-roc",
         "stonefruitopendsc": "Un fruit vert dur au goût neutre et à moyenne teneur en matières grasses. Il est très sec, vous aurez probablement soif après l'avoir mangé.",
         "banana": "Banane",
-        "bananadsc": "Un délicieux fruit jaune, qui pourrait venir d'une autre planète. Légèrement radioactif.",
+        "bananadsc": "Un délicieux fruit jaune, qui semble venir d'une autre planète. Légèrement radioactif.",
         "burger": "Burger",
         "burgerdsc": "Une collation copieuse et savoureuse. De quoi combler la faim et le cœur !",
         "pizzaslice": "Part de pizza",
@@ -177,7 +177,7 @@
         "alcohol": "Bouteille d'alcool",
         "alcoholdsc": "Une bouteille en verre sans étiquette contenant de l'alcool. Buvable, mais votre corps ne sait pas bien le digérer du tout. Peut désinfecter les plaies lorsqu'utilisé sur un membre blessé.",
         "foliage": "Feuilles",
-        "foliagedsc": "Un ramassis de plantes exotiques ordinaires. À peine mangeable, au goût âpre. Pourrait vous rendre malade. Se décompose rapidement.",
+        "foliagedsc": "Un ramassis de plantes alien ordinaires. À peine mangeable, au goût âpre. Pourrait vous rendre malade. Se décompose rapidement.",
         "dryfoliage": "Feuilles séchées",
         "dryfoliagedsc": "Elles ont l'air un peu plus attrayantes à consommer une fois séchées. Pourrait vous rendre légèrement malade.",
         "glowplantfruit": "Fruit de plante lumineuse",
@@ -187,7 +187,7 @@
         "lantern": "Lanterne",
         "lanterndsc": "Une simple lanterne de bois et de verre. À l'intérieur, un cristal jaune brille de mille feux.",
         "lightbulb": "Ampoule",
-        "lightbulbdsc": "An electric light with a filament that is heated until it glows. Seems to be battery powered. Ne pas la mettre à la bouche.",d
+        "lightbulbdsc": "Une lumière incandescente qui chauffe un filament jusqu'a ce qu'il brille. On dirait qu'elle est alimentée avec des piles. Ne pas la mettre à la bouche.",
         "nutrientbar": "Barre nutritive",
         "nutrientbardsc": "Barre solide et comestible, riche en nutriments et en calories. Goût neutre, ne se gâte pas.",
         "primitivediggingtool": "Outil d'excavation métallique",
@@ -532,7 +532,7 @@
         "trauma1": "Anxieux",
         "trauma2": "Effrayé",
         "trauma3": "Traumatisé",
-        "trauma4": "Shell shocked",d
+        "trauma4": "État de choc",
         "happy1": "Content",
         "happy2": "Enthousiaste",
         "happy3": "Heureux",
@@ -627,7 +627,7 @@
         "thirst2dsc": "Faiblement hydraté. Très soif.",
         "thirst3dsc": "Corps asséché, vous avez désespérément besoin d'eau. Esprit consumé par la soif.",
         "thirst4dsc": "Le sang devient dangereusement visqueux à cause de la déshydratation. Arrêt cardiaque imminent.",
-        "sick1dsc": "Inconforté. Légèrement malade.",
+        "sick1dsc": "Inconfortable. Légèrement malade.",
         "sick2dsc": "Étourdi et douleurs à l'estomac. Sujet à des vomissements.",
         "sick3dsc": "Léthargique, fatigué et souffrant d'inconfort majeur. Très sujet aux vomissements.",
         "sick4dsc": "Dangereusement malade. Quelque chose cloche VRAIMENT chez vous. Faible, confus et douleurs insupportables.",
@@ -930,13 +930,13 @@
     "character": [
         {
             "wallnotes": [
-                "Sérieusement, cet endroit est... bizarre. J'ai si peur. Il y a des araignées noires cheloues qui se terrent dans l'ombre, puis qui se jettent sur moi pour me mordre quand je les perds de vue... Je les hais. Elles ont l'horrible habitude de laisser d'affreuses plaies infectées... Ça fait mal, mais la couleur bizarre de ma peau redevient normale après que j'y frotte ces fruits luisants qui poussent un peu partout. Tout n'est pas rose, mais au moins la nature sait nous doter d'antibiotiques.",
-                "The amount of corpses here is horrifying...- They sent so many of us down here! I don't even remember how I got here... I know I was stabbed with some kind of dart, or syringe... Next thing I know, I wake up in one of those lifepods, about to launch from our lab and soon to fly towards whatever this gray little planet is...",d
-                "It's not just me. Almost everyone sent down here apparently is able to see their health status in their own mind, too... It feels... Artificial..? I know none of us had this kind of vision before. I wonder if it's from one of those chips that they secretly pumped into us.",d
-                "I just saw someone, in the distance, walk into one of those gray spike traps... They died on the spot... God... I'm horrified. I don't want to die here... If you're reading this, please watch your step, always, at all times, anywhere you go. We can't afford to all die down here.",d
-                "I figured it out! If I take a bit of that red blood that I would sometimes find in the white boxes lying around, and I splash it on one of those terminals, the door next to it will open! This blood is weirdly similar to the blood our captors have, back up in our home... I wonder if it's theirs?",d
+                "Sérieusement, cet endroit est... bizarre. J'ai si peur. Il y a des araignées noires cheloues qui se terrent dans l'ombre, puis qui se jettent sur moi pour me mordre dès je les perds de vue... Je les hais. Elles ont l'affreuse manie de me faire d'horribles plaies qui s'infectent... Ça fait mal, mais la couleur bizarre de ma peau redevient normale après que j'y frotte ces fruits luisants qui poussent un peu partout. Tout n'est pas rose, mais au moins la nature sait nous doter d'antibiotiques.",
+                "La quantité de cadavres ici est terrifiante...- Ils ont envoyés tellement des nôtres mourir ici ! Je ne me souviens même plus comment j'ai atterri là... Je sais que j'ai reçu une fléchette, ou une seringue... Lorsque je me suis réveillé, j'ai réalisé que j'étais dans une capsule de survie, sur le point de décoller de notre labo en direction de cette espèce de petite placette grise...",
+                "Je suis pas le seul. On dirait que presque tout le monde qui à atterri ici est capable de connaître son état de santé dans sa tête, aussi... C'est très... Artificiel..? Je me souviens que l'un d'entre nous pouvait faire ça avant. Je me demande si ça vient d'une des puces qui nous ont injectés en secret.",
+                "Je vient de voir quelqu'un, au lointain, marcher sur un de ces pièges à pic... Il est mort sur le champ... Merde... Je suis horrifié. Je ne veux pas mourir ici... Si vous lisez ça, faites attention où vous mettez les pieds, partout, tout le temps, où que vous allez. Nous ne pouvons pas nous permettre de tous mourir ici.",
+                "J'ai enfin compris ! If I take a bit of that red blood that I would sometimes find in the white boxes lying around, and I splash it on one of those terminals, the door next to it will open ! This blood is weirdly similar to the blood our captors have, back up in our home... I wonder if it's theirs ?",d
                 "abandonnez tout espoir",
-                "Note à moi même: Apparemment, mon métabolisme n'est PAS destiné à endurer ce genre de scénario de survie. Je perds beaucoup de poids... I look like a stick by now! I really should keep myself full more often... And so should you, random reader! Good luck out there.",d
+                "Note à moi même: Apparemment, mon métabolisme n'est PAS destiné à endurer ce genre de scénario de survie. Je perds beaucoup de poids... Maintenant on dirait que j'ai la peau sur les os ! Je devrais vraiment manger plus souvent... Tu devrais faire pareil, toi qui lis ce message ! Bonne chance là-dehors.",
                 ""
             ],
             "seeGravel": [
