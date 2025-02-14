@@ -232,8 +232,8 @@
         "woodtroweldsc": "Outil de jardinage primitif, fait de bois. Probablement meilleur que vos griffes seules ?...",
         "experimentflesh": "Chair jaune",
         "experimentfleshdsc": "Un morceau de chair arraché à l'un des vôtres. Copieux, mais vous rendra malade.",
-        "animalflesh": "Animal flesh",d
-        "animalfleshdsc": "A ripped piece of meat from a deceased animal, native to this planet. While it is very similar to your own, it's somewhat edible, even if slightly sickening.",d
+        "animalflesh": "Chair animale",
+        "animalfleshdsc": "Un morceau de viande arraché à un animal mort, natif de cette planète. Bien qu'il ressemble beaucoup à votre propre chair, il est en quelque sorte comestible ; même s'il vous rendra un peu malade.",
         "internalorgans": "Organes internes",
         "internalorgansdsc": "Une boule d'organes internes mélangés et comprimée, vous pouvez voir un globe oculaire orange qui dépasse. On dirait qu'ils viennent d'une créature de même taille que vous. Copieux, mais horriblement répugnant et vous rendra sûrement malade.",
         "blobflesh": "Chair gluante",
@@ -322,8 +322,8 @@
         "chestdraindsc": "Utilisé pour drainer les liquides du thorax. Réduit les hémothoraces, réutilisable après un certain temps. Utilisable uniquement sur la poitrine.",
         "tweezers": "Pince à épiler",
         "tweezersdsc": "Une simple paire de pincettes en métal. Peut enlever proprement et sans douleur le shrapnel dans la peau.",
-        "wrench": "Wrench",d
-        "wrenchdsc": "A tool used to provide grip and mechanical advantage in applying torque to turn objects. Can be used on dislocated limbs to correct them more effectively than with your bare hands.",d
+        "wrench": "Clé à molette",
+        "wrenchdsc": "Un outil qui offre une prise solide et un effet de levier pour exercer un moment sur des objets. Peut être utilisé sur des membres luxés pour les replacer plus efficacement qu'à mains nues..",
         "bruisekit": "Kit de soin",
         "bruisekitdsc": "Un ensemble de médicaments et autres remèdes, conçu pour favoriser la guérison musculaire. Améliore la santé musculaire/cutanée et traite efficacement les luxations. N'affecte pas les saignements.",
         "medicalsuture": "Suture médicale",
@@ -332,7 +332,7 @@
         "tourniquetdsc": "Lorsqu'utilisé, stoppe la circulation sanguine sur le membre où il est appliqué. Interrompt tous les saignements là où la circulation est arrêtée (ne soigne pas réellement la plaie). Doit être retiré manuellement après un certain temps, car il provoque des douleurs et prive le membre d'oxygène. Réutilisable.",
         "browncap": "Bolet brun",
         "browncapdsc": "Il n'est pas clair de quel type de champignon il s'agit. Pour autant que vous le sachiez, il pourrait tout aussi bien guérir vos blessures que vous tuer sur-le-champ.",
-        "purpleherb": "Purple herb",d
+        "purpleherb": "Herbe violette",
         "purpleherbdsc": "A dry, purple leaf with a coarse texture. Commonly used as an aid for certain afflictions - helps against sickness, slightly helps hearing loss and might lessen internal bleeding. Use with caution - it has a tendency to highly increase the consumer's body temperature.",
         "bulbskin": "Bulb skin",d
         "bulbskindsc": "An oily piece of thick, yellow plant skin. Containts a high amount of adrenaline and is slightly hydrating, but might minorly affect brain function. Can also be used as a makeshift bandage and limb analgesic.",d
@@ -444,12 +444,12 @@
     },
     "moodles": {
         "dead": "Mort",
-        "braindamage4": "Comatose",d
-        "braindamage3": "Severe neurophysiological deterioration",d
-        "braindamage2": "Neurological damage",d
-        "braindamage1": "Cognitive impairment",d
-        "cantbreathe": "Respiratory arrest",d
-        "thoraxdestroyed": "Lung failure",d
+        "braindamage4": "Dans le coma",
+        "braindamage3": "Détérioration neurophysiologique sévère",
+        "braindamage2": "Lésions neurologiques",
+        "braindamage1": "Troubles cognitifs",
+        "cantbreathe": "Arrêt respiratoire",
+        "thoraxdestroyed": "Insuffisance pulmonaire",
         "oxygen1": "Hypoxémique",
         "oxygen2": "Gravement hypoxémique",
         "oxygen3": "Hypoxique",
@@ -568,12 +568,12 @@
         "hemothorax": "Hémothorax",
 
         "deaddsc": "Permanent, irréversible, perte complète des fonctions cérébrales. Vous avez laissé le monde derrière vous, comme tout le reste.",
-        "braindamage4dsc": "...",d
-        "braindamage3dsc": "reality  ..  stops   making   sense",d
-        "braindamage2dsc": "Strong mental deficit. Ability to think intelligently and self-sustain is limited. Serious brain damage present.",d
+        "braindamage4dsc": "...",
+        "braindamage3dsc": "rien  ...  n'a plus   aucun   sens",
+        "braindamage2dsc": "Fort déficit cognitif. Capacité de raisonnement et de subvention aux besoins primaires limitée. Lésions cérébrales graves.",
         "braindamage1dsc": "Troubles mentaux dûs à des lésions cérébrales. Vous vous sentez hautement désorienté...",
         "cantbreathedsc": "Étouffement ! Perte de connaissance et mort imminente en l'absence de traitement.",
-        "thoraxdestroyeddsc": "Your lungs are too damaged to function, caused by critically low thorax muscle health. Asphyxiation imminent.",d
+        "thoraxdestroyeddsc": "Vos poumons sont trop endommagés pour fonctionner, en raison d'une santé musculaire thoracique très réduite. Asphyxie imminente.",
         "oxygen1dsc": "Diminution du taux d'oxygène dans le sang. Légèrement désorienté, peau caoutchouteuse. Quelque chose ne va pas...",
         "oxygen2dsc": "Pas assez d'oxygène ne circule dans votre corps. Vertiges et engourdissement de vos extrémités. Quelque chose ne va pas du tout.",
         "oxygen3dsc": "Perte de conscience. Tissus privés d'oxygène. Lésions cérébrales imminentes.",
@@ -696,7 +696,7 @@
         "layertitle2": "Profondeurs graveleuses",
         "layertitle3": "Désert sec",
         "layertitle4": "Friches",
-        "layertitle5": "Cave jungle",d
+        "layertitle5": "Jungle souterraine",
         "air": "Air",
         "lightrock": "Roche tendre",
         "gravel": "Gravier",
@@ -720,9 +720,9 @@
         "bricks": "Briques",
         "scaffolding": "Échafaudages",
         "toxirock": "Toxiroche",
-        "grass": "Verdure",d
-        "log": "Log",d
-        "leaves": "Leaves",d
+        "grass": "Verdure",
+        "log": "Bûche",
+        "leaves": "Feuilles",
         "Head": "Tête",
         "UpTorso": "Thorax",
         "DownTorso": "Abdomen",
@@ -760,9 +760,9 @@
         "upperback": "Haut du dos",
         "middleback": "Milieu du dos",
         "lowerback": "Bas du dos",
-        "volumewarning": "VOLUME WARNING",d
-        "volumewarningtext": "You may experience VERY loud noises in this layer.\nConsider turning the volume down a little. No one wants to damage their hearing.",d
-        "notetip": "Hold <> to read",d
+        "volumewarning": "AVERTISSEMENT SUR LE VOLUME",
+        "volumewarningtext": "Il est possible que vous rencontriez des sons TRÈS forts dans ce niveau.\nPensez à baisser un peu le volume. Personne ne veut endommager son ouïe.",
+        "notetip": "Maintenir <> pour lire",
         "runsettings": "Paramètres de la partie",
         "looatmount": "Qté. de collectibles",
         "trapamount": "Qté. de pièges",
@@ -798,7 +798,7 @@
         "itemusable": "Utilisable ",
         "itemusablewound": "moniteur de santé",
         "itemusablehand": "main",
-        "itemusableinventory": "inventory",d
+        "itemusableinventory": "inventaire",
         "itemonlyinhands": "Peut seulement être tenu à la main",
         "itemwearable": "Emplacement d'usage:",
         "itemwearableprotection": "Protection:",
@@ -809,8 +809,8 @@
         "wear": "Porter",
         "drop": "Déposer",
         "you": "Vous",
-        "carryingtip": "Encumbrance",d
-        "tradergivebuttontip": "Drag items here to give them to the trader",d
+        "carryingtip": "Encombrement",
+        "tradergivebuttontip": "Faites glisser des objets ici pour les donner au marchand.",
         "dragheretouse": "Glissez ici pour utiliser",
         "dragheretowear": "Glissez ici pour porter",
         "inventory": "Inventaire",
@@ -821,8 +821,8 @@
         "toomuchpaindsc": "Trop mal pour agir sur le membre",
         "fixdislocation": "Replacer le membre luxé",
         "fixdislocationdsc": "Tentative de corriger la luxation par vous même\nCela peut faire mal et nécessiter plusieurs essais",
-        "removesplint": "Remove splint",d
-        "removesplintdsc": "Take off the splint from the limb",d
+        "removesplint": "Retirer l'attelle",
+        "removesplintdsc": "Retirer l'attelle du membre",
         "removetourniquet": "Retirer le garrot",
         "removeshrapnel": "Retirer le shrapnel",
         "removeshrapneldsc": "Tentative de retirer le shrapnel à la main\nCela peut faire mal et nécessiter plusieurs essais",
