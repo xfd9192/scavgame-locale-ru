@@ -439,8 +439,10 @@
         "soundcannondsc": "Vous devriez probablement couvrir vos oreilles si vous l'entendez recharger.",
         "trader": "Survivant",
         "traderdsc": "Vous pourriez peut-être faire affaire avec.",
-        "plantiation": "Plantiation",
-        "plantiationdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end."
+        "bananaplant": "Banana-plant",d
+        "bananaplantdsc": "A short, wide plant, colloquially called the \"Banana Plant\" due to its mushy, yellow top. Very slippery to step on.",d
+        "plantiation": "Plantiation",d
+        "plantiationdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end."d
     },
     "moodles": {
         "dead": "Mort",
@@ -531,6 +533,10 @@
         "cold2": "Froid",
         "cold3": "Hypothermie",
         "cold4": "Mourant de froid",
+        "wet1": "Damp",d
+        "wet2": "Wet",d
+        "wet3": "Soaked",d
+        "wet4": "Water-logged",d
         "underweight1": "Insuffisance pondérale",
         "underweight2": "Maigre",
         "underweight3": "Malnutri",
@@ -655,6 +661,10 @@
         "cold2dsc": "Il fait désagréablement froid. Votre corps ralentit.",
         "cold3dsc": "Température dangereusement basse, le corps et l'esprit sont pris par le froid. Votre corps tout entier s'éteint lentement.",
         "cold4dsc": "Vous vous endormirez bientôt et ne vous réveillerez plus jamais. Bonne nuit.",
+        "wet1dsc": "Your fur feels slightly wet.",d
+        "wet2dsc": "Considerably wet. Temperature and comfort decreased.",d
+        "wet3dsc": "Dripping wet. Temperature and comfort considerably decreased.",d
+        "wet4dsc": "Completely drenched! The water is weighing you down. Temperature and comfort highly decreased.",d
         "underweight1dsc": "Essayez de prendre un peu de poids.",
         "underweight2dsc": "Poids insuffisant par rapport à votre espèce. Plus faible que la normale. Capacité de charge réduite.",
         "underweight3dsc": "Vous êtes dangereusement maigre et frêle. Bien plus faible que d'habitude, sujet à l'épuisement et à la léthargie. Capacité de charge réduite.",
@@ -1707,32 +1717,32 @@
                 "J'étais déjà mort au moment où je suis arrivé ici."
             ],
             "selfharm": [
-                "Hahahaha...",
-                "Çaa-aaaaa v-va mieux...",
-                "Oh ouais... Putain ouais...",
-                "Mmhh... Putain... Hahahaha...",
-                "Alooooors, t'aimes ça hein... Connard... Ahaha...",
+                "Hahahaha... PUTAIN ouais... C'est ça...",
+                "Çaa-aaaaa v-va mieux... Ahahaha... Génial putain...",
+                "Oh ouais... Putain ouais... PUTAIN ouaais...",
+                "Mmhh... Putain... Hahahaha... Ça fait du bien...",
+                "Alooooors, t'aimes ça hein ?... Connard... Ahaha... NIQUE-toi... Nique-toi... Super...",
                 "Putain, hahah... Ça fait tellement de bien...",
-                "AARGH! PUTAIN OUI! C'est génial...",
-                "PUTAIN!",
-                "Juste un petit trou... Plus... Ahahah...",
+                "AARGH ! PUTAIN OUI ! C'est génial...",
+                "PUTAIN ! HAHAHAHA ! TROP BIEN PUTAIN !",
+                "Juste un petit trou... Plus... Ahahah... Merde...",
                 "Aïe-... C-c'est trop bon... Merde...",
-                "Hahaha! Putain oui...",
-                "C'est ça... que tu mérites... Bâtard...",
-                "Allez... c'est parti... hahah...",
-                "Ça sera.. putain... Ouaaaais...",
-                "O-ouais... prends ça... Connard...",
-                "Tu l'as mérité... Haha...",
-                "AAHHAHA !! PUTAIN génial.",
-                "Hahah... c'est mieux... ouais...",
-                "Eeeeeeeet voilà...",
-                "Hehhehheh... ça fait mal putain...",
-                "Ça... Ahaha... fait bien mal...",
-                "On va prolonger ça juuuuuuste un peu...",
-                "J'ai pas besoin de cette chair... Ggrhh...",
-                "M-merde... Ahahaha...",
-                "Géniaaaaal... Mmmh...",
-                "Peut-être que je me tuerai en prime, la prochaine fois."
+                "BORDEL ! Hahaha ! PUTAIN oui ! Hahahaha...",
+                "C'est ça... que tu mérites... Bâtard... Va te faire foutre... Hahahaha...",
+                "Allez... c'est parti... hahah... ouais...",
+                "Ça va.. putain... Ouaaaais... Ça va faire l'affaire... Haha...",
+                "O-ouais... prends ça... Connard... Ça t'apprendra...",
+                "Tu l'as mérité... Haha... Maintenant souffre...",
+                "AAHHAHA !! PUTAIN génial... Haha, putain. Hahaha... J'ai mal...",
+                "Hahah... c'est mieux... ouais... Beaucoup mieux...",
+                "Eeeeeeeet voilà... Ça fait biiiien mal...",
+                "Hehhehheh... ça fait mal putain... Trop bien...",
+                "Ça... Ahaha... fait bien mal... Génial...",
+                "On va prolonger ça juuuuuuste un peu... P-putain... Ça fait du bien...",
+                "J'ai pas besoin de cette chair... Ggrhh... Haha... J'en veux plus...",
+                "M-merde... Ahahaha... Ça fait du bien...",
+                "Géniaaaaal... Mmmh... Enfin... Enfin... C'est incroyable... Mmmhh...",
+                "P-peut-être que je devrais mettre un terme à tout ça la prochaine fois... Hahaha..."
             ],
             "suicide": [
                 "Adieu. Bon PUTAIN DE DÉBARRAS. J'en ai MARRE !!! JE VOUS EMMERDE TOUS !",
