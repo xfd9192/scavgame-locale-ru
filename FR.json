@@ -333,11 +333,11 @@
         "browncap": "Bolet brun",
         "browncapdsc": "Il n'est pas clair de quel type de champignon il s'agit. Pour autant que vous le sachiez, il pourrait tout aussi bien guérir vos blessures que vous tuer sur-le-champ.",
         "purpleherb": "Herbe violette",
-        "purpleherbdsc": "A dry, purple leaf with a coarse texture. Commonly used as an aid for certain afflictions - helps against sickness, slightly helps hearing loss and might lessen internal bleeding. Use with caution - it has a tendency to highly increase the consumer's body temperature.",
-        "bulbskin": "Bulb skin",d
-        "bulbskindsc": "An oily piece of thick, yellow plant skin. Containts a high amount of adrenaline and is slightly hydrating, but might minorly affect brain function. Can also be used as a makeshift bandage and limb analgesic.",d
-        "geigefruit": "Geige-fruit",d
-        "geigefruitdsc": "An odd, rectangular shiny fruit. Smells of oil, but tastes nice! Refills hunger and thirst. Can mess with your lungs for a moment, and may randomly help or intensify radiation sickness slightly. Has a loud reaction when impacting the ground at speeds - useful for checking drop height."d
+        "purpleherbdsc": "Une feuille violette très sèche à la texture rugueuse. Couramment utilisée pour soulager certaines afflictions, elle aide à lutter contre les maladies, atténue légèrement la perte d'audition et aide à soigner les hémorragies internes. Utiliser avec précaution : sa consommation a tendance à augmenter fortement la température corporelle.",
+        "bulbskin": "Membrane de bulbe",
+        "bulbskindsc": "Un morceau de membrane végétale jaune, très épais et assez gras. Contient une grande quantité d'adrénaline et a un effet légèrement hydratant, mais risque d'affecter légèrement les fonctions cérébrales. Peut également servir de bandage de fortune et d'analgésique pour les membres.",
+        "geigefruit": "Fruit-geige",
+        "geigefruitdsc": "Un étrange fruit rectangulaire et brillant. Il sent l'huile, mais il a bon goût ! Comble la faim et la soif. Peut altérer vos poumons pendant un moment, et peut soigner ou intensifier une intoxication radiative de façon aléatoire. Réagit bruyamment lorsqu'il percute le sol à grande vitesse : utile pour vérifier la hauteur de chute."
     },
     "buildings": {
         "animalcorpse": "Animal mort",
@@ -439,10 +439,10 @@
         "soundcannondsc": "Vous devriez probablement couvrir vos oreilles si vous l'entendez recharger.",
         "trader": "Survivant",
         "traderdsc": "Vous pourriez peut-être faire affaire avec.",
-        "bananaplant": "Banana-plant",d
-        "bananaplantdsc": "A short, wide plant, colloquially called the \"Banana Plant\" due to its mushy, yellow top. Very slippery to step on.",d
-        "plantiation": "Plantiation",d
-        "plantiationdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end."d
+        "bananaplant": "Plante-banane",
+        "bananaplantdsc": "Petite plante assez large, appelée communément « plante-banane » en raison de son apex jaune et visqueux. Elle est très glissante.",
+        "plantiation": "Plantiation",
+        "plantiationdsc": "Une grande plante de couleur violacée, avec un grand bulbe semi translucide à son extrémité."
     },
     "moodles": {
         "dead": "Mort",
@@ -533,10 +533,10 @@
         "cold2": "Froid",
         "cold3": "Hypothermie",
         "cold4": "Mourant de froid",
-        "wet1": "Damp",d
-        "wet2": "Wet",d
-        "wet3": "Soaked",d
-        "wet4": "Water-logged",d
+        "wet1": "Humide",
+        "wet2": "Mouillé",
+        "wet3": "Trempé",
+        "wet4": "Gorgé d'eau",
         "underweight1": "Insuffisance pondérale",
         "underweight2": "Maigre",
         "underweight3": "Malnutri",
@@ -661,10 +661,10 @@
         "cold2dsc": "Il fait désagréablement froid. Votre corps ralentit.",
         "cold3dsc": "Température dangereusement basse, le corps et l'esprit sont pris par le froid. Votre corps tout entier s'éteint lentement.",
         "cold4dsc": "Vous vous endormirez bientôt et ne vous réveillerez plus jamais. Bonne nuit.",
-        "wet1dsc": "Your fur feels slightly wet.",d
-        "wet2dsc": "Considerably wet. Temperature and comfort decreased.",d
-        "wet3dsc": "Dripping wet. Temperature and comfort considerably decreased.",d
-        "wet4dsc": "Completely drenched! The water is weighing you down. Temperature and comfort highly decreased.",d
+        "wet1dsc": "Votre fourrure est légèrement humide.",
+        "wet2dsc": "Plein d'eau. Diminution de la température et du confort.",
+        "wet3dsc": "De l'eau vous dégouline de partout. Température et confort considérablement diminués.",
+        "wet4dsc": "Complètement détrempé ! L'eau vous pèse. Température et confort fortement diminués.",
         "underweight1dsc": "Essayez de prendre un peu de poids.",
         "underweight2dsc": "Poids insuffisant par rapport à votre espèce. Plus faible que la normale. Capacité de charge réduite.",
         "underweight3dsc": "Vous êtes dangereusement maigre et frêle. Bien plus faible que d'habitude, sujet à l'épuisement et à la léthargie. Capacité de charge réduite.",
@@ -968,18 +968,18 @@
             "wallnotes": [
                 "Sérieusement, cet endroit est... bizarre. J'ai si peur. Il y a des araignées noires cheloues qui se terrent dans l'ombre, puis qui se jettent sur moi pour me mordre dès je les perds de vue... Je les hais. Elles ont l'affreuse manie de me faire d'horribles plaies qui s'infectent... Ça fait mal, mais la couleur bizarre de ma peau redevient normale après que j'y frotte ces fruits luisants qui poussent un peu partout. Tout n'est pas rose, mais au moins la nature sait nous doter d'antibiotiques.",
                 "La quantité de cadavres ici est terrifiante...- Ils ont envoyés tellement des nôtres mourir ici ! Je ne me souviens même plus comment j'ai atterri là... Je sais que j'ai reçu une fléchette, ou une seringue... Lorsque je me suis réveillé, j'ai réalisé que j'étais dans une capsule de survie, sur le point de décoller de notre labo en direction de cette espèce de petite placette grise...",
-                "Je suis pas le seul. On dirait que presque tout le monde qui à atterri ici est capable de connaître son état de santé dans sa tête, aussi... C'est très... Artificiel..? Je me souviens que l'un d'entre nous pouvait faire ça avant. Je me demande si ça vient d'une des puces qui nous ont injectés en secret.",
+                "Je suis pas le seul. On dirait que presque tout le monde qui à atterri ici est capable de connaître son état de santé dans sa tête, aussi... C'est très... Artificiel..? Je me souviens que l'un d'entre nous pouvait faire ça avant. Je me demande si ça vient d'une des puces qu'ils nous ont secrètement injectées.",
                 "Je vient de voir quelqu'un, au lointain, marcher sur un de ces pièges à pic... Il est mort sur le champ... Merde... Je suis horrifié. Je ne veux pas mourir ici... Si vous lisez ça, faites attention où vous mettez les pieds, partout, tout le temps, où que vous allez. Nous ne pouvons pas nous permettre de tous mourir ici.",
                 "J'ai enfin compris ! Si je prends une peu du sang rouge que je peux trouver parfois dans les caisses médicales qui traînent un peu partout, et que je l'asperge sur un terminal, la porte à coté s'ouvrira ! Ce sang est étrangement similaire à celui des capteurs qu'on avait au labo... Je me demande si ça vient d'eux ?",
                 "abandonnez tout espoir",
                 "Note à moi même: Apparemment, mon métabolisme n'est PAS destiné à endurer ce genre de scénario de survie. Je perds beaucoup de poids... Maintenant on dirait que j'ai la peau sur les os ! Je devrais vraiment manger plus souvent... Tu devrais faire pareil, toi qui lis ce message ! Bonne chance là-dehors.",
                 "J'ai décidé de faire un petit test gustatif des poches de sang que je trouve un peu partout... Le sang rouge bizarre a un goût... Métallique...? Et les poches qui contiennent de notre sang ont un goût très artificiel... Genre, chimique. Les deux m'ont rendu malade comme pas possible, mais j'imagine que je pourrais les utiliser si je suis vraiment affamé...?",
                 "Qu'est-ce qu'on fait là ? On nous retient entassés dans un laboratoire toute notre vie, on nous place des capteurs pour nous faire des tas de tests bizarres, tout ça juste... Pour qu'ils envoient des gens ici au hasard ? Vers leur mort...? Je ne veux pas mourir ici... Mes amis me manquent tellement là-bas...",
-                "The amount of random scattered buildings, crates and pods is... Odd, to say the least. Why are they sending so much random trash here? Why are they sending US here too..? I know we're sent to retrieve a \"critcal piece of cargo\", but... Why is it down here anyway? This is a completely different planet than our lab back home!",d
-                "The air here is cold... So much colder than the white plated labs we have back at home. It's pretty nice, actually! I don't like the heat. Better here than up there!",d
-                "I fell down really far... My leg is completely mangled, I think it's broken... Walking is really hard, I have to be careful with my movements as to not immediately collapse from agony... I don't know how much longer I can take this.",d
-                "I met up with someone here, and decided that we'll try to just go to the surface and escape this wretched cave... The moment they walked through one of those holes and went outside... They started behaving really odd... They collapsed and eventually lost their pulse... Something is out there. Something is preventing us from leaving. Is it our captors? Forcing us to stay here..?",d
-                "(There is a poorly made drawing of what looks like to be one of your captors, wearing a white lab suit and a tazer in hand. Their face is scratched out with a big X. The weapon brings back horrible memories.)"d
+                "Vraiment étrange tout ces bâtiments, toutes ces caisses et capsules éparpillées un peu partout... c'est le moins que l'on puisse dire. Pourquoi est-ce qu'ils envoient autant de déchets se disperser ici ? Et pourquoi ils nous envoient ici, NOUS aussi... ? Je sais qu'on est là pour récupérer une « cargaison de la plus haute importance », mais... Qu'est-ce que ça fait là, d'ailleurs ? C'est une planète complètement différente de notre laboratoire !",
+                "L'air est plutôt froid ici... Beaucoup plus froid que les labos blancs de chez nous, du moins. C'est plutôt agréable, en fait ! Je n'aime pas la chaleur. On est mieux ici que là-haut !",
+                "Je suis tombé de très haut... Ma jambe est complètement broyée, je crois qu'elle est cassée... Marcher est vraiment très dur, je dois faire attention à mes mouvements pour ne pas m'effondrer sous le coup de la douleur... Je ne sais pas combien de temps je vais encore pouvoir tenir.",
+                "J'ai rencontré quelqu'un ici, et nous avons décidé d'essayer de remonter à la surface pour fuir cette horrible grotte... Dès l'instant où il à franchi une des cavités qui menait à l'air libre... Il a commencé à se comporter bizarrement... Il s'est effondré et son cœur à cessé de battre... Il y a quelque chose dehors. Quelque chose nous empêche de partir. Est-ce que ce sont nos geôliers ? Qui nous empêchent de partir d'ici ?",
+                "(C'est un dessin enfantin de ce qui ressemble à l'un de vos geôliers, habillé d'une blouse blanche et un tazer à la main. Son visage est griffé d'un grand X. Son arme vous rappelle d'horribles souvenirs.)"
             ],
             "seeGravel": [
                 "Nous y voilà...",
@@ -2600,37 +2600,37 @@
                 "S'il te plaît, pars."
             ],
             "braindamaged": [
-                "I taste metal.",d
-                "Did I eat something metallic?",d
-                "I didn't know metal had a smell.",d
-                "There's a metal taste in my mouth...",d
-                "...Metal...?",d
-                "What     is  happening",d
-                "This      this  is    wrong .",d
-                "I'm smelling something REALLY weird...",d
-                "This isn't right. I feel a metallic taste...",d
-                "Nor something angrily nor blissfully few?",d
-                "An no one ourselves dry for invent by means of a most.",d
-                "Very Well! Dynamics two zero nine fourty-two thre two two eight two seven.",d
-                "Villa hastily the oho! Onto no one?",d
-                "Good! Certainty someone itself I urgently!",d
-                "For as oddly whom urgently him mate rats! Miner herself right on.",d
-                "Expand ptui!",d
-                "Travel truthfully deflation the improve which one another an a?",d
-                "I see shadows in my eyes...",d
-                "The colors of everything... It all tastes wrong...",d
-                "...Wh... ...What... Yeah... Yes!",d
-                "I smell copper.",d
-                "This smell does not smell possible...",d
-                "Si tir ti vucot svaklar si mi.",d
-                "The",d
-                "Ough! I taste metal... So much metal...",d
-                "Kovgam varmunch persvek sia narod!",d
-                "Since when does everything smell like this..?",d
-                "This tastes wrong. Very wrong... Am I sick..?",d
-                "Gh... Hh-h...",d
-                "What was that!?",d
-                "Am... Am I imagining things..?"d
+                "J'ai un goût de métal en bouche.",
+                "J'ai mangé quelque chose de métallique ?",
+                "Je savais pas que le métal avait une odeur.",
+                "Il y a un goût métallique dans ma bouche...",
+                "...Du métal... ?",
+                "Qu'est-ce        qui     m'arrive ?",
+                "Ça      c'est pas       normal.",
+                "Je sens une odeur VRAIMENT bizarre...",
+                "C'est pas bon. J'ai un goût métallique dans la bouche...",
+                "Ni quelque chose de fâché, ni de joyeux, juste... peu ?",
+                "Et personne nous, tout sec, pour inventer d'une manière... je sais pas...",
+                "Très bien ! Dynamique deux zéro neuf, quarante-deux, trois, deux, deux, huit, deux sept.",
+                "La villa, vite fait, l'oho ! Personne n'est là ",
+                "Bien ! Sûr que quelqu'un lui-même je... urgemment !",
+                "Pour qui, étrangement, urgemment lui, ami rats ! Mineur elle-même, droite sur...",
+                "Élargir, ptui !",
+                "Voyager... vérité, déflation, améliorer quoi... c'est quoi ce délire ?",
+                "Je vois des ombres dans mes yeux...",
+                "Toutes les couleurs... Elles ont toutes changé de goût...",
+                "...Que... ...Quoi... Ouais... Oui !",
+                "Je sens le cuivre.",
+                "Cette odeur, elle est impossible...",
+                "Si tir ti vucot svaklar si mi.",
+                "Les",
+                "Pouah ! J'ai un goût de métal... Tellement de métal...",
+                "Kovgam varmunch persvek sia narod !",
+                "Depuis quand tout se met à sentir bizarre ?",
+                "Ça a un goût étrange. Très étrange... Je suis malade ?",
+                "Gh... Hh-h...",
+                "C'était quoi ça !?",
+                "Je... J'imagine des trucs... ?"
             ]
         }
     ]
