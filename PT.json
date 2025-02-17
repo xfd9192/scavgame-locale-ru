@@ -438,9 +438,9 @@
         "soundcannon": "Canhão sonoro",
         "soundcannondsc": "Tampe seus ouvidos se ouvir ele carregando.",
         "trader": "Sobrevivente",
+        "traderdsc": "Você provavelmente poderia trocar alguns de seus itens com ele.",
         "bananaplant": "Banana-Planta",
         "bananaplantdsc": "Uma curta porém larga planta, coloquialmente chamada assim devido a sua cabeça amarela e mole. Muito escorregadia.",
-        "traderdsc": "Você provavelmente poderia trocar alguns de seus itens com ele.",
         "plantiation": "Plantastação",
         "plantiationdsc": "Um planta roxa, longa, com um bulbo semitransparente crescendo em seu extremo."
     },
@@ -771,7 +771,7 @@
         "middleback": "Costas centrais",
         "lowerback": "Costas inferiores",
         "volumewarning": "AVISO DE VOLUME",
-        "volumewarningtext": "Você pode experienciar sons MUITO altos nesta área.\nConsidere abaixar o volume um pouco. Ninguém quer machucar a audição. ",
+        "volumewarningtext": "Você pode experienciar sons MUITO altos nesta área.\nConsidere abaixar o volume um pouco. Ninguém quer machucar a audição.",
         "notetip": "Segure <> para ler",
         "runsettings": "Ajustes de tentativa",
         "looatmount": "Pilhagem",
@@ -857,9 +857,9 @@
         "speed1": "Normal",
         "speed2": "Rápido",
         "speed3": "Super rápido",
-        "napinfo": "(Incapaz de dormir se estiver passando mal)",
         "traded": "Trocado",
         "shifttoexpand": "Segure SHIFT para expandir",
+        "napinfo": "(Incapaz de dormir se estiver passando mal)",
         "controls": "A/D - Caminhar\n  Ande nas paredes para derrapar nelas\nEspaço - Pular\n  Você pode dar pulos de parede\nS - Agachar\n  Encaixe-se em buracos de 3 blocos de altura\n  Você pode agachar no meio do ar\nM1 - Mão principal\n  Atacar se estiver vazia\n  Usar certos itens\nM2 - Interagir\n  Arrastar itens\n  Abra o inventário e clicando\n  Usar itens no painel de saúde\n  Ver itens em contêineres\nR - Painel de saúde\nQ - Troca rápida pelas mãos\nT - Soltar item\n  Segure para tacar\n  Aponte sobre contêineres para manusear itens\n1/2/3 - Aceleração temporal\n  Use isso para se recuperar mais rápido\nX - Desalmar\n0 - Reinício rápido\n\nAponte sobre itens/efeitos de status para ver o que eles fazem/são",
         "tutexp1": "Outra sessão de treinamento...",
         "tutexp2": "Ãahamm...",
@@ -973,7 +973,6 @@
                 "Descobri! Se eu pegar um pouco daquele sangue vermelho que vem das caixa brancas que estão por aqui, e derramar em um daqueles terminais, a porta deles abre! Esse sangue é estranhamente parecido ao sangue que nossos captores tem, em casa... Será que são os mesmos?",
                 "abandone toda esperança",
                 "Nota pra mim: Aparentemente, Meu metabolismo NÃO foi feito para cenários de sobrevivência. Não paro de perder peso... pareço um palito agora! Eu realmente deveria me manter cheio com mais frequência... E você também, leitor aleatório! Boa sorte por ai.",
-                 
                 "Decidi testar o sabor dessas bolsas de sangue que fico achando... As vermelhas tem um gosto... Metálico? E aquelas com nosso sangue tem um sabor... Artificial..? Tipo produtos químicos. As duas me fizeram passar mal maaaass, eu acho que poderia usar elas como um último recurso. Eca...",
                 "Por que nós estamos aqui? Só pra sofrer? Ficamos num laboratório entupido de gente todas as nossas vidas, com  nossos captores fazendo testes estranhos em nós, só pra eles... Mandarem pessoas aleatórias aqui..? Para as suas mortes..? Eu não quero morrer aqui... Sinto saudades dos meus amigos lá emcima...",
                 "A quantidade de construções, caixas e cápsulas aleatórias é... Estranho. Por que tem tanto lixo aqui? E por que estão mandando NÓS aqui? Eu sei que é pra pegar um \"pedaço importante de carga\", mas... Por que aqui de qualquer jeito? Isso é um planeta completamente diferente do nosso laboratório lá em casa!",
@@ -981,7 +980,6 @@
                 "Eu cai muita altura... Minha perna tá completamente destruída, acho que tá quebrada... Andar é muito difícil, tenho que tomar cuidado com os meus movimentos pra não cair entrar em colapso por causa da dor... Eu não sei o quanto mais eu consigo.",
                 "Eu encontrei alguém lá emcima, e decidi que nós íamos só tentar voltar pra superfície e escapar dessa droga de caverna... Quando andaram por um dos buracos abertos pra sair daqui... Ele só... Morreu. Sem pulso. Tem algo lá fora. Algo que não nos deixa sair daqui. Nossos captores, talvez? Nos forçando a ficar aqui...",
                 "(A nota contém um desenho muito malfeito do que parece ser um de seus captores com um jaleco de laboratório e um taser na mão. Sua cara está com um enorme X e a arma te traz terríveis memórias. Dá pra ver que alguém nunca desenhou na vida.)"
-                 
             ],
             "seeGravel": [
                 "Chegamos...",
@@ -1144,8 +1142,8 @@
                 "Isso é estressante.",
                 "Uugh! Não! Eca!",
                 "Nojento!",
-                "Eu não queria comer isso.",
-                "Mas que PORRA Eu tô comendo!?!?"
+                "Eu não quero comer isso.",
+                "Mas que PORRA eu tô comendo!?!?"
             ],
             "refuseEat": [
                 "Eu não vou comer isso.",
@@ -1222,10 +1220,10 @@
             ],
             "confused": [
                 "O que que tá acontecendo...?",
-                "Augh...",
+                "Ough...",
                 "Estou confuso...",
                 "Onde estou...?",
-                "Oough...",
+                "Augh...",
                 "Minha cabeça...",
                 "Eu vou desmaiar...",
                 "Uugh... Cabeça... dodói...",
@@ -1566,7 +1564,7 @@
                 "Porque que eu tô aqui?",
                 "Por que eu?",
                 "É meio solitário aqui.",
-                "SInto falta de companhia.",
+                "Sinto falta de companhia.",
                 "Queria ter alguém comigo.",
                 "Me sinto sozinho.",
                 "Queria poder achar um companheiro...",
