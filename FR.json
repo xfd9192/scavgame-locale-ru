@@ -747,11 +747,11 @@
         "grass": "Verdure",
         "log": "Bûche",
         "leaves": "Feuilles",
-        "water": "Water",d
+        "water": "Eau",
         "waterdsc": "Slightly dirty groundwater. Mostly safe to drink, though slightly sickening.",d
-        "algae": "Lumalgae",d
+        "algae": "Lumi-algue",
         "algaedsc": "Water with dense, bioluminescent algae growing in it. Very buoyant.",d
-        "oil": "Oil",d
+        "oil": "Pétrole",
         "oildsc": "A thick, black tar. Difficult to move through.",d
         "liquiddescription": "Crouch and stand still to drink",d
         "Head": "Tête",
@@ -785,7 +785,7 @@
         "CrusBShort": "Tibia",
         "FootBShort": "Pied",
         "experiment": "Expérience",
-        "clicktocontinue": "Click to continue...",d
+        "clicktocontinue": "Cliquez pour continuer...",
         "mainhand": "Main principale",
         "secondaryhand": "Main secondaire",
         "mouth": "Bouche",
@@ -825,9 +825,9 @@
         "conditionloss": "% consumé/minute",
         "decaysin": "Decays in <>",d
         "decaysinused": "Decays in <> when used",d
-        "hours": " hours",d
-        "minutes": " minutes",d
-        "seconds": " seconds",d
+        "hours": " heures",
+        "minutes": " minutes",
+        "seconds": " secondes",
         "containerlarge": "Peut stocker de gros objets",
         "containerencumberance": "Réduction de l'encombrement",
         "weight": "Poids",
