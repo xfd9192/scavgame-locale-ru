@@ -282,6 +282,8 @@
         "bellyarmordsc": "Un gros morceau de métal, conçu pour être attaché à votre abdomen. Offre une excellente protection et une certaine isolation.",
         "belt": "Ceinture",
         "beltdsc": "Une ceinture en cuir à passer sur le ventre. On peut y attacher quelque chose.",
+        "spacedrain": "Space-drain",d
+        "spacedraindsc": "Using advanced teleportation technology, it can drain liquids away from you on use. No one really knows where the lost matter goes... Not like that's your problem, though. Automatically recharges.",d
         "hoodie": "Hoodie",
         "hoodiedsc": "Un sweat à capuche noir, très grand, qui tient bien chaud et qui a une petite poche.",
         "metabolismchip": "Puce métabolique",
@@ -322,8 +324,14 @@
         "chestdraindsc": "Utilisé pour drainer les liquides du thorax. Réduit les hémothoraces, réutilisable après un certain temps. Utilisable uniquement sur la poitrine.",
         "tweezers": "Pince à épiler",
         "tweezersdsc": "Une simple paire de pincettes en métal. Peut enlever proprement et sans douleur le shrapnel dans la peau.",
+        "icepack": "Ice pack",d
+        "icepackdsc": "A cold bag filled with self-cooling refrigerant gel. Speeds up muscle healing, reduces pain and cools you down slightly. Automatically cools itself over time.",d
+        "scubadivinggear": "Advanced scuba diving gear",d
+        "scubadivinggeardsc": "Lets you indefinitely breathe and regenerate stamina underwater, makes you move faster in liquids and dries you out quickly after resurfacing. The pool floaties are retrofitted.",d
+        "filterstraw": "Filter straw",d
+        "filterstrawdsc": "Can be used to safely drink groundwater and reduce the health impact of other liquids when held in the main hand.",d
         "wrench": "Clé à molette",
-        "wrenchdsc": "Un outil qui offre une prise solide et un effet de levier pour exercer un moment sur des objets. Peut être utilisé sur des membres luxés pour les replacer plus efficacement qu'à mains nues..",
+        "wrenchdsc": "Un outil qui offre une prise solide et un effet de levier pour exercer un moment sur des objets. Peut être utilisé sur des membres luxés pour les replacer plus efficacement qu'à mains nues.",
         "bruisekit": "Kit de soin",
         "bruisekitdsc": "Un ensemble de médicaments et autres remèdes, conçu pour favoriser la guérison musculaire. Améliore la santé musculaire/cutanée et traite efficacement les luxations. N'affecte pas les saignements.",
         "medicalsuture": "Suture médicale",
@@ -332,6 +340,8 @@
         "tourniquetdsc": "Lorsqu'utilisé, stoppe la circulation sanguine sur le membre où il est appliqué. Interrompt tous les saignements là où la circulation est arrêtée (ne soigne pas réellement la plaie). Doit être retiré manuellement après un certain temps, car il provoque des douleurs et prive le membre d'oxygène. Réutilisable.",
         "browncap": "Bolet brun",
         "browncapdsc": "Il n'est pas clair de quel type de champignon il s'agit. Pour autant que vous le sachiez, il pourrait tout aussi bien guérir vos blessures que vous tuer sur-le-champ.",
+        "sneakers": "Sneakers",d
+        "sneakersdsc": "A pair of white sneakers, that are not at all made to go over your paws. If you manage to somehow squish your feet in them, provides protection from glass shards.",d
         "purpleherb": "Herbe violette",
         "purpleherbdsc": "Une feuille violette très sèche à la texture rugueuse. Couramment utilisée pour soulager certaines afflictions, elle aide à lutter contre les maladies, atténue légèrement la perte d'audition et aide à soigner les hémorragies internes. Utiliser avec précaution : sa consommation a tendance à augmenter fortement la température corporelle.",
         "bulbskin": "Membrane de bulbe",
@@ -441,6 +451,10 @@
         "traderdsc": "Vous pourriez peut-être faire affaire avec.",
         "bananaplant": "Plante-banane",
         "bananaplantdsc": "Petite plante assez large, appelée communément « plante-banane » en raison de son apex jaune et visqueux. Elle est très glissante.",
+        "geyser": "Geyser",d
+        "geyserdsc": "An unstable geyser with a tendency to shoot out water. Luckily, it's room temperature at worst.",d
+        "oilpipe": "Waste pipe",d
+        "oilpipedsc": "A rusty pipe with a dark tar pouring from it. You don't want to look inside... Will probably flood the area given enough time.",d
         "plantiation": "Plantiation",
         "plantiationdsc": "Une grande plante de couleur violacée, avec un grand bulbe semi translucide à son extrémité."
     },
@@ -733,6 +747,13 @@
         "grass": "Verdure",
         "log": "Bûche",
         "leaves": "Feuilles",
+        "water": "Water",d
+        "waterdsc": "Slightly dirty groundwater. Mostly safe to drink, though slightly sickening.",d
+        "algae": "Lumalgae",d
+        "algaedsc": "Water with dense, bioluminescent algae growing in it. Very buoyant.",d
+        "oil": "Oil",d
+        "oildsc": "A thick, black tar. Difficult to move through.",d
+        "liquiddescription": "Crouch and stand still to drink",d
         "Head": "Tête",
         "UpTorso": "Thorax",
         "DownTorso": "Abdomen",
@@ -764,6 +785,7 @@
         "CrusBShort": "Tibia",
         "FootBShort": "Pied",
         "experiment": "Expérience",
+        "clicktocontinue": "Click to continue...",d
         "mainhand": "Main principale",
         "secondaryhand": "Main secondaire",
         "mouth": "Bouche",
@@ -772,7 +794,7 @@
         "lowerback": "Bas du dos",
         "volumewarning": "AVERTISSEMENT SUR LE VOLUME",
         "volumewarningtext": "Il est possible que vous rencontriez des sons TRÈS forts dans ce niveau.\nPensez à baisser un peu le volume. Personne ne veut endommager son ouïe.",
-        "notetip": "Maintenir <> pour lire",
+        "notetip": "Appuyez sur <> pour lire",
         "runsettings": "Paramètres de la partie",
         "looatmount": "Qté. de collectibles",
         "trapamount": "Qté. de pièges",
@@ -801,6 +823,11 @@
         "containermaxweightperitem": "Poids max/objet",
         "containerconditionloss": "% consumé/minute lorsque'appliqué",
         "conditionloss": "% consumé/minute",
+        "decaysin": "Decays in <>",d
+        "decaysinused": "Decays in <> when used",d
+        "hours": " hours",d
+        "minutes": " minutes",d
+        "seconds": " seconds",d
         "containerlarge": "Peut stocker de gros objets",
         "containerencumberance": "Réduction de l'encombrement",
         "weight": "Poids",
@@ -812,7 +839,7 @@
         "itemonlyinhands": "Peut seulement être tenu à la main",
         "itemwearable": "Emplacement d'usage:",
         "itemwearableprotection": "Protection:",
-        "itemwearabletemperature": "Gain de température:",
+        "itemwearableisolation": "Isolation:",d
         "itemvalue": "Valeur marchande: ",
         "use": "Utiliser",
         "grab": "Attraper",
@@ -860,7 +887,6 @@
         "traded": "Échangé",
         "shifttoexpand": "Maintenez Maj pour développer",
         "napinfo": "(Impossible de dormir si vous avez mal ou si vous êtes très malade)",
-        "controls": "A/D - Se déplacer\n  Foncez contre les murs pour glisser le long de ceux-ci\nEspace - Sauter\n  Vous pouvez faire des sauts muraux\nS - S'accroupir\n  Vous pouvez vous faufiler dans 3 blocs d'espace\n  Vous pouvez vous accroupir en l'air\nClic gauche - Main principale\n  Frappe si non équipé\n  Utiliser certains objets\nClic droit - Interagir\n  Faites glisser les objets\n  Cliquez sur vous pour ouvrir l'inventaire\n  Utilisez vos objets sur le moniteur de santé\n  Voir le contenu des emplacements\nR - Moniteur de santé\nQ - Changer de main\nT - Lâcher l'objet\n  Maintenir pour jeter\n  Survolez un emplacement pour ranger rapidement les objets\n1/2/3 - Passer le temps\n  Utiliser pour passer la douleur/la fatigue etc.\nX - Ragdoll\n0 - Redémarrage rapide\n\nSurvolez les objet/statuts pour voir ce qu'ils font",
         "tutexp1": "Encore un autre entraînement.",
         "tutexp2": "Mhm...",
         "tutexp3": "Le nombre de trucs qu'ils s'évertuent à nous rabâcher est inquiétant...",
@@ -877,7 +903,7 @@
         "tut6": "---",
         "tut7": "Vous pouvez transporter quelques objets à la fois. La plupart des interactions se font avec (CLIC DROIT).",
         "tut8": "(CLIC DROIT) sur votre corps pour ouvrir l'inventaire. Glissez-moi dehors avec (CLIC DROIT) pour me lâcher et poursuivre.",
-        "tut8b": "Vous pouvez fermer l'inventaire en utilisant (CLIC GAUCHE), (CLIC DROIT) hors du menu, ou en glissant un objet au bord de l'écran.",
+        "tut8b": "Vous pouvez fermer l'inventaire en utilisant (CLIC DROIT) hors du menu, (TAB), ou en glissant un objet au bord de l'écran.",
         "tut9": "(CLIC DROIT) sur moi et glissez-moi sur vous, puis un emplacement. Équipez moi dans votre main principale.",
         "tut10": "La plupart des objets s'utilisent dans l'inventaire. Glissez-moi au milieu pour m'utiliser. Utilisez-moi pour poursuivre.",
         "tut11": "Vous pouvez échanger les objets dans vos mains en appuyant sur (Q).",
@@ -959,8 +985,10 @@
         "hplimbpain": "Douleur de membre",
         "hplimbbleed": "Membre saignant",
         "hpopiate": "Quantité d'opiacés",
-        "keybings": "Contrôles",
-        "reloadbinds": "Recharger les contrôles",
+        "keybinds": "Contrôles",
+        "resetkeybinds": "Reset to default",d
+        "reloadbinds": "Recharger les contrôles\n(Check for changes)",d
+        "startlorenote": "Year 2XXX \n<>\nHumanity has technologically progressed to a significant extent. \n<>\nOne corporation began to put research into bio-engineering, combining animal and human DNA. \n<>\nThis lead to their creation of the Experiment species, along with dozens of later offshoots. \n<>\nAfter years of unethical private testing in labs, they set their sights on something bigger. \n<>\nThey knew of a gray planet with thriving flora, fauna and an easy space travel path. \n<>\nSoon, thousands of specimens, buildings and miscellaneous cargo were sent. \n<>\nWhile most cargo shipped correctly, a large amount was mistakenly sent to the planet's expansive cave network due to a miscalibration error. \n<>\nThis includes a mistakenly sent piece of important experimental technology, which now sat deep in the underground systems, without an easy way to get it back. \n<>\nThis, however, was seen as an opportunity by the scientists to do more behavioural research by sending thousands of specimens down to retrieve the lost tech. \n<>\nThe chance of it working were low, but shipment is cheap and their breathing fodder is plenty. \n<>\nYou are one unlucky specimen.\nResistance is not an option.",d
         "jsonthing": "hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :)"
     },
     "character": [
@@ -968,7 +996,7 @@
             "wallnotes": [
                 "Sérieusement, cet endroit est... bizarre. J'ai si peur. Il y a des araignées noires cheloues qui se terrent dans l'ombre, puis qui se jettent sur moi pour me mordre dès je les perds de vue... Je les hais. Elles ont l'affreuse manie de me faire d'horribles plaies qui s'infectent... Ça fait mal, mais la couleur bizarre de ma peau redevient normale après que j'y frotte ces fruits luisants qui poussent un peu partout. Tout n'est pas rose, mais au moins la nature sait nous doter d'antibiotiques.",
                 "La quantité de cadavres ici est terrifiante...- Ils ont envoyés tellement des nôtres mourir ici ! Je ne me souviens même plus comment j'ai atterri là... Je sais que j'ai reçu une fléchette, ou une seringue... Lorsque je me suis réveillé, j'ai réalisé que j'étais dans une capsule de survie, sur le point de décoller de notre labo en direction de cette espèce de petite placette grise...",
-                "Je suis pas le seul. On dirait que presque tout le monde qui à atterri ici est capable de connaître son état de santé dans sa tête, aussi... C'est très... Artificiel..? Je me souviens que l'un d'entre nous pouvait faire ça avant. Je me demande si ça vient d'une des puces qu'ils nous ont secrètement injectées.",
+                "Je suis pas le seul. On dirait que presque tout le monde qui à atterri ici est capable de connaître son état de santé dans sa tête, aussi... C'est très... Artificiel...? Je me souviens que l'un d'entre nous pouvait faire ça avant. Je me demande si ça vient d'une des puces qu'ils nous ont secrètement injectées.",
                 "Je vient de voir quelqu'un, au lointain, marcher sur un de ces pièges à pic... Il est mort sur le champ... Merde... Je suis horrifié. Je ne veux pas mourir ici... Si vous lisez ça, faites attention où vous mettez les pieds, partout, tout le temps, où que vous allez. Nous ne pouvons pas nous permettre de tous mourir ici.",
                 "J'ai enfin compris ! Si je prends une peu du sang rouge que je peux trouver parfois dans les caisses médicales qui traînent un peu partout, et que je l'asperge sur un terminal, la porte à coté s'ouvrira ! Ce sang est étrangement similaire à celui des capteurs qu'on avait au labo... Je me demande si ça vient d'eux ?",
                 "abandonnez tout espoir",
@@ -979,7 +1007,18 @@
                 "L'air est plutôt froid ici... Beaucoup plus froid que les labos blancs de chez nous, du moins. C'est plutôt agréable, en fait ! Je n'aime pas la chaleur. On est mieux ici que là-haut !",
                 "Je suis tombé de très haut... Ma jambe est complètement broyée, je crois qu'elle est cassée... Marcher est vraiment très dur, je dois faire attention à mes mouvements pour ne pas m'effondrer sous le coup de la douleur... Je ne sais pas combien de temps je vais encore pouvoir tenir.",
                 "J'ai rencontré quelqu'un ici, et nous avons décidé d'essayer de remonter à la surface pour fuir cette horrible grotte... Dès l'instant où il à franchi une des cavités qui menait à l'air libre... Il a commencé à se comporter bizarrement... Il s'est effondré et son cœur à cessé de battre... Il y a quelque chose dehors. Quelque chose nous empêche de partir. Est-ce que ce sont nos geôliers ? Qui nous empêchent de partir d'ici ?",
-                "(C'est un dessin enfantin de ce qui ressemble à l'un de vos geôliers, habillé d'une blouse blanche et un tazer à la main. Son visage est griffé d'un grand X. Son arme vous rappelle d'horribles souvenirs.)"
+                "(C'est un dessin enfantin de ce qui ressemble à l'un de vos geôliers, habillé d'une blouse blanche et un tazer à la main. Son visage est griffé d'un grand X. Son arme vous rappelle d'horribles souvenirs.)",
+                "This place can get pretty cold at times, especially if I get wet... I have to constantly occupy myself with physical work to stay warm. It's a harsh existence...",d
+                "Fuck... Be careful around the pools here, especially if they're deep... Swimming can be pretty exhausting, I almost drowned in one of these water reservoirs after getting knocked into it by the current. Spilling them can be useful, just need to be more careful.",d
+                "I fucking love fentanyl, man. My life was so shit before I got here... Stuck in those stingy white labs... Once I got was sent here and provided with some of these opiates, everything has been soooooo much better... I just... Wish I could find more...",d
+                "I need to stop getting stuck in places without a light on me. Even those glowy plants do the job... My eyes aren't nearly good enough to light up the area around me. My now missing left hand learned the hard way. I don't know how I'm still alive.",d
+                "Everything hurts.",d
+                "I overheard a little bit from a conversation between our captors... Apparently the cargo we're retrieving is some kind of \"advanced energy source\". Something about... Storing a large amount of power, and being able to distribute it... Wirelessly? I'm not sure what any of that even means... Maybe one of you will know more.",d
+                "No no no no no. Help. Help me. Please. If someone comes across this... I'm hit... I can't stop the bleeding... I'm scared, I'm so weak. Please...",d
+                "I can do it. I can finally do it. I have waited my entire life for this, but the time has finally come. I have everything I need to do it. I... I'm equipping my Green Aura.",d
+                "The distribution of races here seems very disproportional. The experiments are everywhere, but other species like me seem to be much lesser in numbers... Quite odd. I dislike the amount of casualties here. More of us need to be helped.",d
+                "An amalgamation of a \"Human, Fox and a rat\"... What does that mean? What even are all of those? I overheard us being called that by our captors... How much is there that's kept from us? The thought scares me... I've never really considered the possibility of there being anything outside where we were raised. And now I'm here... I wish I could wrap my head around... All of this.",d
+                "What the fuck are you guys doing??? Why are you sending out so many of our fucking neccesary supplies to this dry ass ball of gravel? This planet that, as far as I know, has no fucking oceans or anything on it??? We NEEDED those fucking snorkels... Our clients have been waiting for so long for those things... What is our management doing??? I fucking hate this job. I'm filing a report. If you send the fax machine too, I'm going to Track You Down.\n\n(There is a miniature fax machine attached to the paper)"d
             ],
             "seeGravel": [
                 "Nous y voilà...",
@@ -1321,7 +1360,7 @@
                 "Beurk... c'était... horrible...",
                 "C'était MON DÎNER ça.",
                 "Bleuargh... berk...",
-                "Euurgh.. dégueu...",
+                "Euurgh... dégueu...",
                 "Je me sens... beurk... vidé...",
                 "Beuuargh... *hic*... mon ventre...",
                 "Euurgh... je suis... trop malade...",
@@ -1350,7 +1389,7 @@
                 "Euurgh... Au secours... Je viens de vomir du sang...",
                 "J'arrive pas à y croire... Est-ce que je... viens de vomir du sang...",
                 "Beuuargh... ouuuh... C'est... grave...",
-                "Je suis si faible.. beurk... C'était... Très bizarre...",
+                "Je suis si faible... beurk... C'était... Très bizarre...",
                 "...beurk... dégueu- ...Du sang. C'est du sang. Je viens de vomir du sang. Oh non. Oh NON.",
                 "P... Putain... berk... Du sang... C'est pas bon signe...",
                 "Wow... je viens... de vomir... ...Du sang ? ..Hein ?",
@@ -1441,7 +1480,7 @@
                 "J'ai soif !.",
                 "Besoin d'eau.",
                 "Il me faut de l'eau.",
-                "Je veux boire..",
+                "Je veux boire.",
                 "J'ai la bouche sèche.",
                 "Un verre d'eau me ferait du bien.",
                 "J'ai la bouche un peu pâteuse.",
@@ -1764,7 +1803,7 @@
                 "Je serai plus utile en pourrissant au sol. Ma vie s'est arrêtée dès qu'on m'a envoyé ici. Adieu.",
                 "Voilà pour TOUT ! C'EST FINI ! AAAHHHH ! ALLEZ TOUS VOUS FAIRE FOUTRE !",
                 "Je... Juste... J'en peux plus. Pas le temps pour les lettres d'adieu. J'en peux plus de tout ça. À jamais.",
-                "S...sans rancune... hein ?.. hah... Je suis... Je suis si fatigué... B-bonne nuit...",
+                "S...sans rancune... hein ?... hah... Je suis... Je suis si fatigué... B-bonne nuit...",
                 "J'en peux plus. C'est fini. Adieu. Ciao. Allez vous faire foutre.",
                 "Y'a jamais eu d'espoir. PUTAIN. De. Merde. JE ME CASSE ! FOUTEZ-MOI LA PAIX ! JE LAISSERAI PAS CET ENDROIT PRENDRE MA VIE !",
                 "Regaaaarde ça... Hahahah... Je dis adieu à ce putain d'univers... Je quitte ce monde... C'est... Soulageant...",
@@ -1877,7 +1916,7 @@
                 "Pourquoi... Pourquoi moi... J'ai... Besoin d'aide...",
                 "MERDE ! MERDE ! UN BANDAGE !",
                 "AU SECOURS ! JE... Saigne... Pitié...",
-                "C'est... C'est ça mes derniers instants..?",
+                "C'est... C'est ça mes derniers instants...?",
                 "Concentre toi... Concentre toi... Tu peux le faire...",
                 "Je peux arranger ça... Allez... Putain...",
                 "C'est un... putain... de cauchemar...",
@@ -2051,7 +2090,7 @@
                 "Je veux plus jamais faire ça...",
                 "J'ai du sang partout... Beurk...",
                 "C'était l'un des nôtres...",
-                "Étais-je OBLIGÉ de faire ça..? D-dégueu..."
+                "Étais-je OBLIGÉ de faire ça...? D-dégueu..."
             ],
             "cold": [
                 "Il fait froid par ici.",
@@ -2260,7 +2299,7 @@
                 "Euh... Je m'sens... bizarre là.",
                 "Ohh... la redescente... Je suis crevé.",
                 "Ça se dissipe tout d'un coup... purée...",
-                "Ça se dissipe... J'aimerais ne jamais redescendre..",
+                "Ça se dissipe... J'aimerais ne jamais redescendre...",
                 "Je crois que je reviens à mon état normal...",
                 "Je me sens. moins bien. qu'avant."
             ],
@@ -2472,11 +2511,22 @@
                 "!!!!!!!!",
                 "AAAAAAAHHHH !!!!!"
             ],
-            "tickendnodisinfectant": [
-                "C'était horrible... Je devrais toujours avoir du désinfectant sur moi.",
-                "Bordel... Je devrais vraiment avoir du désinfectant la prochaine fois.",
-                "Plus jamais. Plus jamais. Je dois éviter ça la prochaine fois.",
-                "Merde... Il me faut un antiseptique si ça se reproduit."
+            "wet": [
+                "I'm drenched...",d
+                "I'm soaked!",d
+                "I'm completely drenched.",d
+                "Eugh! There's water on my fur...",d
+                "I'm so wet... Ugh...",d
+                "I'm covered in water!",d
+                "I am MOIST.",d
+                "I'm uncomfortably wet...",d
+                "I'm dripping wet.",d
+                "I hate this wet feeling.",d
+                "Let's not get drenched next time...",d
+                "My fur's all wet and sticky...",d
+                "Very damp in here.",d
+                "Way too moist in here!",d
+                "Get this water off of my skin."d
             ],
             "watchlike": [
                 "Je suis content d'avoir cette montre. C'est rassurant."
@@ -2540,7 +2590,7 @@
             "traderdepressed": [
                 "...Euh... ...Ça va ? Tu as l'air un peu... Contrarié...?",
                 "...Pas un bonjour ni rien...? Po... Pourquoi tu me regardes comme ça...",
-                "...? ...Euh... ...Salut..? ...T'es là dedans..?",
+                "...? ...Euh... ...Salut...? ...T'es là dedans...?",
                 "...Tu as l'air terrifié. Ça va ? Salut...?",
                 "Hey ! Comment va tuuuuuuu......tu n'as pas l'air en forme, mon pote... Hm...",
                 "Hé ! ...C'est quoi ce regard noir ? Euh..."
@@ -2553,7 +2603,7 @@
             ],
             "tradeehurt": [
                 "Aidez-moi, s'il vous plaît.",
-                "Vous avez des médocs..?",
+                "Vous avez des médocs...?",
                 "Du sparadrap, s'il vous plaît.",
                 "Je saigne, j'ai besoin d'aide... ...S'il vous plaît."
             ],
