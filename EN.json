@@ -326,6 +326,12 @@
         "tweezersdsc": "A simple pair of metal tweezers. Can cleanly and painlessly remove shrapnel from limbs.",
         "icepack": "Ice pack",
         "icepackdsc": "A cold bag filled with self-cooling refrigerant gel. Speeds up muscle healing, reduces pain and cools you down slightly. Automatically cools itself over time.",
+        "armwarmers": "Arm warmers",
+        "armwarmersdsc": "A pair of blue arm warmers. Provides some insulation against the cold.",
+        "tornshirt": "Torn shirt",
+        "tornshirtdsc": "An old, torn blue shirt. Provides a small bit of protection and insulation.",
+        "mindwipe": "Mindwipe",
+        "mindwipedsc": "A specially synthetised drug which completely wipes the brain of most of its memories and past traumas, leaving only a blank emotionless vessel with basic knowledge and survival instincts. Commonly used as a last resort on subjects which are too far gone to function or are at risk of suicide. The effect is permanent without extensive rehabilitation. Use as a last resort.",
         "scubadivinggear": "Advanced scuba diving gear",
         "scubadivinggeardsc": "Lets you indefinitely breathe and regenerate stamina underwater, makes you move faster in liquids and dries you out quickly after resurfacing. The pool floaties are retrofitted.",
         "filterstraw": "Filter straw",
@@ -586,6 +592,7 @@
         "irradiated4": "Chernobyl wannabe",
         "energized": "Energized",
         "hemothorax": "Hemothorax",
+        "hollow": "Hollow",
 
         "deaddsc": "Permanent, irreversible, and complete loss of brain function. You have left this world behind, alike the rest.",
         "braindamage4dsc": "...",
@@ -713,7 +720,8 @@
         "irradiated3dsc": "Horribly sick and aching all over. Breathing and thinking is extremely difficult. You feel abhorrent.",
         "irradiated4dsc": "Not going gently into that goodnight.",
         "energizeddsc": "Stamina loss and fatigue decreased by substances (<>).",
-        "hemothoraxdsc": "Blood is accumulating in the pleural cavity due to internal bleeding. Your chest hurts... Treatment needed."
+        "hemothoraxdsc": "Blood is accumulating in the pleural cavity due to internal bleeding. Your chest hurts... Treatment needed.",
+        "hollowdsc": ""
     },
     "other": {
         "layertitle1": "Gravel lands",
@@ -810,6 +818,7 @@
         "unchippeddsc": "No health info brainchip",
         "notforbeginners": "Bonus mode - not recommended for beginners",
         "startrun": "Start run",
+        "quit": "Quit",
         "resettodefault": "Reset to default",
         "inventorytip": "Main hand (LMB to use, T to throw, Q to switch):",
         "inventorymain": "On you:",
@@ -839,7 +848,7 @@
         "itemonlyinhands": "Can only hold in hands",
         "itemwearable": "Wearable slot:",
         "itemwearableprotection": "Protection:",
-        "itemwearableisolation": "Isolation:",
+        "itemwearableisolation": "Insulation:",
         "itemvalue": "Trade value: ",
         "use": "Use",
         "grab": "Grab",
