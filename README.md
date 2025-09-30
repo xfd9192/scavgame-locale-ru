@@ -1,4 +1,4 @@
-Обновленная версия первевода scav prototype на Русский язык.
+Обновленная версия первевода игры scav prototype на Русский язык.
 
 # Scavenge Game Locale
 Localization files for the "Scavenge Game" by Orsoniks.
